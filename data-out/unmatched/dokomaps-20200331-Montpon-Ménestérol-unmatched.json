@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          0.1455031,
+          45.006943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -1,
+        "osm_type": "node",
+        "ref_id": "1",
+        "note:address": "Avenue Georges Pompidou Route de Bordeaux, 24700 Montpon-Ménestérol, France",
+        "note:city": "Montpon-Ménestérol",
+        "note:name": "Intermarché HYPER Montpon-Menesterol et Drive"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.1406245,
+          45.006844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -2,
+        "osm_type": "node",
+        "ref_id": "2",
+        "note:address": "7 Route de Villefranche, 24700 Montpon-Ménestérol, France",
+        "note:city": "Montpon-Ménestérol",
+        "note:name": "Lidl"
+      },
+      "type": "Feature"
+    }
+  ]
+}

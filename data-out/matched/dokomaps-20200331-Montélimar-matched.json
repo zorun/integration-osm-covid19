@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          4.7513692,
+          44.5554068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6542888674,
+        "osm_type": "node",
+        "ref_coords": [
+          4.7514033,
+          44.55542
+        ],
+        "ref_distance": 3.1,
+        "ref_id": "6",
+        "t.brand": "Carrefour City",
+        "t.brand:wikidata": "Q2940187",
+        "t.brand:wikipedia": "fr:Carrefour City",
+        "t.name": "Carrefour City",
+        "t.operator": "Groupe Carrefour",
+        "t.operator:wikidata": "Q3117359",
+        "t.operator:wikipedia": "fr:Groupe Carrefour",
+        "t.shop": "supermarket",
+        "note:address": "4 Boulevard Meynot, 26200 Montélimar, France",
+        "note:city": "Montélimar",
+        "note:comment": "Horaires exceptionnels: \nLundi au Samedi de 7h à 19h30 \nDimanche de 9h à 12h30",
+        "note:name": "Carrefour City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.7377556,
+          44.556168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 74403022,
+        "osm_type": "way",
+        "ref_coords": [
+          4.7377353,
+          44.556107
+        ],
+        "ref_distance": 7,
+        "ref_id": "3",
+        "t.brand": "Géant Casino",
+        "t.brand:wikidata": "Q1380537",
+        "t.building": "yes",
+        "t.name": "Géant Casino",
+        "t.opening_hours": "Mo-Sa 08:30-20:30",
+        "t.operator": "Casino",
+        "t.shop": "supermarket",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "note:address": "24 Avenue John Kennedy, 26200 Montélimar, France",
+        "note:city": "Montélimar",
+        "note:comment": "Pas de changement au niveau des horaires d'ouverture pour le moment",
+        "note:name": "Géant Casino"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.769527,
+          44.5518552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 74737390,
+        "osm_type": "way",
+        "ref_coords": [
+          4.7696548,
+          44.551815
+        ],
+        "ref_distance": 11.1,
+        "ref_id": "5",
+        "t.brand": "Carrefour Market",
+        "t.brand:wikidata": "Q2689639",
+        "t.brand:wikipedia": "fr:Carrefour Market",
+        "t.building": "yes",
+        "t.name": "Carrefour Market",
+        "t.operator": "Groupe Carrefour",
+        "t.operator:wikidata": "Q3117359",
+        "t.operator:wikipedia": "fr:Groupe Carrefour",
+        "t.shop": "supermarket",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "note:address": "Route de Dieulefit, 26200 Montélimar, France",
+        "note:city": "Montélimar",
+        "note:comment": "Pas de changement au niveau des horaires d'ouverture pour le moment",
+        "note:name": "Market"
+      },
+      "type": "Feature"
+    }
+  ]
+}

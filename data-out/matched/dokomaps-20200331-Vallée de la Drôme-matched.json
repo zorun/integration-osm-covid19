@@ -1,0 +1,759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.1343798,
+          44.5873918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1914277166,
+        "osm_type": "node",
+        "ref_coords": [
+          5.134378,
+          44.587383
+        ],
+        "ref_distance": 1,
+        "ref_id": "63",
+        "t.name": "Panier Sympa",
+        "t.opening_hours": "Mo 07:00-12:45; Tu-Sa 07:00-12:45,15:00-19:45; We off; Su 08:00-12:45",
+        "t.phone": "+33475969283",
+        "t.shop": "convenience",
+        "t.website": "https://fr-fr.facebook.com/paniersympaBourdeaux/",
+        "t.wheelchair": "limited",
+        "note:address": "Buffières, 26460 Bourdeaux, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Ouvert tous les jours sauf dimanche et lundi après-midis",
+        "note:name": "Panier Sympa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0172793,
+          44.7294888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5343911373,
+        "osm_type": "node",
+        "ref_coords": [
+          5.01728,
+          44.729507
+        ],
+        "ref_distance": 2,
+        "ref_id": "89",
+        "t.name": "L'Epicerie Nouvelle",
+        "t.opening_hours": "Mo-Sa 07:30-12:30; Mo-Sa 14:30-19:00",
+        "t.organic": "only",
+        "t.phone": "+33 4 75 83 19 43",
+        "t.shop": "supermarket",
+        "t.website": "http://epicerienouvelle.com/",
+        "note:address": "Rue Edouard Branly, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "A compter du 24 mars fermeture à 18h le soir.\nPuis à compter du 30 mars ouvert de 8h30 à 12h30",
+        "note:name": "Epicerie nouvelle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8332805,
+          44.7785327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 106061980,
+        "osm_type": "way",
+        "ref_coords": [
+          4.833251,
+          44.77853
+        ],
+        "ref_distance": 2.4,
+        "ref_id": "33",
+        "t.brand": "Lidl",
+        "t.brand:wikidata": "Q151954",
+        "t.brand:wikipedia": "fr:Lidl",
+        "t.building": "retail",
+        "t.name": "Lidl",
+        "t.shop": "supermarket",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "note:address": "18 Rue Jean Giono, 26250 Livron-sur-Drôme, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Du lundi au vendredi de 8h30 à 19h et samedi de 8h30 à 19h30",
+        "note:name": "Lidl Avenue Albert Mazade"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0897166,
+          44.711062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2410856471,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0896926,
+          44.71104
+        ],
+        "ref_distance": 3.1,
+        "ref_id": "72",
+        "t.addr:city": "Mirabel-et-Blacons",
+        "t.addr:postcode": "26400",
+        "t.addr:street": "Avenue des 3 Becs",
+        "t.name": "Le Relais des Mousquetaires",
+        "t.opening_hours": "Mo-Sa 07:30-12:30,15:30-19:00; Su 07:30-12:30; Jul-Aug Mo-Sa 07:30-20:00; Jul-Aug Su 17:00-20:00",
+        "t.operator": "Groupement des Mousquetaires",
+        "t.shop": "convenience",
+        "note:address": "Le Village, 26400 Mirabel-et-Blacons, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Ouvert aux horaires habituels tous les jours.",
+        "note:name": "Le Relais des Mousquetaires"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0175516,
+          44.7295061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5649666669,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0175433,
+          44.729534
+        ],
+        "ref_distance": 3.2,
+        "ref_id": "68",
+        "t.name": "Au Petit Primeur",
+        "t.shop": "greengrocer",
+        "note:address": "Rue Edouard Branly, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Horaires :\nLundi au samedi : de 7h à 18h\nTel : 04 75 76 72 85",
+        "note:name": "Au _ Petit Primeur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0192834,
+          44.7306245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4646785652,
+        "osm_type": "node",
+        "ref_coords": [
+          5.019262,
+          44.730656
+        ],
+        "ref_distance": 3.9,
+        "ref_id": "57",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie du Bourg",
+        "t.opening_hours": "Mo-Fr 09:00-12:30, 14:30-19:00; Sa 09:00-12:30",
+        "t.phone": "+33 475250204",
+        "t.ref:fr:finess": "260004866",
+        "t.source": "Celtipharm - 10/2014",
+        "t.website": "http://www.pharmacie-crest.fr",
+        "note:address": "7 Rue Sainte-Euphémie, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Horaires :\nLundi au vendredi : de 9h à 12h15 et de 14h30 à 19h\nSamedi : de 9h à 12h00\n\n\nTél. 04 75 25 02 04",
+        "note:name": "Pharmacie du Bourg"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8434696,
+          44.7723981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3463188271,
+        "osm_type": "node",
+        "ref_coords": [
+          4.8435035,
+          44.772366
+        ],
+        "ref_distance": 4.5,
+        "ref_id": "52",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie Blanchard",
+        "t.ref:fr:finess": "260005947",
+        "t.source": "Celtipharm - 10/2014",
+        "note:address": "10 Avenue Léon Aubin, 26250 Livron-sur-Drôme, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "du lundi au samedi de 8h30-12 / 14h-19h - 04 75 61 61 50 pharmacieblanchard@gmail.com - Commande en ligne avec règlement possible - Livraison",
+        "note:name": "Pharmacie Blanchard"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8413939,
+          44.7702074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3463077556,
+        "osm_type": "node",
+        "ref_coords": [
+          4.8414407,
+          44.77023
+        ],
+        "ref_distance": 4.5,
+        "ref_id": "40",
+        "t.amenity": "restaurant",
+        "t.name": "Chic'Pizza",
+        "t.takeaway": "yes",
+        "note:address": "46 Avenue Joseph Combier, 26250 Livron-sur-Drôme, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "chic pizza ferme ses portes tous les soirs à 20h30 pour cause de couvre-feu.",
+        "note:name": "Chic Pizza DROME PIZZAS"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0172096,
+          44.7295063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5594572696,
+        "osm_type": "node",
+        "ref_coords": [
+          5.017276,
+          44.729477
+        ],
+        "ref_distance": 6.2,
+        "ref_id": "55",
+        "t.amenity": "fuel",
+        "t.compressed_air": "yes",
+        "t.fuel:diesel": "yes",
+        "t.fuel:e10": "yes",
+        "t.fuel:octane_98": "yes",
+        "t.hgv:lanes": "yes",
+        "t.name": "Total",
+        "t.opening_hours": "24/7",
+        "t.ref:fr:prix-carburants": "26400007",
+        "t.shop": "convenience;gas",
+        "t.source": "Ministère de l'Economie, de l'Industrie et du Numérique - 08/04/2018",
+        "t.toilets": "yes",
+        "note:address": "60 Boulevard du Six Juin 1944, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "A compter du 24 mars ouvert de 8h à 12h",
+        "note:name": "TOTAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0223105,
+          44.7750446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 307591449,
+        "osm_type": "way",
+        "ref_coords": [
+          5.022222,
+          44.775
+        ],
+        "ref_distance": 8.6,
+        "ref_id": "73",
+        "t.addr:city": "Vaunaveys-la-Rochette",
+        "t.addr:postcode": "26400",
+        "t.addr:street": "Quartier La Gare",
+        "t.building": "yes",
+        "t.name": "Brins de Terroir",
+        "t.opening_hours": "Tu-Su 10:00-19:00",
+        "t.payment:cash": "yes",
+        "t.payment:credit_cards": "yes",
+        "t.shop": "farm",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "t.website": "http://www.brinsdeterroir.fr/",
+        "note:address": "26400 Vaunaveys-la-Rochette, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Brins de Terroir sera fermé le dimanche pendant la période de confinement. Rappel des horaires: Du mardi au samedi inclus 10h00-19h00. Légumes frais, produits laitier, viande, épicerie, vins et jus de fruits, etc.",
+        "note:name": "Brins de terroir Magasin de producteurs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0620798,
+          44.6454756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3481214,
+        "osm_type": "relation",
+        "ref_coords": [
+          5.062064,
+          44.645554
+        ],
+        "ref_distance": 8.8,
+        "ref_id": "64",
+        "t.addr:city": "Saou",
+        "t.addr:housenumber": "1",
+        "t.addr:postcode": "26400",
+        "t.addr:street": "Route de Bourdeaux",
+        "t.building": "yes",
+        "t.name": "L'Epicerie de Saou",
+        "t.phone": "+33 4 75 76 03 80",
+        "t.shop": "convenience",
+        "t.type": "multipolygon",
+        "t.website": "https://epiceriedesaou.fr/",
+        "note:address": "1 Route de Bourdeaux, 26400 Saou, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Ouvert tous les jours, sauf jeudi et dimanche de 8h30 à 12h30 et de 16h à 19h. \ncontact@epiceriedesaou.fr",
+        "note:name": "L'épicerie de Saoû"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0159935,
+          44.7302386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2411198549,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0160847,
+          44.730186
+        ],
+        "ref_distance": 9.3,
+        "ref_id": "98",
+        "t.name": "Honorin",
+        "t.shop": "bakery",
+        "note:address": "26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "7h-14h du lundi au vendredi, et 7h- 13h le samedi",
+        "note:name": "Honorin, pains, sandwichs & compagnie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.37479,
+          44.7521774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2469850438,
+        "osm_type": "node",
+        "ref_coords": [
+          5.37478,
+          44.752262
+        ],
+        "ref_distance": 9.5,
+        "ref_id": "34",
+        "t.bulk_purchase": "yes",
+        "t.contact:city": "Die",
+        "t.contact:housenumber": "21",
+        "t.contact:phone": "+33 4 75 22 08 11",
+        "t.contact:postcode": "26150",
+        "t.contact:street": "Rue du Viaduc",
+        "t.contact:website": "http://www.lacarline.coop/",
+        "t.description": "\"Épicerie Bio Locale et Solidaire\"",
+        "t.name": "La Carline",
+        "t.opening_hours": "Mo 15:00-19:00; Tu, Th-Fr 09:00-12:30, 15:00-19:00; Sa 09:00-13:30, 16:00-19:00; We 09:00-13:30, 15:00-19:00",
+        "t.organic": "yes",
+        "t.shop": "convenience",
+        "note:address": "21 Rue du Viaduc, 26150 Die, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Ouvert sans changement d'horaire : Lundi 15h-19h / Mardi, jeudi et vendredi 9h-12h30 et 15h-19h / Mercredi 9h-13h30 et 15h-19h / Samedi 9h-16h30\nContact au 04 75 22 08 11",
+        "note:name": "La Carline"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8318064,
+          44.7778556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3221259511,
+        "osm_type": "node",
+        "ref_coords": [
+          4.8316836,
+          44.777855
+        ],
+        "ref_distance": 9.7,
+        "ref_id": "36",
+        "t.brand": "Marie Blachère",
+        "t.brand:wikidata": "Q62082410",
+        "t.name": "Marie Blachère",
+        "t.shop": "bakery",
+        "t.wheelchair": "yes",
+        "note:address": "5 Avenue de Provence, 26250 Livron-sur-Drôme, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Tous les jours sauf le dimanche de 7h30 à 17h - 04 75 78 43 70",
+        "note:name": "Bakery Marie Blachere"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0217468,
+          44.7281007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4646812706,
+        "osm_type": "node",
+        "ref_coords": [
+          5.021761,
+          44.728188
+        ],
+        "ref_distance": 9.8,
+        "ref_id": "74",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie du Pont",
+        "t.opening_hours": "Mo-Sa 08:30-12:15,14:30-19:00",
+        "t.ref:fr:finess": "260004767",
+        "t.source": "Celtipharm - 10/2014",
+        "t.website": "https://www.pharmaciedupont-crest.fr/",
+        "note:address": "12 Rue Maurice Long, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Horaires exceptionnels (confinement)\ndu lundi au Vendredi : de 9h à 12h et de 14h à 19h\nle samedi : de 9h à 12h et de 14h30 à 18h30\nTel : 04 75 40 66 58\nNe pas tenir compte des horaires ci-dessous.",
+        "note:name": "Pharmacie du Pont"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.006725,
+          44.7353326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 72549651,
+        "osm_type": "way",
+        "ref_coords": [
+          5.0068626,
+          44.7353
+        ],
+        "ref_distance": 11.5,
+        "ref_id": "27",
+        "t.building": "yes",
+        "t.name": "Véziant",
+        "t.shop": "stationery",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "note:address": "Rue Jean Jaurès, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Ouvert du lundi au vendredi de 9h à 12h.\nPour toutes demandes merci de nous contacter par mail ou téléphone avant votre venue.\nTél: 04-75-25-10-52\nMail service papeterie : papeterie@veziant.fr \nMail service imprimerie : imprimerie@veziant.fr",
+        "note:name": "Imprimerie Papeterie Veziant"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8314106,
+          44.7774636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3463123783,
+        "osm_type": "node",
+        "ref_coords": [
+          4.8315454,
+          44.77751
+        ],
+        "ref_distance": 11.8,
+        "ref_id": "53",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Grande Pharmacie de Livron",
+        "t.ref:fr:finess": "260005962",
+        "t.source": "Celtipharm - 10/2014",
+        "note:address": "5 Avenue de Provence, 26250 Livron-sur-Drôme, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Du lundi au samedi de 8h30-12h / 14h-19h : 04 75 85 56 91 - Préparation et livraison gratuites pour les personnes fragiles et de plus de 70 ans",
+        "note:name": "Grande Pharmacie de Livron - Hello Pharmacie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0114841,
+          44.7338474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4646823396,
+        "osm_type": "node",
+        "ref_coords": [
+          5.011376,
+          44.733772
+        ],
+        "ref_distance": 12,
+        "ref_id": "70",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie Centrale",
+        "t.ref:fr:finess": "260004601",
+        "t.source": "Celtipharm - 10/2014",
+        "note:address": "7 Rue Lieutenant Michel Prunet, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Horaires :\nLundi au Vendredi de 9h à 12h et de 14h30 à 19h\nSamedi de 9h à 12h et de 14h30 à 18h30\n\nTèl. 04 75 40 62 20",
+        "note:name": "Pharmacie Centrale"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0116347,
+          44.7330877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4326897148,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0114126,
+          44.733067
+        ],
+        "ref_distance": 17.7,
+        "ref_id": "87",
+        "t.brand": "Aldi",
+        "t.brand:wikidata": "Q125054",
+        "t.name": "Aldi",
+        "t.opening_hours": "Mo-Sa 08:30-20:00",
+        "t.shop": "supermarket",
+        "note:address": "Avenue Félix Rozier, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Du 23 au 28 mars : de 8h30 à 17h non stop. Dimanche 29 mars fermé.",
+        "note:name": "ALDI"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0184385,
+          44.7289236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2018195808,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0183153,
+          44.7291
+        ],
+        "ref_distance": 21.9,
+        "ref_id": "88",
+        "t.addr:city": "Crest",
+        "t.addr:postcode": "26400",
+        "t.addr:street": "Rue Félix Perrier",
+        "t.amenity": "post_office",
+        "t.atm": "yes",
+        "t.copy_facility": "yes",
+        "t.name": "Crest",
+        "t.operator": "La Poste",
+        "t.phone": "3631",
+        "t.ref:fr:laposte": "04529A",
+        "t.source": "data.gouv.fr:LaPoste - 06/2015",
+        "t.stamping_machine": "yes",
+        "t.website": "https://laposte.fr/",
+        "t.wheelchair": "yes",
+        "note:address": "Rue Félix Perrier, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Nouveaux horaires à partir du 24 mars : \nDu lundi au vendredi 9h-13h \nSamedi 9h-12h",
+        "note:name": "La Poste"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0847394,
+          44.7119524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 508161238,
+        "osm_type": "way",
+        "ref_coords": [
+          5.084991,
+          44.712063
+        ],
+        "ref_distance": 23.4,
+        "ref_id": "58",
+        "t.building": "yes",
+        "t.name": "Boulangerie Borie",
+        "t.shop": "bakery",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "note:address": "Quartier Bellevue, 26400 Mirabel-et-Blacons, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Lundi fermé \nMardi au dimanche: 6h30-14h",
+        "note:name": "Boulangerie Borie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0226377,
+          44.7277923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5343885372,
+        "osm_type": "node",
+        "ref_coords": [
+          5.022751,
+          44.727352
+        ],
+        "ref_distance": 49.8,
+        "ref_id": "14",
+        "t.bulk_purchase": "yes",
+        "t.description:covid19": "Drive seulement disponible au magasin de la Plaine",
+        "t.name": "L'Etincelle",
+        "t.opening_hours": "Mo-Sa 08:30-19:00",
+        "t.opening_hours:covid19": "off",
+        "t.organic": "only",
+        "t.phone": "+33 4 75 25 34 38",
+        "t.shop": "supermarket",
+        "t.website": "http://www.magasin-bio-crest.fr/",
+        "note:address": "10 Cours de Verdun, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Fermé mais commande possible avec récupération à la Plaine.  Pour recevoir le catalogue et les modalités de commandes à distance, adressez-nous un mail à bonjour@letincelle.bio (uniquement par mail, merci).\nVous pouvez nous joindre à La Plaine Bio au 04.75.56.59.29.",
+        "note:name": "L'Etincelle du Centre-ville"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0185267,
+          44.7285997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5449186292,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0179386,
+          44.728764
+        ],
+        "ref_distance": 50,
+        "ref_id": "84",
+        "t.addr:city": "Crest",
+        "t.addr:housenumber": "51",
+        "t.addr:postcode": "26400",
+        "t.addr:street": "Rue Emile Loubet",
+        "t.name": "La Cave du Bourg",
+        "t.shop": "wine",
+        "t.website": "http://www.cave-du-bourg.fr/",
+        "note:address": "51 Rue Emile Loubet, 26400 Crest, France",
+        "note:city": "Vallée de la Drôme",
+        "note:comment": "Réouverture à compter du 26 mars ouvert tous les matins de 9 à 13h du mardi au samedi.",
+        "note:name": "Cave du Bourg"
+      },
+      "type": "Feature"
+    }
+  ]
+}

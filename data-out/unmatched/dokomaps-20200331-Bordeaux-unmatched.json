@@ -1,0 +1,394 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.587214,
+          44.85166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -15,
+        "osm_type": "node",
+        "ref_id": "1",
+        "note:address": "94 Rue David Johnston, 33000 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:comment": "Reconnue comme une des grandes adresses de Bordeaux, nous vous proposons une large sélection de vins à petits prix jusqu’aux plus grands crus prestigieux, en passant des bulles d’un champagne à la tourbe d’un whisky.\nLa Cave BRIAU possède plus de 700 références, vins, champagnes, bières et spiritueux.\n\nFace à la situation exceptionnelle, nous mettons en place un service minimum.\n1. Demandez notre tarif sur info@briau.com ou au 05 56 79 25 71 \n2. Réglez votre commande à distance\n3. Venez la récupérer sur notre parking ou faites-vous livrer !\n\nCave Briau 94 rue David Johnston 33000 Bordeaux, 05 56 79 25 71\nHoraires d'ouverture du lundi au samedi de 10h à 12h30 et de 15h à 18h.\nParking gratuit à disposition.",
+        "note:name": "Cave BRIAU"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5856647,
+          44.817463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -16,
+        "osm_type": "node",
+        "ref_id": "10",
+        "note:address": "5 Rue René Balloux, 33400 Talence, France",
+        "note:city": "Bordeaux",
+        "note:name": "Laverie Roustaing"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5512933,
+          44.862858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -17,
+        "osm_type": "node",
+        "ref_id": "12",
+        "note:address": "10 Quai de Bacalan, 33300 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:comment": "Seule une partie des commerces est ouverte...y compris Balme, spécialiste de la truffe :-)",
+        "note:name": "Les Halles Bacalan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5538529,
+          44.840347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -18,
+        "osm_type": "node",
+        "ref_id": "14",
+        "note:address": "111 Rue de la Benauge, 33100 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:comment": "mardi au samedi \n9H30-17H",
+        "note:name": "Bobi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.558426,
+          44.841396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -19,
+        "osm_type": "node",
+        "ref_id": "15",
+        "note:address": "24 Avenue Thiers, 33100 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:comment": "du mardi au samedi \nhoraire ?",
+        "note:name": "Epicerie Domergue"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5596817,
+          44.839508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -20,
+        "osm_type": "node",
+        "ref_id": "16",
+        "note:address": "3 Quai Deschamps, 33100 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:comment": "Cremerie fromagerie \nMardi au Samedi de 10H a 17H.",
+        "note:name": "Madame Fromage Bordeaux"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.590437,
+          44.811947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -21,
+        "osm_type": "node",
+        "ref_id": "17",
+        "note:address": "Place Alcala de Henares, 33400 Talence, France",
+        "note:city": "Bordeaux",
+        "note:comment": "Ouvert du mardi au dimanche de 8h à 14h\nOuverture réservée de 8 à 9h aux personnes de plus de 70 ans",
+        "note:name": "Les Halles De Talence - Biltoki"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5966281,
+          44.856426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -22,
+        "osm_type": "node",
+        "ref_id": "19",
+        "note:address": "Tram D, arrêt Courbet, 71 Avenue de la Libération Charles de Gaulle, 33110 Le Bouscat, France",
+        "note:city": "Bordeaux",
+        "note:comment": "Du mardi au samedi de 9h à 15h",
+        "note:name": "Maison Burgalieres, boucherie charcuterie traiteur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5322471,
+          44.843384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -23,
+        "osm_type": "node",
+        "ref_id": "2",
+        "note:address": "114 Cours Gambetta, 33150 Cenon, France",
+        "note:city": "Bordeaux",
+        "note:name": "Laverie Cenon Floirac"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5698073,
+          44.85331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -24,
+        "osm_type": "node",
+        "ref_id": "20",
+        "note:address": "23 Cours de la Martinique, 33000 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:name": "Dolomites Pizzas Bordeaux"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5543548,
+          44.82571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -25,
+        "osm_type": "node",
+        "ref_id": "22",
+        "note:address": "76 Rue des Terres de Borde, 33800 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:name": "TENDANCE BIO, pizzas et salades sur place, à emporter, ou en livraison à Bordeaux"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5825711,
+          44.848564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -26,
+        "osm_type": "node",
+        "ref_id": "24",
+        "note:address": "129-131 Rue Fondaudège, 33000 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:name": "Le Petit Casino"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.6124398,
+          44.8324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -27,
+        "osm_type": "node",
+        "ref_id": "25",
+        "note:address": "38 Rue Jenny Lépreux, 33000 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:name": "Casino Shop"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5743837,
+          44.828693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -28,
+        "osm_type": "node",
+        "ref_id": "3",
+        "note:address": "57 Cours de l'Argonne, 33000 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:name": "Laundry L Argonne."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5719535,
+          44.838493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -29,
+        "osm_type": "node",
+        "ref_id": "30",
+        "note:address": "49 Rue du Pas-Saint-Georges, 33000 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:name": "Carrefour Bio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5694199,
+          44.835236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -30,
+        "osm_type": "node",
+        "ref_id": "31",
+        "note:address": "70 Cours Victor Hugo, 33000 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:name": "Str'eat Burger"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5702138,
+          44.853107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -31,
+        "osm_type": "node",
+        "ref_id": "4",
+        "note:address": "111 Rue Notre Dame, 33000 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:name": "Laverie Les Chartrons"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5698736,
+          44.850792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -32,
+        "osm_type": "node",
+        "ref_id": "6",
+        "note:address": "32 Quai des Chartrons, 33000 Bordeaux, France",
+        "note:city": "Bordeaux",
+        "note:comment": "tabac cigare presse jeux vap",
+        "note:name": "PIERRE A FEU"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5306933,
+          44.721783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -33,
+        "osm_type": "node",
+        "ref_id": "8",
+        "note:address": "2 Rue de la Canave, 33650 Martillac, France",
+        "note:city": "Bordeaux",
+        "note:comment": "Tabac presse, ouvert du lundi au samedi de 7h à 19h",
+        "note:name": "La Canave"
+      },
+      "type": "Feature"
+    }
+  ]
+}

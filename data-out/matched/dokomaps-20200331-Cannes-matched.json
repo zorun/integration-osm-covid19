@@ -1,0 +1,264 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          7.0129888,
+          43.5521755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5392712532,
+        "osm_type": "node",
+        "ref_coords": [
+          7.0130005,
+          43.552177
+        ],
+        "ref_distance": 1,
+        "ref_id": "56",
+        "t.addr:city": "Cannes",
+        "t.addr:housenumber": "5",
+        "t.addr:postcode": "06400",
+        "t.addr:street": "Rue Louis Blanc",
+        "t.brand": "La Tarte Tropézienne",
+        "t.brand:wikidata": "Q62428886",
+        "t.name": "La Tarte Tropézienne",
+        "t.opening_hours": "Mo-Su 06:30-19:30",
+        "t.phone": "+33 4 93 68 99 12",
+        "t.shop": "bakery",
+        "t.website": "https://www.latartetropezienne.fr/magasins-details?magasin=22",
+        "note:address": "5 Rue Louis Blanc, 06400 Cannes, France",
+        "note:city": "Cannes",
+        "note:comment": "Secteurs de livraison : Cannes, Bocca Ouest, Bocca Centre\n\nelliott @ me.com",
+        "note:name": "La Tarte Tropézienne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0130843,
+          43.5524123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3040166078,
+        "osm_type": "node",
+        "ref_coords": [
+          7.0130734,
+          43.552437
+        ],
+        "ref_distance": 2.9,
+        "ref_id": "35",
+        "t.name": "Cavavin",
+        "t.shop": "wine",
+        "note:address": "12 Rue Louis Blanc, 06400 Cannes, France",
+        "note:city": "Cannes",
+        "note:comment": "Secteur de livraison : Cannes\n\n04 93 99 28 37\ncannes @ cavavin.fr \nwww.cavavincannes.com",
+        "note:name": "CAVAVIN CANNES"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0168393,
+          43.5544821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5362334175,
+        "osm_type": "node",
+        "ref_coords": [
+          7.016877,
+          43.55449
+        ],
+        "ref_distance": 3.2,
+        "ref_id": "27",
+        "t.addr:city": "Cannes",
+        "t.addr:housenumber": "3",
+        "t.addr:postcode": "06400",
+        "t.addr:street": "Boulevard Carnot",
+        "t.name": "Gusti Italiani",
+        "t.shop": "deli",
+        "note:address": "3 Boulevard Carnot, 06400 Cannes, France",
+        "note:city": "Cannes",
+        "note:comment": "Secteur de livraison : Cannes\n\n04 93 99 47 82\n\nCommande livraison groupée\navec d'autres commerçants :\n04 93 38 04 38\n\nwww.gustiitaliani.com",
+        "note:name": "Gusti Italiani"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0224017,
+          43.557677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6368816251,
+        "osm_type": "node",
+        "ref_coords": [
+          7.02248,
+          43.5577
+        ],
+        "ref_distance": 6.8,
+        "ref_id": "7",
+        "t.addr:city": "Cannes",
+        "t.addr:housenumber": "66",
+        "t.addr:postcode": "06400",
+        "t.addr:street": "Boulevard de la République",
+        "t.bulk_purchase": "only",
+        "t.contact:facebook": "https://www.facebook.com/Le-Panier-Vrac-%C3%A9picerie-z%C3%A9ro-d%C3%A9chet-224632348148786/",
+        "t.name": "Le Panier Vrac",
+        "t.organic": "yes",
+        "t.shop": "convenience",
+        "note:address": "66 Boulevard de la Republique, 06400 Cannes, France",
+        "note:city": "Cannes",
+        "note:comment": "Épicerie bio vrac\n66 Boulevard de la République\n\nSecteur de livraison : Cannes\n\n06 41 13 23 91\nlepaniervrac@gmail.com",
+        "note:name": "Le Panier Vrac"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0150186,
+          43.5527811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6944279039,
+        "osm_type": "node",
+        "ref_coords": [
+          7.0150056,
+          43.552853
+        ],
+        "ref_distance": 8.1,
+        "ref_id": "23",
+        "t.name": "La pecherie cannoise",
+        "t.shop": "seafood",
+        "note:address": "16 Rue Meynadier, 06400 Cannes, France",
+        "note:city": "Cannes",
+        "note:comment": "Secteur de livraison : Cannes\n\n07 85 52 77 65\n\nCommande livraison groupée\navec d'autres commerçants :\n04 93 38 04 38\n\npecherie.cannoise @ gmail.com",
+        "note:name": "La Pêcherie Cannoise"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0166755,
+          43.5550363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6070722876,
+        "osm_type": "node",
+        "ref_coords": [
+          7.01703,
+          43.555096
+        ],
+        "ref_distance": 29.4,
+        "ref_id": "29",
+        "t.addr:housenumber": "9",
+        "t.addr:postcode": "06400",
+        "t.addr:street": "Place Vauban",
+        "t.brand": "Bio C' Bon",
+        "t.bulk_purchase": "yes",
+        "t.contact:facebook": "https://www.facebook.com/biocbonfrance/",
+        "t.name": "Bio C' Bon",
+        "t.opening_hours": "Mo-Sa 09:30-20:00; Su 09:30-13:30",
+        "t.organic": "only",
+        "t.shop": "supermarket",
+        "t.website": "https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-cannes-vauban",
+        "note:address": "9 place Vauban, 06400 Cannes, France",
+        "note:city": "Cannes",
+        "note:comment": "Secteur de livraison : Cannes\n\n04 93 99 32 50\n\nCommande livraison groupée\navec d'autres commerçants :\n04 93 38 04 38\n \nwww.bio-c-bon.eu",
+        "note:name": "Bio c' Bon Cannes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0132486,
+          43.5520291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3040166074,
+        "osm_type": "node",
+        "ref_coords": [
+          7.013399,
+          43.552277
+        ],
+        "ref_distance": 30.1,
+        "ref_id": "16",
+        "t.name": "Ernest",
+        "t.shop": "deli",
+        "t.source": "survey",
+        "note:address": "52 Rue Meynadier, 06400 Cannes, France",
+        "note:city": "Cannes",
+        "note:comment": "Secteurs de livraison : Cannes, Cannes La Bocca\n\n04 93 06 23 00\ncommercial @ ernest-traiteur.com\nwww.ernest-traiteur.com",
+        "note:name": "Ernest Traiteur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0156959,
+          43.5530525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1379350056,
+        "osm_type": "node",
+        "ref_coords": [
+          7.015885,
+          43.553467
+        ],
+        "ref_distance": 48.6,
+        "ref_id": "51",
+        "t.brand": "Carrefour Market",
+        "t.brand:wikidata": "Q2689639",
+        "t.brand:wikipedia": "fr:Carrefour Market",
+        "t.name": "Carrefour Market",
+        "t.opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-20:00",
+        "t.operator": "Carrefour",
+        "t.shop": "supermarket",
+        "note:address": "6 Rue Meynadier, 06400 Cannes, France",
+        "note:city": "Cannes",
+        "note:comment": "Secteur de livraison : Cannes\n\n04 93 39 62 13\nwww.carrefour.fr",
+        "note:name": "Carrefour Market"
+      },
+      "type": "Feature"
+    }
+  ]
+}

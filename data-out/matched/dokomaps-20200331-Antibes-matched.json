@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          7.1166263,
+          43.5744882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5860906686,
+        "osm_type": "node",
+        "ref_coords": [
+          7.1166816,
+          43.574512
+        ],
+        "ref_distance": 5.2,
+        "ref_id": "1",
+        "t.name": "Utile Antibes Wilson",
+        "t.opening_hours": "Mo-Su 07:00-22:00",
+        "t.shop": "supermarket",
+        "note:address": "72 Boulevard du Président Wilson, 06600 Antibes, France",
+        "note:city": "Antibes",
+        "note:name": "Utile Antibes Wilson"
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          1.7184599,
+          48.9900352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5729748699,
+        "osm_type": "node",
+        "ref_coords": [
+          1.718469,
+          48.990025
+        ],
+        "ref_distance": 1.3,
+        "ref_id": "14",
+        "t.addr:city": "Mantes-la-Jolie",
+        "t.addr:housenumber": "7",
+        "t.addr:postcode": "78200",
+        "t.addr:street": "Rue Marie et Robert Dubois",
+        "t.name": "Le Brazza",
+        "t.opening_hours": "Mo 15:00-21:00, Tu-Fr 08:30-21:00, Sa 08:30-22:00",
+        "t.shop": "tobacco",
+        "note:address": "7 Bis Rue Marie et Robert Dubois, 78200 Mantes-la-Jolie, France",
+        "note:city": "Mantes-la-Jolie",
+        "note:comment": "Tabac :\nOuvert le mardi de 10h00 à 16h",
+        "note:name": "Le Brazza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.7170371,
+          48.9903558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5729680307,
+        "osm_type": "node",
+        "ref_coords": [
+          1.7170213,
+          48.990364
+        ],
+        "ref_distance": 1.5,
+        "ref_id": "22",
+        "t.addr:city": "Mantes-la-Jolie",
+        "t.addr:housenumber": "42",
+        "t.addr:postcode": "78200",
+        "t.addr:street": "Rue Nationale",
+        "t.name": "Les Douceurs de Mantes",
+        "t.opening_hours": "Tu-Sa 06:30-20:00, Su 07:30-13:30",
+        "t.shop": "bakery",
+        "note:address": "42 Rue nationale, 78200 Mantes-la-Jolie, France",
+        "note:city": "Mantes-la-Jolie",
+        "note:name": "Les Douceurs de Mantes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.7157774,
+          48.9909746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6025772035,
+        "osm_type": "node",
+        "ref_coords": [
+          1.7157516,
+          48.99096
+        ],
+        "ref_distance": 2.5,
+        "ref_id": "3",
+        "t.addr:housenumber": "2",
+        "t.addr:postcode": "78200",
+        "t.addr:street": "Rue d'Alsace",
+        "t.brand": "Biocoop",
+        "t.brand:wikidata": "Q2904039",
+        "t.brand:wikipedia": "fr:Biocoop",
+        "t.bulk_purchase": "yes",
+        "t.name": "Biocoop",
+        "t.organic": "only",
+        "t.shop": "supermarket",
+        "t.website": "https://mantes.biocoop.net/",
+        "note:address": "2 Rue d'Alsace, 78200 Mantes-la-Jolie, France",
+        "note:city": "Mantes-la-Jolie",
+        "note:name": "Biocoop du Mantois"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.7160119,
+          48.9892555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1418118602,
+        "osm_type": "node",
+        "ref_coords": [
+          1.7159702,
+          48.989254
+        ],
+        "ref_distance": 3.1,
+        "ref_id": "30",
+        "t.brand": "Monoprix",
+        "t.brand:wikidata": "Q3321241",
+        "t.brand:wikipedia": "fr:Monoprix (France)",
+        "t.name": "Monoprix",
+        "t.operator": "Groupe Casino",
+        "t.shop": "supermarket",
+        "note:address": "27 Rue Gambetta, 78200 Mantes-la-Jolie, France",
+        "note:city": "Mantes-la-Jolie",
+        "note:name": "MONOPRIX"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.6860003,
+          48.9998869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6833266499,
+        "osm_type": "node",
+        "ref_coords": [
+          1.685955,
+          48.999866
+        ],
+        "ref_distance": 4,
+        "ref_id": "25",
+        "t.name": "Val Prim",
+        "t.shop": "supermarket",
+        "note:address": "Boulevard Georges Clemenceau, 78200 Mantes-la-Jolie, France",
+        "note:city": "Mantes-la-Jolie",
+        "note:name": "Val'Prim"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.7111019,
+          48.9879378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1234516686,
+        "osm_type": "node",
+        "ref_coords": [
+          1.7110794,
+          48.987885
+        ],
+        "ref_distance": 6.1,
+        "ref_id": "10",
+        "t.brand": "Carrefour Market",
+        "t.brand:wikidata": "Q2689639",
+        "t.brand:wikipedia": "fr:Carrefour Market",
+        "t.name": "Carrefour Market",
+        "t.operator": "Carrefour",
+        "t.shop": "supermarket",
+        "note:address": "5 Rue du Lavoir, 78200 Mantes-la-Jolie, France",
+        "note:city": "Mantes-la-Jolie",
+        "note:name": "Carrefour Market"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.7152452,
+          48.9898084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6343351525,
+        "osm_type": "node",
+        "ref_coords": [
+          1.715105,
+          48.989853
+        ],
+        "ref_distance": 11.4,
+        "ref_id": "19",
+        "t.addr:housenumber": "32",
+        "t.addr:street": "Rue Chanzy",
+        "t.bulk_purchase": "only",
+        "t.name": "Day by Day",
+        "t.opening_hours": "Tu-Fr 10:00-13:30,15:00-19:30; Sa 09:30-13:30,15:00-19:30",
+        "t.opening_hours:covid19": "Tu-Sa 09:30-13:30,15:00-18:00",
+        "t.organic": "yes",
+        "t.phone": "+33134977987",
+        "t.shop": "convenience",
+        "t.website": "http://daybyday-shop.com/magasin/mantes-la-jolie",
+        "note:address": "32 Rue Chanzy, 78200 Mantes-la-Jolie, France",
+        "note:city": "Mantes-la-Jolie",
+        "note:name": "day by day - Mon épicerie en vrac"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.717185,
+          48.9852224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5202581416,
+        "osm_type": "node",
+        "ref_coords": [
+          1.7171315,
+          48.98532
+        ],
+        "ref_distance": 11.5,
+        "ref_id": "6",
+        "t.addr:city": "Mantes-la-Jolie",
+        "t.addr:housenumber": "13",
+        "t.addr:postcode": "78200",
+        "t.addr:street": "Boulevard Victor Duhamel",
+        "t.brand": "Mr.Bricolage",
+        "t.brand:wikidata": "Q3141657",
+        "t.brand:wikipedia": "fr:Mr Bricolage",
+        "t.description:covid19": "Vous attendez à l'entrée du magasin et le commerçant va chercher ce dont vous avez besoin.",
+        "t.name": "Mr.Bricolage",
+        "t.opening_hours:covid19": "Mo-Sa 09:00-12:30,14:00-18:00",
+        "t.shop": "doityourself",
+        "note:address": "13 Boulevard Victor Duhamel, 78200 Mantes-la-Jolie, France",
+        "note:city": "Mantes-la-Jolie",
+        "note:comment": "9h- 12.40 / 14h-18.00 et fermé le dimanche",
+        "note:name": "Mr Bricolage"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.7108809,
+          48.99761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 161348049,
+        "osm_type": "way",
+        "ref_coords": [
+          1.7109354,
+          48.99797
+        ],
+        "ref_distance": 40.3,
+        "ref_id": "29",
+        "t.addr:city": "Mantes-la-Jolie",
+        "t.addr:country": "FR",
+        "t.addr:full": "Zac Henri IV - Centre Commercial - Les Bords de Seine - 16 Rue Jean Hoët - 78200 Mantes-la-Jolie",
+        "t.addr:housenumber": "16",
+        "t.addr:postcode": "78200",
+        "t.addr:street": "Rue Jean Hoët",
+        "t.brand": "Intermarché",
+        "t.brand:wikidata": "Q3153200",
+        "t.brand:wikipedia": "fr:Intermarché",
+        "t.building": "retail",
+        "t.contact:phone": "+33 1 30 33 06 84",
+        "t.name": "Intermarché",
+        "t.operator": "Groupement des Mousquetaires",
+        "t.shop": "supermarket",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "note:address": "16 Rue Jean Hoët, 78200 Mantes-la-Jolie, France",
+        "note:city": "Mantes-la-Jolie",
+        "note:name": "Intermarché SUPER Mantes la Jolie et Drive"
+      },
+      "type": "Feature"
+    }
+  ]
+}

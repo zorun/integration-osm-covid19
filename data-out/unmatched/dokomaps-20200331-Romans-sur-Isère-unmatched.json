@@ -1,0 +1,318 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.0481663,
+          45.0454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -14,
+        "osm_type": "node",
+        "ref_id": "1",
+        "note:address": "17 Cours Pierre Didier, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "Ouverte du lundi au vendredi de 9h00 à 12h00 et sans accueil du public.\n\nTéléphone : 04 75 02 25 60",
+        "note:name": "Allianz Fulvio MANNINO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.090684,
+          45.055553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -15,
+        "osm_type": "node",
+        "ref_id": "12",
+        "note:address": "33 Avenue des Allobroges, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "☎️ Appeler avant de vous deplacer",
+        "note:name": "Horaires exceptionnels, RDV sur notre site - Grand Frais Romans-sur-Isère"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0471287,
+          45.050556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -16,
+        "osm_type": "node",
+        "ref_id": "13",
+        "note:address": "7 Avenue Jean Moulin, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:name": "SPAR"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0520678,
+          45.04608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -17,
+        "osm_type": "node",
+        "ref_id": "14",
+        "note:address": "46 Place Jean Jaurès, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "46, place Jean Jaurès\n\nHoraires: du lundi au samedi de 7h30 à 12h30 et 14h30 à 18h30\n\nFermé (temporairement) le dimanche",
+        "note:name": "Cadier Denis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0516415,
+          45.046528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -18,
+        "osm_type": "node",
+        "ref_id": "15",
+        "note:address": "11 bis Rue de la République, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "☎️ Appeler avant de vous deplacer 0475052367",
+        "note:name": "Rayon de Vie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0493193,
+          45.042763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -19,
+        "osm_type": "node",
+        "ref_id": "16",
+        "note:address": "7 Place Maurice Faure, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "Ouvert du mercredi au samedi, de 7h-13h et 16h-18h et le dimanche 7h-13h",
+        "note:name": "Aux Galets de l'Isère"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.054146,
+          45.045147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -20,
+        "osm_type": "node",
+        "ref_id": "2",
+        "note:address": "23 Place Jean Jaurès Bis, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "Location et vente de matériel médical et produit d’incontinence bébé\n\n(peut assurer les livraisons de lits, fauteuils roulants pour sortie d’hôpital)\n\nOuvert : du lundi au samedi matin : 8h30 - 12h et 13h30 – 18h\n\nLivraison gratuite à domicile - Joignable non stop par téléphone au 04 75 05 37 71 ou 06 72\n\n87 78 74",
+        "note:name": "Ginet Santé -Bébécash"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0520806,
+          45.042923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -21,
+        "osm_type": "node",
+        "ref_id": "20",
+        "note:address": "53 Rue Saint-Nicolas, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "7h30 - 13h (durant la crise)\n\ndu mardi au dimanche",
+        "note:name": "Aux _ Délices de Romans"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0488834,
+          45.045868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -22,
+        "osm_type": "node",
+        "ref_id": "23",
+        "note:address": "4 Cours Pierre Didier, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "Ouvert le matin",
+        "note:name": "Breyton Et Fils Sarl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0471816,
+          45.04524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -23,
+        "osm_type": "node",
+        "ref_id": "25",
+        "note:address": "39 Cours Pierre Didier, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "☎️ Appeler avant de vous deplacer",
+        "note:name": "Boucherie Du Cours"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0459843,
+          45.042942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -24,
+        "osm_type": "node",
+        "ref_id": "3",
+        "note:address": "6 Place Presle, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "Ouverte du mardi au dimanche de 7h30 à 13h\n\nPossibilité de livraison avec paiement en carte bleue",
+        "note:name": "Teysseire Daniel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0610356,
+          45.045963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -25,
+        "osm_type": "node",
+        "ref_id": "6",
+        "note:address": "56 Avenue Gambetta, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "☎️ Appeler avant de vous deplacer",
+        "note:name": "Super U et drive"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0302544,
+          45.04435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -26,
+        "osm_type": "node",
+        "ref_id": "7",
+        "note:address": "Route de Tain, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "8h/18h avec accès prioritaire de 8 a 8h30 pour le personnel soignant/seniors/femme enceinte",
+        "note:name": "Hyper U and drive"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.101887,
+          45.05859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -27,
+        "osm_type": "node",
+        "ref_id": "8",
+        "note:address": "95 Rue Clair, 26750 Saint-Paul-lès-Romans, France",
+        "note:city": "Romans-sur-Isère",
+        "note:name": "E.Leclerc Saint Paul Les Romans"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0575786,
+          45.04983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -28,
+        "osm_type": "node",
+        "ref_id": "9",
+        "note:address": "18 Avenue Emile Zola, 26100 Romans-sur-Isère, France",
+        "note:city": "Romans-sur-Isère",
+        "note:comment": "☎️ Appeler avant de vous deplacer",
+        "note:name": "Utile"
+      },
+      "type": "Feature"
+    }
+  ]
+}

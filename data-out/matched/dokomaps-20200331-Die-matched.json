@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.4855618,
+          44.6933272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1852472149,
+        "osm_type": "node",
+        "ref_coords": [
+          5.4855556,
+          44.693333
+        ],
+        "ref_distance": 0.8,
+        "ref_id": "16",
+        "t.amenity": "restaurant",
+        "t.cuisine": "french",
+        "t.name": "Le Moulin",
+        "t.outdoor_seating": "yes",
+        "note:address": "Chemin du Bez, 26410 Châtillon-en-Diois, France",
+        "note:city": "Die",
+        "note:comment": "https://www.facebook.com/223900454484840/posts/1307884432753098/",
+        "note:name": "Le Moulin D'Enzo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3699294,
+          44.7531449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2257914796,
+        "osm_type": "node",
+        "ref_coords": [
+          5.3699255,
+          44.7531
+        ],
+        "ref_distance": 5,
+        "ref_id": "9",
+        "t.name": "Le Marigny",
+        "t.shop": "newsagent",
+        "t.tobacco": "yes",
+        "note:address": "28 Rue Félix Germain, 26150 Die, France",
+        "note:city": "Die",
+        "note:comment": "Ouvert tous les jours sauf le dimanche après-midi et lundi après-midi",
+        "note:name": "Le Marigny Tabac Presse"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.357083,
+          44.7602079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 72738133,
+        "osm_type": "way",
+        "ref_coords": [
+          5.3571415,
+          44.76016
+        ],
+        "ref_distance": 7.1,
+        "ref_id": "14",
+        "t.addr:city": "Die",
+        "t.addr:postcode": "26150",
+        "t.addr:street": "Avenue de la Clairette",
+        "t.building": "yes",
+        "t.name": "Jaillance",
+        "t.shop": "alcohol",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "note:address": "355 Avenue de la Clairette, 26150 Die, France",
+        "note:city": "Die",
+        "note:comment": "En raison des mesures gouvernementales de confinement nous adaptons l’ouverture du caveau pour cette semaine comme suit :\n\nLundi 23 mars de 9h à 12h et de 14h à 18h\n\nMardi à vendredi de 9h à 12h\n\nSamedi 29 mars de 10h à 18 h\n\nDans l’attente du plaisir de vous y accueillir.",
+        "note:name": "Caveau Jaillance"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3704484,
+          44.75281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3644565869,
+        "osm_type": "node",
+        "ref_coords": [
+          5.370356,
+          44.752823
+        ],
+        "ref_distance": 7.4,
+        "ref_id": "6",
+        "t.name": "La Fromagerie",
+        "t.shop": "cheese",
+        "note:address": "13 Place du Marché, 26150 Die, France",
+        "note:city": "Die",
+        "note:comment": "Ouvert le matin de 8h30 à 12h30",
+        "note:name": "La Fromagerie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3727517,
+          44.7534689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2723372311,
+        "osm_type": "node",
+        "ref_coords": [
+          5.372691,
+          44.753414
+        ],
+        "ref_distance": 7.8,
+        "ref_id": "7",
+        "t.brand": "Vival",
+        "t.brand:wikidata": "Q7937525",
+        "t.brand:wikipedia": "en:Vival (shop)",
+        "t.name": "Vival",
+        "t.shop": "convenience",
+        "t.wheelchair": "no",
+        "note:address": "88 Rue Camille Buffardel, 26150 Die, France",
+        "note:city": "Die",
+        "note:name": "Vival"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3699852,
+          44.7530853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2257914790,
+        "osm_type": "node",
+        "ref_coords": [
+          5.369881,
+          44.753044
+        ],
+        "ref_distance": 9.4,
+        "ref_id": "10",
+        "t.name": "La Gourmandine",
+        "t.shop": "bakery",
+        "note:address": "10 Place du Marché, 26150 Die, France",
+        "note:city": "Die",
+        "note:comment": "Fermé le Lundi - dimanche après-midi",
+        "note:name": "La Gourmandine"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.37479,
+          44.7521774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2469850438,
+        "osm_type": "node",
+        "ref_coords": [
+          5.37478,
+          44.752262
+        ],
+        "ref_distance": 9.5,
+        "ref_id": "1",
+        "t.bulk_purchase": "yes",
+        "t.contact:city": "Die",
+        "t.contact:housenumber": "21",
+        "t.contact:phone": "+33 4 75 22 08 11",
+        "t.contact:postcode": "26150",
+        "t.contact:street": "Rue du Viaduc",
+        "t.contact:website": "http://www.lacarline.coop/",
+        "t.description": "\"Épicerie Bio Locale et Solidaire\"",
+        "t.name": "La Carline",
+        "t.opening_hours": "Mo 15:00-19:00; Tu, Th-Fr 09:00-12:30, 15:00-19:00; Sa 09:00-13:30, 16:00-19:00; We 09:00-13:30, 15:00-19:00",
+        "t.organic": "yes",
+        "t.shop": "convenience",
+        "note:address": "21 Rue du Viaduc, 26150 Die, France",
+        "note:city": "Die",
+        "note:name": "La Carline"
+      },
+      "type": "Feature"
+    }
+  ]
+}

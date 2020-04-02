@@ -1,0 +1,376 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4919072,
+          46.8415733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2389571928,
+        "osm_type": "node",
+        "ref_coords": [
+          -0.491928,
+          46.84157
+        ],
+        "ref_distance": 1.6,
+        "ref_id": "12",
+        "t.addr:city": "Bressuire",
+        "t.addr:housenumber": "1",
+        "t.addr:postcode": "79300",
+        "t.addr:street": "Rue Gambetta",
+        "t.brand": "La Mie Câline",
+        "t.brand:wikidata": "Q3210704",
+        "t.name": "La Mie Câline",
+        "t.shop": "bakery",
+        "note:address": "1 Rue Gambetta, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:name": "La Mie Câline"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4935613,
+          46.8377496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1832256336,
+        "osm_type": "node",
+        "ref_coords": [
+          -0.4935505,
+          46.837765
+        ],
+        "ref_distance": 1.9,
+        "ref_id": "22",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie Saint-Jacques",
+        "t.ref:fr:finess": "790010508",
+        "t.source": "Le ministère des solidarités et de la santé - 08/2018",
+        "note:address": "17 Place Emile Zola, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "Du lundi au vendredi 9h – 12h30\n 14h – 19h\nSamedi 9h – 12h30\n 14h – 18h30",
+        "note:name": "Pharmacie Saint-Jacques"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4901202,
+          46.8434405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3282657644,
+        "osm_type": "node",
+        "ref_coords": [
+          -0.4900996,
+          46.84342
+        ],
+        "ref_distance": 2.8,
+        "ref_id": "23",
+        "t.name": "La Bocagine",
+        "t.shop": "butcher",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2015",
+        "note:address": "1 Rue de la Cave, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "Du mardi au samedi 8h30 – 12h45\n 15h – 18h",
+        "note:name": "la bocagine"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4915721,
+          46.8396974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1793525731,
+        "osm_type": "node",
+        "ref_coords": [
+          -0.4915333,
+          46.839687
+        ],
+        "ref_distance": 3.2,
+        "ref_id": "11",
+        "t.brand": "U Express",
+        "t.brand:wikidata": "Q2529029",
+        "t.brand:wikipedia": "en:Système U",
+        "t.name": "U Express",
+        "t.shop": "supermarket",
+        "note:address": "3 Rue de la Vergne, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "Du lundi au samedi 9h – 18h30\nDimanche 9h – 12h30",
+        "note:name": "U Express"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4922455,
+          46.8414959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1917603671,
+        "osm_type": "node",
+        "ref_coords": [
+          -0.492205,
+          46.84148
+        ],
+        "ref_distance": 3.6,
+        "ref_id": "20",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie Notre-Dame",
+        "t.ref:fr:finess": "790010235",
+        "t.source": "Celtipharm - 10/2014",
+        "note:address": "12 Place Notre Dame, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "Du lundi au vendredi 9h – 12h30\n 14h – 19h15\nSamedi 9h – 12h30",
+        "note:name": "Pharmacie Notre Dame"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4927598,
+          46.8392289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2357677256,
+        "osm_type": "node",
+        "ref_coords": [
+          -0.492728,
+          46.839256
+        ],
+        "ref_distance": 3.9,
+        "ref_id": "15",
+        "t.name": "L'Océan",
+        "t.shop": "seafood",
+        "note:address": "4 Rue Ernest Perochon, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:name": "L'Océan (Sarl) poissonnerie de l 'OCEAN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4938132,
+          46.8379852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1987476173,
+        "osm_type": "node",
+        "ref_coords": [
+          -0.4938209,
+          46.838028
+        ],
+        "ref_distance": 4.8,
+        "ref_id": "8",
+        "t.name": "Le Saint-Jacques",
+        "t.shop": "newsagent",
+        "t.source": "knowledge",
+        "note:address": "2 Place Emile Zola, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "Du lundi au vendredi 6h15 – 12\n 14h-17h\nSamedi 7h – 12h\n 14h - 16h",
+        "note:name": "Le Saint Jacques"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4992553,
+          46.8481666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1759543448,
+        "osm_type": "node",
+        "ref_coords": [
+          -0.4992072,
+          46.8482
+        ],
+        "ref_distance": 5.2,
+        "ref_id": "1",
+        "t.name": "Les Caves de la Vallée",
+        "t.shop": "beverages",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "note:address": "Rue des Coteaux, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "Mardi, Vendredi et Samedi de 9h30 a 12h30",
+        "note:name": "Les Caves de la Vallee Bressuire"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4816682,
+          46.8328058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 66476580,
+        "osm_type": "way",
+        "ref_coords": [
+          -0.4817578,
+          46.83287
+        ],
+        "ref_distance": 9.9,
+        "ref_id": "6",
+        "t.building": "yes",
+        "t.name": "Mon Brico",
+        "t.shop": "doityourself",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "note:address": "Boulevard de l'Europe, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "Du lundi au vendredi 9h – 12h15\n 14h – 18h30\nSamedi 9h – 12h15\n 14h – 18h15",
+        "note:name": "Mon Brico"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4840435,
+          46.8389855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 66476160,
+        "osm_type": "way",
+        "ref_coords": [
+          -0.484082,
+          46.83884
+        ],
+        "ref_distance": 16.5,
+        "ref_id": "3",
+        "t.brand": "Bureau Vallée",
+        "t.brand:wikidata": "Q18385014",
+        "t.building": "yes",
+        "t.name": "Bureau Vallée",
+        "t.shop": "stationery",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "note:address": "64 Boulevard de Poitiers, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "Du lundi au vendredi \n9h à 12h et de 14h à 17h",
+        "note:name": "Bureau Vallée Bressuire - papeterie et photocopie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4931463,
+          46.8391248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 64155989,
+        "osm_type": "way",
+        "ref_coords": [
+          -0.492968,
+          46.839226
+        ],
+        "ref_distance": 17.6,
+        "ref_id": "19",
+        "t.amenity": "pharmacy",
+        "t.building": "yes",
+        "t.dispensing": "yes",
+        "t.name": "Grande Pharmacie du Progrès",
+        "t.ref:fr:finess": "790010045",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "note:address": "1 Rue Ernest Perochon, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "Du lundi au vendredi 9h – 20h\nSamedi 9h - 19h",
+        "note:name": "Pharmacie Du Progrès"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5114041,
+          46.8428345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 622710727,
+        "osm_type": "way",
+        "ref_coords": [
+          -0.5113306,
+          46.842632
+        ],
+        "ref_distance": 23.2,
+        "ref_id": "14",
+        "t.brand": "Biocoop",
+        "t.brand:wikidata": "Q2904039",
+        "t.brand:wikipedia": "fr:Biocoop",
+        "t.building": "yes",
+        "t.bulk_purchase": "yes",
+        "t.name": "Biocoop",
+        "t.opening_hours": "Mo-Sa 09:00-19:00",
+        "t.organic": "only",
+        "t.shop": "supermarket",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2015",
+        "t.wheelchair": "yes",
+        "note:address": "2 Allée Nicolas Copernic, 79300 Bressuire, France",
+        "note:city": "Bressuire",
+        "note:comment": "lundi au samedi de 9h à 18h30 sans interruption",
+        "note:name": "Biocoop Bressuire"
+      },
+      "type": "Feature"
+    }
+  ]
+}

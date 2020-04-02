@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -1.6788349,
+          48.108562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -2,
+        "osm_type": "node",
+        "ref_id": "1",
+        "note:address": "10 Rue Vasselot, 35000 Rennes, France",
+        "note:city": "Rennes",
+        "note:comment": "Pas de changement d'horaires d'ouverture.\n\n\"Bonjour à tous, suite à vos nombreuses questions, nos magasins seront bien approvisionnés pour les rayons alimentaires en priorité. Pas de panique donc et pas besoin de faire du stockage. Plus d'info sur notre actualité sur ce lien : https://scarabee-biocoop.fr/actualites-bio/lapprovisionnement-en-magasin-pas-de-panique\"",
+        "note:name": "Scarabée Biocoop Rennes Rue Vasselot"
+      },
+      "type": "Feature"
+    }
+  ]
+}

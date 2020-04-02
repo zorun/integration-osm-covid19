@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          6.2192536,
+          46.1915699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6365018208,
+        "osm_type": "node",
+        "ref_coords": [
+          6.219253,
+          46.191586
+        ],
+        "ref_distance": 1.8,
+        "ref_id": "2",
+        "t.addr:housenumber": "1",
+        "t.addr:street": "Rue des Bellosses",
+        "t.contact:phone": "+33 4 50 92 52 51",
+        "t.name": "Boucherie du Bel'Os",
+        "t.opening_hours": "Mo off; Tu-Sa 07:30-12:30, 15:00-19:30; Su 08:30-12:30",
+        "t.ref:fr:naf": "4722Z",
+        "t.ref:fr:siren": "442 906 004",
+        "t.ref:fr:siret": "44290600400019",
+        "t.shop": "butcher",
+        "t.start_date": "2002-08-07",
+        "note:address": "1 Rue des Bellosses, 74100 Ambilly, France",
+        "note:city": "Gaillard",
+        "note:comment": "Boucherie de quartier et proposant des produits locaux",
+        "note:name": "Boucherie du Bel'Os"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.2082966,
+          46.1848751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 7235233455,
+        "osm_type": "node",
+        "ref_coords": [
+          6.2082686,
+          46.18493
+        ],
+        "ref_distance": 6.5,
+        "ref_id": "4",
+        "t.addr:housenumber": "5",
+        "t.addr:street": "Cours de la République",
+        "t.contact:phone": "+33 4 50 35 11 94",
+        "t.name": "Le Savoyard Gourmand",
+        "t.opening_hours": "Mo-Sa 08:30-12:30, 14:30-19:30; Su 08:30-15:00",
+        "t.ref:fr:naf": "4729Z",
+        "t.ref:fr:siren": "530 587 187",
+        "t.ref:fr:siret": "53058718700028",
+        "t.shop": "deli",
+        "t.start_date": "2011-02-25",
+        "note:address": "5 Cours de la République, 74240 Gaillard, France",
+        "note:city": "Gaillard",
+        "note:comment": "Savoyard Gourmand proposes des produits locaux et de qualité.",
+        "note:name": "Le Savoyard Gourmand"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.215138,
+          46.1909334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 200081737,
+        "osm_type": "way",
+        "ref_coords": [
+          6.215096,
+          46.190987
+        ],
+        "ref_distance": 6.8,
+        "ref_id": "1",
+        "t.addr:city": "Gaillard",
+        "t.addr:housenumber": "97",
+        "t.addr:postcode": "74240",
+        "t.addr:street": "Rue de Genève",
+        "t.brand": "Casino",
+        "t.brand:wikidata": "Q2670967",
+        "t.brand:wikipedia": "fr:Enseignes du groupe Casino#Casino Supermarchés",
+        "t.building": "retail",
+        "t.building:levels": "1",
+        "t.contact:phone": "+33 4 50 43 96 90",
+        "t.contact:website": "https://magasins.supercasino.fr/supermarche/gaillard/CS163",
+        "t.name": "Casino",
+        "t.opening_hours": "Mo-Sa 08:00-23:59; Su 08:30-23:59",
+        "t.ref:fr:casino": "CS163",
+        "t.shop": "supermarket",
+        "t.source": "Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)",
+        "note:address": "97 Rue de Genève, 74240 Gaillard, France",
+        "note:city": "Gaillard",
+        "note:name": "Casino supermarché"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.2110209,
+          46.1919755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 200400323,
+        "osm_type": "way",
+        "ref_coords": [
+          6.210847,
+          46.19209
+        ],
+        "ref_distance": 18.5,
+        "ref_id": "5",
+        "t.addr:city": "Gaillard",
+        "t.addr:housenumber": "118",
+        "t.addr:postcode": "74240",
+        "t.addr:street": "Rue de Genève",
+        "t.brand:wikidata": "Q610492",
+        "t.building": "retail",
+        "t.building:levels": "1",
+        "t.contact:phone": "+33 4 50 38 80 40",
+        "t.contact:website": "https://magasins.spar.fr/fr/s/spar-supermarche-gaillard",
+        "t.name": "Spar",
+        "t.opening_hours": "Mo-Sa 08:30-20:00; Su 08:30-12:15",
+        "t.operator": "Spar",
+        "t.shop": "supermarket",
+        "t.source": "Bing;Orthophotos 2011 du SITG (Système d'Information du Territoire Genevois)",
+        "t.wheelchair": "yes",
+        "note:address": "118 Rue de Genève, 74240 Gaillard, France",
+        "note:city": "Gaillard",
+        "note:comment": "Supermarché de quartier",
+        "note:name": "Spar"
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.0172793,
+          44.7294888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5343911373,
+        "osm_type": "node",
+        "ref_coords": [
+          5.01728,
+          44.729507
+        ],
+        "ref_distance": 2,
+        "ref_id": "27",
+        "t.name": "L'Epicerie Nouvelle",
+        "t.opening_hours": "Mo-Sa 07:30-12:30; Mo-Sa 14:30-19:00",
+        "t.organic": "only",
+        "t.phone": "+33 4 75 83 19 43",
+        "t.shop": "supermarket",
+        "t.website": "http://epicerienouvelle.com/",
+        "note:address": "Rue Edouard Branly, 26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Horaires\nLundi au Samedi : de 7h30 à 12h30 et de 14h30 à 19h\n\nTél. 04 75 83 19 43",
+        "note:name": "Epicerie nouvelle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0175516,
+          44.7295061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5649666669,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0175433,
+          44.729534
+        ],
+        "ref_distance": 3.2,
+        "ref_id": "22",
+        "t.name": "Au Petit Primeur",
+        "t.shop": "greengrocer",
+        "note:address": "Rue Edouard Branly, 26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Horaires:\nLundi au Samedi de 7h à 18h\n\nTel : 04 75 76 72 85",
+        "note:name": "Au _ Petit Primeur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0192834,
+          44.7306245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4646785652,
+        "osm_type": "node",
+        "ref_coords": [
+          5.019262,
+          44.730656
+        ],
+        "ref_distance": 3.9,
+        "ref_id": "36",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie du Bourg",
+        "t.opening_hours": "Mo-Fr 09:00-12:30, 14:30-19:00; Sa 09:00-12:30",
+        "t.phone": "+33 475250204",
+        "t.ref:fr:finess": "260004866",
+        "t.source": "Celtipharm - 10/2014",
+        "t.website": "http://www.pharmacie-crest.fr",
+        "note:address": "7 Rue Sainte-Euphémie, 26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Horaires :\nLundi au Vendredi de 9h à 12h15 et de 14h30 à 19h\nSamedi de 9h à 12h\n\nTél. 04 75 25 02 04",
+        "note:name": "Pharmacie du Bourg"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0174827,
+          44.7294813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5649666670,
+        "osm_type": "node",
+        "ref_coords": [
+          5.017555,
+          44.72949
+        ],
+        "ref_distance": 5.8,
+        "ref_id": "28",
+        "t.name": "La Boucherie du Petit Primeur",
+        "t.shop": "butcher",
+        "note:address": "25 Rue Edouard Branly, 26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Boucherie du Petit Primeur\n\nHoraires\nMardi au Samedi de 7h à 12h30 et de 14h30 à 18h\n\nTèl. 04 75 25 20 98",
+        "note:name": "Boucherie _ J.l.m"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0159935,
+          44.7302386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2411198549,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0160847,
+          44.730186
+        ],
+        "ref_distance": 9.3,
+        "ref_id": "15",
+        "t.name": "Honorin",
+        "t.shop": "bakery",
+        "note:address": "26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Horaires :\nLundi au Vendredi de 7h à 14h \nSamedi de 7h à 13h",
+        "note:name": "Honorin, pains, sandwichs & compagnie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0217468,
+          44.7281007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4646812706,
+        "osm_type": "node",
+        "ref_coords": [
+          5.021761,
+          44.728188
+        ],
+        "ref_distance": 9.8,
+        "ref_id": "39",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie du Pont",
+        "t.opening_hours": "Mo-Sa 08:30-12:15,14:30-19:00",
+        "t.ref:fr:finess": "260004767",
+        "t.source": "Celtipharm - 10/2014",
+        "t.website": "https://www.pharmaciedupont-crest.fr/",
+        "note:address": "12 Rue Maurice Long, 26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Horaires exceptionnels (confinement)\ndu lundi au Vendredi : de 9h à 12h et de 14h à 19h\nle samedi : de 9h à 12h et de 14h30 à 18h30\n\nTel : 04 75 40 66 58\n\nNe pas tenir compte des horaires ci-dessous.",
+        "note:name": "Pharmacie du Pont"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.006725,
+          44.7353326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 72549651,
+        "osm_type": "way",
+        "ref_coords": [
+          5.0068626,
+          44.7353
+        ],
+        "ref_distance": 11.5,
+        "ref_id": "4",
+        "t.building": "yes",
+        "t.name": "Véziant",
+        "t.shop": "stationery",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "note:address": "Rue Jean Jaurès, 26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Horaires :\n\ndu lundi au vendredi : 9h-12h          \n\nTél : 04 75 25 10 52",
+        "note:name": "Imprimerie Papeterie Veziant"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0114841,
+          44.7338474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4646823396,
+        "osm_type": "node",
+        "ref_coords": [
+          5.011376,
+          44.733772
+        ],
+        "ref_distance": 12,
+        "ref_id": "40",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie Centrale",
+        "t.ref:fr:finess": "260004601",
+        "t.source": "Celtipharm - 10/2014",
+        "note:address": "7 Rue Lieutenant Michel Prunet, 26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Horaires :\nLundi au Vendredi de 9h à 12h et de 14h30 à 19h\nSamedi de 9h à 12h et de 14h30 à 18h30\n\nTèl. 04 75 40 62 20",
+        "note:name": "Pharmacie Centrale"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0116347,
+          44.7330877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4326897148,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0114126,
+          44.733067
+        ],
+        "ref_distance": 17.7,
+        "ref_id": "18",
+        "t.brand": "Aldi",
+        "t.brand:wikidata": "Q125054",
+        "t.name": "Aldi",
+        "t.opening_hours": "Mo-Sa 08:30-20:00",
+        "t.shop": "supermarket",
+        "note:address": "Avenue Félix Rozier, 26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Horaires :\nLundi au Samedi : de 10h à 18h",
+        "note:name": "ALDI"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0185267,
+          44.7285997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5449186292,
+        "osm_type": "node",
+        "ref_coords": [
+          5.0179386,
+          44.728764
+        ],
+        "ref_distance": 50,
+        "ref_id": "25",
+        "t.addr:city": "Crest",
+        "t.addr:housenumber": "51",
+        "t.addr:postcode": "26400",
+        "t.addr:street": "Rue Emile Loubet",
+        "t.name": "La Cave du Bourg",
+        "t.shop": "wine",
+        "t.website": "http://www.cave-du-bourg.fr/",
+        "note:address": "51 Rue Emile Loubet, 26400 Crest, France",
+        "note:city": "Crest",
+        "note:comment": "Horaires:\n les mardis et vendredis de 9h à 12h30",
+        "note:name": "Cave du Bourg"
+      },
+      "type": "Feature"
+    }
+  ]
+}

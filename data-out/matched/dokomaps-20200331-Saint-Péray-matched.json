@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          4.8411728,
+          44.9440834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 455154323,
+        "osm_type": "node",
+        "ref_coords": [
+          4.8411713,
+          44.944096
+        ],
+        "ref_distance": 1.4,
+        "ref_id": "4",
+        "t.addr:city": "Saint-Péray",
+        "t.addr:housenumber": "10",
+        "t.addr:postcode": "07130",
+        "t.addr:street": "Place de l'Hôtel de Ville",
+        "t.brand": "Vival",
+        "t.brand:wikidata": "Q7937525",
+        "t.brand:wikipedia": "en:Vival (shop)",
+        "t.level": "0",
+        "t.name": "Vival",
+        "t.opening_hours": "Mo-Sa 08:00-12:30,15:00-19:30; Su 08:00-12:15",
+        "t.opening_hours:covid19": "Mo-Sa 08:00-14:00; Su 08:00-12:00",
+        "t.operator": "Cinocle",
+        "t.payment:cash": "yes",
+        "t.payment:contactless": "yes",
+        "t.payment:credit_cards": "yes",
+        "t.payment:debit_cards": "yes",
+        "t.phone": "+33 4 75 40 51 10",
+        "t.shop": "convenience",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008;local knowledge",
+        "t.website": "https://magasins.vival.fr/fr/s/vival-saint-peray",
+        "t.wheelchair": "no",
+        "note:address": "10 Place de la Mairie, 07130 Saint-Péray, France",
+        "note:city": "Saint-Péray",
+        "note:comment": "Nouveaux horaire a definir \nConseillé d'appeler avant de vous déplacer\ntel: 04 75 40 51 10",
+        "note:name": "Vival"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8543417,
+          44.9447819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4369382974,
+        "osm_type": "node",
+        "ref_coords": [
+          4.854303,
+          44.944775
+        ],
+        "ref_distance": 3.1,
+        "ref_id": "6",
+        "t.addr:city": "Saint-Péray",
+        "t.addr:postcode": "07130",
+        "t.addr:street": "Avenue de Gross Umstadt",
+        "t.brand": "Satoriz",
+        "t.brand:wikidata": "Q3473968",
+        "t.brand:wikipedia": "fr:Satoriz",
+        "t.bulk_purchase": "yes",
+        "t.contact:facebook": "https://www.facebook.com/SatorizMagasinsBio",
+        "t.contact:phone": "+33 4 75 78 31 10",
+        "t.name": "Satoriz",
+        "t.opening_hours": "Mo-Sa 08:30-19:30",
+        "t.organic": "only",
+        "t.shop": "supermarket",
+        "t.website": "http://www.satoriz.fr",
+        "note:address": "100 avenue Gross Umstadt Zone Murets Satoriz, 07130 Saint-Péray, France",
+        "note:city": "Saint-Péray",
+        "note:comment": "Nouveaux horaires 10:00 - 17:00",
+        "note:name": "Satoriz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8611613,
+          44.9419262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 826791979,
+        "osm_type": "node",
+        "ref_coords": [
+          4.861126,
+          44.94207
+        ],
+        "ref_distance": 16.2,
+        "ref_id": "1",
+        "t.name": "La baguetterie",
+        "t.shop": "bakery",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "note:address": "767 Avenue Gross Umstadt, 07130 Saint-Péray, France",
+        "note:city": "Saint-Péray",
+        "note:comment": "Horaires exceptionnels: \nOuverture de 5h à 18h",
+        "note:name": "La Baguetterie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8597557,
+          44.942674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4379751143,
+        "osm_type": "node",
+        "ref_coords": [
+          4.8602242,
+          44.9429
+        ],
+        "ref_distance": 44.7,
+        "ref_id": "3",
+        "t.addr:housenumber": "629",
+        "t.addr:street": "Av. Gross Umstadt",
+        "t.name": "Boucherie Demars",
+        "t.opening_hours": "Tu-Fr 07:00-12:45, 15:00-19:00; Sa 07:00-12:45, 14:30-18:30",
+        "t.phone": "+33475853647",
+        "t.shop": "butcher",
+        "t.website": "boucheriedemars.e-monsite.com",
+        "note:address": "629 Avenue Gross Umstadt, 07130 Saint-Péray, France",
+        "note:city": "Saint-Péray",
+        "note:comment": "Horaires exceptionnels\nOuvert seulement le matin de 7h30 à 12h30",
+        "note:name": "Boucherie DEMARS"
+      },
+      "type": "Feature"
+    }
+  ]
+}

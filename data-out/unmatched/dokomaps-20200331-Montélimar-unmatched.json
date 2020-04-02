@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          4.7450824,
+          44.532967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -4,
+        "osm_type": "node",
+        "ref_id": "1",
+        "note:address": "Face Truffaut, 206 Route de Marseille, 26200 Montélimar, France",
+        "note:city": "Montélimar",
+        "note:comment": "\"Livraison du MARDI au SAMEDI, de 17h à 19h en répondant à cette feuille de commande, à envoyer par mail (lafabriquemontelimar@gmail.com) ou en MP Facebook sur notre page (La FABrique).\nLivraison dans la limite des STOCKS DISPONIBLES aux alentours de Montélimar pour toute commande d'un minimum de 25 euros.🍻\nChoses moins rigolotes :\n⭕️ Paiement au maximum en CB, pour éviter tout contact et échange de monnaie.\n⭕️ Réception de votre commande à l’extérieur (nous n’entrerons dans aucune maison, ni hall d’immeuble)\n⭕️ Désinfection des mains obligatoire avant paiement\n⭕️ Respecter 1 mètre de distance\nNous ferons de notre mieux. \nMERCI À TOUS pour votre compréhension 😉🤘\"",
+        "note:name": "La FABrique - Brasserie Artisanale & Bar"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.75187,
+          44.555923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -5,
+        "osm_type": "node",
+        "ref_id": "2",
+        "note:address": "41 Boulevard Meynot, 26200 Montélimar, France",
+        "note:city": "Montélimar",
+        "note:comment": "\"Votre restaurant reste ouvert pour les livraisons Uber et les ventes à emporter.\nAppelez au : 04 75 46 88 02. \"",
+        "note:name": "American Street"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.7589254,
+          44.555435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -6,
+        "osm_type": "node",
+        "ref_id": "4",
+        "note:address": "1 Route de Saint-Gervais, 26200 Montélimar, France",
+        "note:city": "Montélimar",
+        "note:comment": "Pas de changement au niveau des horaires d'ouverture pour le moment",
+        "note:name": "Aprium Grande Pharmacie de l'Europe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.749496,
+          44.556946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -7,
+        "osm_type": "node",
+        "ref_id": "7",
+        "note:address": "1 Rue Maréchal Leclerc, 26200 Montélimar, France",
+        "note:city": "Montélimar",
+        "note:comment": "🚨🚨🚨 Suite à la disposition du gouvernement, ALLOPIZZA26 vous propose la livraison à domicile 🛵ou à emporter   🥡en respectant les normes sanitaires conseillées par l'État.\nCommander en ligne 7j/7 de 11h à 14h et de 18h à 23h\nou au : 04 75 54 48 36",
+        "note:name": "Livraison de pizza, de tacos, de burgers sur Montélimar - AlloPizza26.fr™"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.7476463,
+          44.560585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -8,
+        "osm_type": "node",
+        "ref_id": "8",
+        "note:address": "2 Avenue de Rochemaure, 26200 Montélimar, France",
+        "note:city": "Montélimar",
+        "note:comment": "Le camion Pizza Laurent 26 de nouveau présent  mercredi au dimanche soir dès 18h.... Penser à venir avec votre attestation....  à Montélimar.",
+        "note:name": "Pizza Laurent"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.7484593,
+          44.556507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -9,
+        "osm_type": "node",
+        "ref_id": "9",
+        "note:address": "12 Avenue Charles de Gaulle, 26200 Montélimar, France",
+        "note:city": "Montélimar",
+        "note:comment": "A emporter 🥡 ou  Livraison  en passant par UberEat\nNumero pour commande 04 75 51 01 96",
+        "note:name": "Star Kebab"
+      },
+      "type": "Feature"
+    }
+  ]
+}

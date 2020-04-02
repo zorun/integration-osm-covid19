@@ -1,0 +1,535 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.3198898,
+          45.1537535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1583597723,
+        "osm_type": "node",
+        "ref_coords": [
+          5.319887,
+          45.15374
+        ],
+        "ref_distance": 1.5,
+        "ref_id": "25",
+        "t.name": "Boulangerie Lebreton",
+        "t.shop": "bakery",
+        "note:address": "15 Place d'Armes, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Tous les jours de 6h à 13h30 et de 17h à 19h",
+        "note:name": "Boulangerie Lebreton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3093835,
+          45.1453305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 118070252,
+        "osm_type": "way",
+        "ref_coords": [
+          5.309373,
+          45.145348
+        ],
+        "ref_distance": 2.1,
+        "ref_id": "31",
+        "t.building": "retail",
+        "t.name": "Provenc'Halles",
+        "t.opening_hours:covid19": "open",
+        "t.shop": "greengrocer",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "note:address": "Avenue de Romans, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "09h00 à 12h30 - 14h30 à 18h00\nSamedi : de 9h00 à 18h00",
+        "note:name": "Provenc'halle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3205416,
+          45.1526827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5159307422,
+        "osm_type": "node",
+        "ref_coords": [
+          5.3205094,
+          45.152702
+        ],
+        "ref_distance": 3.3,
+        "ref_id": "5",
+        "t.drink:wine": "yes",
+        "t.name": "Les Carmes",
+        "t.shop": "alcohol",
+        "note:address": "3 Place des Carmes, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Du mardi au samedi : 9h00 à 13h00 et de 15h00 à 19h00",
+        "note:name": "Les Carmes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3026055,
+          45.141127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 129740629,
+        "osm_type": "way",
+        "ref_coords": [
+          5.3025713,
+          45.141098
+        ],
+        "ref_distance": 4.2,
+        "ref_id": "6",
+        "t.building": "yes",
+        "t.name": "Au Palais Fermier",
+        "t.shop": "farm",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "note:address": "950 A ZI la Gloriette, 38160 Chatte, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Au Palais Fermier\nCommandes au 09 64 47 38 44\nHoraires de retrait :\n- A partir de 16h pour toute commande passée avant midi\n- A partir de 11h pour toute commande passée la veille avant 18h",
+        "note:name": "The farmer Palace"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.410725,
+          45.2079895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5455155,
+        "osm_type": "relation",
+        "ref_coords": [
+          5.410751,
+          45.207954
+        ],
+        "ref_distance": 4.4,
+        "ref_id": "9",
+        "t.building": "yes",
+        "t.name": "La Halle Fermière",
+        "t.opening_hours": "Th,Fr 08:30-12:30,14:30-18:30; Sa 08:30-13:00",
+        "t.shop": "farm",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "t.type": "multipolygon",
+        "t.wall": "no",
+        "note:address": "20 Avenue de la Gare, 38470 Vinay, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Horaires habituels\nTel : 04 76 36 68 49",
+        "note:name": "La halle fermière"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.323319,
+          45.1542165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 118067758,
+        "osm_type": "way",
+        "ref_coords": [
+          5.323348,
+          45.154182
+        ],
+        "ref_distance": 4.5,
+        "ref_id": "12",
+        "t.amenity": "pharmacy",
+        "t.building": "yes",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie Centrale",
+        "t.ref:fr:finess": "380009803",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "note:address": "7 Rue du Château Bayard, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Lundi au Samedi : 8h30-12h et 14h-19h",
+        "note:name": "Pharmacie Centrale Michel Girond"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3201303,
+          45.1527271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5320372553,
+        "osm_type": "node",
+        "ref_coords": [
+          5.320154,
+          45.152687
+        ],
+        "ref_distance": 4.8,
+        "ref_id": "21",
+        "t.name": "Magpresse",
+        "t.shop": "newsagent",
+        "note:address": "63 Grande Rue, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Ghersinu le Jaurès \nEn semaine 7h-19h\nLe dimanche 7h-12h30",
+        "note:name": "Mag Presse"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3232157,
+          45.154829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5673454488,
+        "osm_type": "node",
+        "ref_coords": [
+          5.323279,
+          45.15487
+        ],
+        "ref_distance": 6.7,
+        "ref_id": "15",
+        "t.name": "Boulangerie du Faubourg",
+        "t.shop": "bakery",
+        "note:address": "36 Rue du Faubourg Vinay, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Mardi au Dimanche : 6h-12h30 et 15h30-19h",
+        "note:name": "Boulangerie du Faubourg"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3220615,
+          45.1529357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1772951530,
+        "osm_type": "node",
+        "ref_coords": [
+          5.3221498,
+          45.152973
+        ],
+        "ref_distance": 8.1,
+        "ref_id": "4",
+        "t.addr:postcode": "38160",
+        "t.amenity": "post_office",
+        "t.atm": "yes",
+        "t.change_machine": "yes",
+        "t.copy_facility": "yes",
+        "t.deaf:description:fr": "Distributeur de billets avec prise audio",
+        "t.name": "Saint-Marcellin",
+        "t.note": "situation : 3 BOULEVARD GAMBETTA",
+        "t.operator": "La Poste",
+        "t.phone": "3631",
+        "t.ref:fr:laposte": "07255A",
+        "t.source": "data.gouv.fr:LaPoste - 06/2015",
+        "t.stamping_machine": "yes",
+        "t.wheelchair": "yes",
+        "note:address": "3 Boulevard Gambetta, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Horaire et disposition pour envoyer du courrier en recommander",
+        "note:name": "Post Office"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3170938,
+          45.1514302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1773373858,
+        "osm_type": "node",
+        "ref_coords": [
+          5.3170595,
+          45.151512
+        ],
+        "ref_distance": 9.5,
+        "ref_id": "20",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie des Cedres",
+        "t.ref:fr:finess": "380009837",
+        "t.source": "Celtipharm - 10/2014",
+        "note:address": "2 Avenue de Provence, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Lundi au Vendredi : 8h30-12h30 et 14h-19h30 \nSamedi : 8h30-12h30 et 14h-19h",
+        "note:name": "Pharmacie Des Cèdres (Crozet)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.320776,
+          45.153688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1328727616,
+        "osm_type": "node",
+        "ref_coords": [
+          5.3208637,
+          45.153625
+        ],
+        "ref_distance": 9.8,
+        "ref_id": "14",
+        "t.addr:city": "Saint-Marcellin",
+        "t.addr:housenumber": "7",
+        "t.addr:postcode": "38160",
+        "t.addr:street": "Place d'Armes",
+        "t.amenity": "pharmacy",
+        "t.dispensing": "yes",
+        "t.name": "Pharmacie du Kiosque",
+        "t.ref:fr:finess": "380009787",
+        "t.ref:fr:siret": "49248911700019",
+        "t.source": "Celtipharm - 10/2014",
+        "t.type:fr:finess": "620",
+        "note:address": "7 Place d'Armes, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Lundi au Samedi : 8h30-12h et 14h-19h",
+        "note:name": "Pharmacie du Kiosque"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3208214,
+          45.153448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5673454486,
+        "osm_type": "node",
+        "ref_coords": [
+          5.3209534,
+          45.153484
+        ],
+        "ref_distance": 11.1,
+        "ref_id": "32",
+        "t.name": "Vival",
+        "t.shop": "supermarket",
+        "note:address": "36 Grande Rue, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Tous les jours : 7h30 - 21h",
+        "note:name": "Vival"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.322038,
+          45.1541665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1774681015,
+        "osm_type": "node",
+        "ref_coords": [
+          5.322135,
+          45.154243
+        ],
+        "ref_distance": 11.4,
+        "ref_id": "29",
+        "t.name": "Le jardin de Beauvoir",
+        "t.shop": "convenience",
+        "note:address": "17 Grande Rue, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "8 h - 12 h du mardi au dimanche",
+        "note:name": "Le Jardin de Beauvoir"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3124753,
+          45.1485539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 551622812,
+        "osm_type": "way",
+        "ref_coords": [
+          5.3125386,
+          45.14846
+        ],
+        "ref_distance": 11.6,
+        "ref_id": "24",
+        "t.addr:city": "Saint-Marcellin",
+        "t.addr:postcode": "38160",
+        "t.addr:street": "Avenue de Romans",
+        "t.brand": "Lidl",
+        "t.brand:wikidata": "Q151954",
+        "t.brand:wikipedia": "fr:Lidl",
+        "t.building": "retail",
+        "t.name": "Lidl",
+        "t.shop": "supermarket",
+        "note:address": "Avenue de Romans, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Lundi au samedi : 8h30 - 19h30",
+        "note:name": "Lidl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3169788,
+          45.1531466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5823447161,
+        "osm_type": "node",
+        "ref_coords": [
+          5.317053,
+          45.153244
+        ],
+        "ref_distance": 12.3,
+        "ref_id": "22",
+        "t.brand": "Colruyt",
+        "t.brand:wikidata": "Q2363991",
+        "t.name": "Colruyt",
+        "t.shop": "supermarket",
+        "note:address": "16 Cours Vallier, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Du lundi au samedi : 9H00-19H. Fermé le dimanche.",
+        "note:name": "Supermarché Colruyt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3213815,
+          45.1547635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1773553529,
+        "osm_type": "node",
+        "ref_coords": [
+          5.3215427,
+          45.1548
+        ],
+        "ref_distance": 13.3,
+        "ref_id": "17",
+        "t.name": "Le Duo Gourmand",
+        "t.opening_hours": "Mo,Tu,Th,Fr 06:15-12:45,15:30-19:15; Sa,Su 06:30-12:30",
+        "t.shop": "bakery",
+        "note:address": "9 Rue Jean Baillet, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "Lundi/Mardi/Jeudi/Vendredi : 6h15-13h et 16h-19h30\nMercredi : 6h15-13h\nSamedi et Dimanche : 6h15-13h",
+        "note:name": "Le Duo Gourmand"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3102898,
+          45.145978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5823398722,
+        "osm_type": "node",
+        "ref_coords": [
+          5.310095,
+          45.145714
+        ],
+        "ref_distance": 33.1,
+        "ref_id": "10",
+        "t.addr:city": "Saint-Marcellin",
+        "t.addr:housenumber": "9",
+        "t.addr:postcode": "38160",
+        "t.addr:street": "Avenue de Romans",
+        "t.name": "Maison Brialon",
+        "t.opening_hours": "Mo-Su 06:00-19:15",
+        "t.shop": "bakery",
+        "note:address": "9 Avenue de Romans, 38160 Saint-Marcellin, France",
+        "note:city": "Saint-Marcellin",
+        "note:comment": "du lundi au samedi de 6h à 19h15 sans interruption",
+        "note:name": "Maison Brialon"
+      },
+      "type": "Feature"
+    }
+  ]
+}

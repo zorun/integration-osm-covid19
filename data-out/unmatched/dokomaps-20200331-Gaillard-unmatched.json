@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          6.220279,
+          46.18527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -5,
+        "osm_type": "node",
+        "ref_id": "3",
+        "note:address": "9 Rue de l'Industrie, 74240 Gaillard, France",
+        "note:city": "Gaillard",
+        "note:comment": "COMMANDEZ MAINTENANT \n RETIREZ VOS FRUITS ET LEGUMES JEUDI 02 AVRIL\n 04 50 92 00 39  06 75 78 24 70  Messages privés\nVENTES A LA FERME LES VENDREDIS & SAMEDIS DU 8H A 14H !",
+        "note:name": "Costa Earl"
+      },
+      "type": "Feature"
+    }
+  ]
+}

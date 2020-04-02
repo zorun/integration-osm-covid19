@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          4.8587575,
+          44.943165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -5,
+        "osm_type": "node",
+        "ref_id": "2",
+        "note:address": "Avenue Gross Umstadt, 07130 Saint-Péray, France",
+        "note:city": "Saint-Péray",
+        "note:comment": "Horaires exceptionnels: \nOuverture de 7h30 à 18h30",
+        "note:name": "Boulangerie Marie Blachère"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8409004,
+          44.943367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -6,
+        "osm_type": "node",
+        "ref_id": "5",
+        "note:address": "10 Rue Ferdinand Malet, 07130 Saint-Péray, France",
+        "note:city": "Saint-Péray",
+        "note:comment": "Nouveaux horaires a partir du 18 Mars\n6h00 - 14h00",
+        "note:name": "Au Fournil de Nicolas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.841819,
+          44.944542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -7,
+        "osm_type": "node",
+        "ref_id": "7",
+        "note:address": "70 Rue de la République, 07130 Saint-Péray, France",
+        "note:city": "Saint-Péray",
+        "note:comment": "\"Chers clients,\nEn ces moments très difficiles notre priorité absolu est de protéger nos clients et notre équipe afin de limiter au maximum la propagation du virus, nous avons pris les mesures qui s'imposent naturellement dans un cas aussi exceptionnel.\nN’hésitez pas à passer vos commandes au 04.75.40.30.52, par mail, ou par Facebook. Afin de gérer au mieux la situation, pour éviter les attentes trop longue en magasin et la rupture de stock de certains produits. \nVotre boucherie traiteur est ouverte aux horaires habituels :\nMardi : 6h30 - 19h30\nMercredi : 6h30 - 12h30 \nJeudi, vendredi, samedi : 6h30-19h30\nDimanche : 7h30 - 12h15 \nNotre équipe vous y accueillent en suivant les règles d'hygiène les plus strictes, nettoyer et désinfecter là poignet de porte ainsi que l’appareil à carte bleu régulièrement, lavage des mains et/ou désinfecter avec une solution hydroalcoolique entre chaque paiements nous vous servirons (comme d’habitude) avec des gants sur chaque mains, portant chacun un masque et limitant le nombre de clients par 2 au sein de l'établissements. \nNous vous remercions de respecter les règles sanitaires pour éviter tout risque de contagion, notamment de conserver une distance minimum de 1 mètre entre vous dans la file d'attente.\nLa boutique met en place des services de livraison sur St-peray, Guilherand-Grange, Cornas et Toulaud (uniquement produits frais pour un minimum de 10€) le mardi, jeudi, vendredi et samedi de 12h à 14h et de 16h à 18h, par téléphone/Facebook\nSoyons tous responsables, protégeons nous, protégeons les plus fragiles, et nos proches. \nBon courage à vous dans cet épreuve.\nMorgane, Paul-Alexandre, Guillaume et Alicia.\"",
+        "note:name": "Boucherie Charcuterie Traiteur Marlard"
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          3.0915283,
+          50.632587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 2717259647,
+        "osm_type": "node",
+        "ref_coords": [
+          3.0915267,
+          50.632584
+        ],
+        "ref_distance": 0.4,
+        "ref_id": "48",
+        "t.addr:housenumber": "186",
+        "t.amenity": "restaurant",
+        "t.cuisine": "asian",
+        "t.name": "Fives Thai",
+        "note:address": "186 Rue Pierre Legrand, 59800 Lille, France",
+        "note:city": "Lille",
+        "note:comment": "Vous pouvez commander les plats sur le site web : www.fivesthai.fr avant 10h30 pour le midi. Service à emporter (devant le magasin) ou en livraison.",
+        "note:name": "Fives Thaï Bangkok"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0611229,
+          50.6259041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 42325110,
+        "osm_type": "way",
+        "ref_coords": [
+          3.0611396,
+          50.625908
+        ],
+        "ref_distance": 1.3,
+        "ref_id": "27",
+        "t.amenity": "restaurant",
+        "t.building": "yes",
+        "t.contact:phone": "+33 3 20 92 55 75",
+        "t.contact:website": "http://www.los3compadres.com",
+        "t.cuisine": "mexican",
+        "t.name": "Los 3 compadres",
+        "t.opening_hours": "Tu-Sa 11:30-14:00,19:00-23:00",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
+        "note:address": "80 Rue Brûle Maison, 59000 Lille, France",
+        "note:city": "Lille",
+        "note:comment": "Toute la carte à emporter sauf molcajete. Prix identiques.",
+        "note:name": "Los 3 compadres"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0436062,
+          50.6317659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5803644997,
+        "osm_type": "node",
+        "ref_coords": [
+          3.0436232,
+          50.631775
+        ],
+        "ref_distance": 1.6,
+        "ref_id": "46",
+        "t.amenity": "restaurant",
+        "t.contact:phone": "+33 320401097",
+        "t.contact:website": "https://pancook.fr/",
+        "t.diet:vegetarian": "yes",
+        "t.name": "Pancook",
+        "t.tag": "pg",
+        "note:address": "125 Rue Colbert, 59000 Lille, France",
+        "note:city": "Lille",
+        "note:comment": "\"Pancook ouvert en carte réduite du lundi au vendredi midi de 11h30 à 14h et du mercredi pour samedi soir de 19h à 21h30.\n\nNous proposons également un service de livraison pour toutes adresses à 10 minutes du Pancook afin de garantir la fraîcheur des plats.\n\nPour votre choix :\n→ les trois 3 Pancook,\n→ le trio de Pancook\n→ le potjevleesch\n→ les croquettes de crevettes\n→ la salade du moment.\n\nVous pouvez également passer vos commandes par avance sur le site du Pancook (https://pancook.fr/reservez-votre-table/) ou par téléphone au +33 7 82 42 24 84‬\"",
+        "note:name": "PANCOOK Lille"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0669274,
+          50.6377389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6276579998,
+        "osm_type": "node",
+        "ref_coords": [
+          3.066941,
+          50.637753
+        ],
+        "ref_distance": 1.8,
+        "ref_id": "10",
+        "t.brand": "Carrefour City",
+        "t.brand:wikidata": "Q2940187",
+        "t.brand:wikipedia": "fr:Carrefour City",
+        "t.name": "Carrefour City",
+        "t.operator": "Groupe Carrefour",
+        "t.operator:wikidata": "Q3117359",
+        "t.operator:wikipedia": "fr:Groupe Carrefour",
+        "t.shop": "supermarket",
+        "note:address": "1-7 Rue des Arts, 59000 Lille, France",
+        "note:city": "Lille",
+        "note:name": "Carrefour City Arts Lille"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.9402155,
+          50.5735738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6643486595,
+        "osm_type": "node",
+        "ref_coords": [
+          2.9402602,
+          50.573566
+        ],
+        "ref_distance": 3.3,
+        "ref_id": "53",
+        "t.addr:street": "Place Pasteur",
+        "t.amenity": "restaurant",
+        "t.cuisine": "pizza",
+        "t.name": "L'Italien",
+        "t.opening_hours": "Tu-Fr 11:30-14:00, 18:30-21:30; Sa-Su 18:30-21:30",
+        "note:address": "2 Rue Faidherbe, 59136 Wavrin, France",
+        "note:city": "Lille",
+        "note:comment": "L'italien - 2 Rue Faidherbe, 59136 Wavrin \n\nOuvert pour des pizzas à emporter (Pensez à réserver au 0320903641 afin d'éviter le flux).",
+        "note:name": "L'italien"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0644294,
+          50.6314679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 40875591,
+        "osm_type": "way",
+        "ref_coords": [
+          3.0644886,
+          50.631504
+        ],
+        "ref_distance": 5.8,
+        "ref_id": "41",
+        "t.addr:housenumber": "15",
+        "t.addr:street": "Place Jacquart",
+        "t.amenity": "restaurant",
+        "t.building": "yes",
+        "t.cuisine": "italian",
+        "t.diet:vegan": "no",
+        "t.diet:vegetarian": "yes",
+        "t.name": "Gusto Mio",
+        "t.opening_hours": "Mo-Fr 11:00-14:30",
+        "t.phone": "+33 3 74 99 25 10",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
+        "t.wheelchair": "no",
+        "note:address": "15 Pl. Jacquard, 59000 Lille, France",
+        "note:city": "Lille",
+        "note:comment": "Carte habituelle à emporter ou en livraison sur Deliveroo.",
+        "note:name": "Gusto Mio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.073518,
+          50.655366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 108796796,
+        "osm_type": "way",
+        "ref_coords": [
+          3.073421,
+          50.655365
+        ],
+        "ref_distance": 6.8,
+        "ref_id": "22",
+        "t.addr:city": "La Madeleine",
+        "t.addr:housenumber": "169",
+        "t.addr:postcode": "59110",
+        "t.addr:street": "Rue du Général de Gaulle",
+        "t.amenity": "restaurant",
+        "t.building": "yes",
+        "t.cuisine": "pizza",
+        "t.name": "Pizza Gourmet",
+        "t.phone": "+33 6 77 31 38 41",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "t.takeaway": "yes",
+        "t.website": "https://pizzagourmetlille.wordpress.com/",
+        "note:address": "169 Rue du Général de Gaulle, 59110 La Madeleine, France",
+        "note:city": "Lille",
+        "note:comment": "Carte habituelle uniquement à emporter.",
+        "note:name": "Pizza Gourmet"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.056455,
+          50.6305884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5455331790,
+        "osm_type": "node",
+        "ref_coords": [
+          3.056553,
+          50.630604
+        ],
+        "ref_distance": 7.1,
+        "ref_id": "43",
+        "t.amenity": "restaurant",
+        "t.contact:facebook": "https://www.facebook.com/Pixiesbar/",
+        "t.cuisine": "burger",
+        "t.name": "Pixies Bar&Burger",
+        "t.source": "survey",
+        "t.survey:date": "2018-02",
+        "note:address": "33 Rue Ernest Deconynck, 59800 Lille, France",
+        "note:city": "Lille",
+        "note:comment": "Le pixies sera ouvert 7j/7 en livraison et à emporter. \n\nLundi mardi mercredi jeudi 11h30 / 14h30 - 18h3 /23h30\nVendredi 11h30 / 14h30 - 18h30 / 00h30\nSamedi 12h / 00h30\nDimanche 12h / 23h",
+        "note:name": "Pixies Bar & Burger"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0402484,
+          50.6577787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 6835729003,
+        "osm_type": "node",
+        "ref_coords": [
+          3.0401561,
+          50.657745
+        ],
+        "ref_distance": 7.5,
+        "ref_id": "2",
+        "t.amenity": "restaurant",
+        "t.name": "L'oriental",
+        "note:address": "75 Avenue du Maréchal de Lattre de Tassigny, 59350 Saint-André-lez-Lille, France",
+        "note:city": "Lille",
+        "note:comment": "Kebab, tacos, panini, couscous .... Ouvert du lundi au samedi 11:30-14:00 et 18:00-23:00 et dimanche de 18:00-23:00. \nCommandes en livraison sur un rayon de 4km et à emporter. 0320066965.",
+        "note:name": "L'Oriental"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.061231,
+          50.6386594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4424286721,
+        "osm_type": "node",
+        "ref_coords": [
+          3.0611904,
+          50.63873
+        ],
+        "ref_distance": 8.4,
+        "ref_id": "31",
+        "t.addr:city": "Lille",
+        "t.addr:housenumber": "47",
+        "t.addr:postcode": "59000",
+        "t.addr:street": "Rue Basse",
+        "t.amenity": "restaurant",
+        "t.cuisine": "french",
+        "t.diet:vegan": "yes",
+        "t.diet:vegetarian": "yes",
+        "t.name": "L'arrière pays",
+        "t.opening_hours": "Mo 11:00-22:30; Tu-Th 12:00-23:00; Fr-Sa 12:00-23:30; Su 12:00-22:00",
+        "t.phone": "+33 3 20 13 80 07",
+        "note:address": "47 Rue Basse, 59000 Lille, France",
+        "note:city": "Lille",
+        "note:comment": "Vente à emporter sur la carte du restaurant.\n\n\"Vaut mieux appeler avant pour commander, on sait pas trop ce qui sera dispo à la carte. 0320138007\"",
+        "note:name": "L'Arrière Pays"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0525261,
+          50.6287156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3201800182,
+        "osm_type": "node",
+        "ref_coords": [
+          3.0524569,
+          50.62878
+        ],
+        "ref_distance": 8.7,
+        "ref_id": "18",
+        "t.amenity": "restaurant",
+        "t.contact:housenumber": "228",
+        "t.contact:phone": "+33 3 20 31 54 74",
+        "t.cuisine": "thai",
+        "t.name": "Mon Petit Thai",
+        "t.opening_hours": "Mo-Su 12:00-14:30, 19:00-22:30",
+        "t.smoking": "no",
+        "t.source": "survey",
+        "t.takeaway": "yes",
+        "t.website": "http://www.monpetitthai.com/",
+        "note:address": "228 Rue Léon Gambetta, 59000 Lille, France",
+        "note:city": "Lille",
+        "note:comment": "\"Contactez-nous au 03.20.31.54.74 pour toute commande à emporter ou via notre plate-forme Deliveroo pour toute commande en livraison. N'hésitez pas à cocher la livraison sans contact pour une sécurité maximum.\"",
+        "note:name": "Mon Petit Thaï"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0519009,
+          50.6284489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5620643323,
+        "osm_type": "node",
+        "ref_coords": [
+          3.0518732,
+          50.628548
+        ],
+        "ref_distance": 11.2,
+        "ref_id": "50",
+        "t.amenity": "restaurant",
+        "t.contact:facebook": "https://www.facebook.com/restaurant.toktok/",
+        "t.contact:phone": "+33 9 72 65 80 35",
+        "t.contact:website": "https://tok-tok.fr/",
+        "t.cuisine": "thai",
+        "t.name": "Tok Tok",
+        "t.source": "survey",
+        "t.survey:date": "2018-05",
+        "t.takeaway": "yes",
+        "t.wheelchair": "yes",
+        "note:address": "246 Rue Léon Gambetta, 59000 Lille, France",
+        "note:city": "Lille",
+        "note:comment": "Vente à emporter et livraison sur Deliveroo.",
+        "note:name": "Tok Tok"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.9856986,
+          50.611572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 63555828,
+        "osm_type": "way",
+        "ref_coords": [
+          2.985866,
+          50.611526
+        ],
+        "ref_distance": 12.9,
+        "ref_id": "7",
+        "t.addr:city": "Haubourdin",
+        "t.addr:country": "FR",
+        "t.addr:housenumber": "43b",
+        "t.addr:postcode": "59320",
+        "t.addr:street": "Rue Sadi Carnot",
+        "t.amenity": "restaurant",
+        "t.building": "yes",
+        "t.contact:phone": "+33320851164",
+        "t.cuisine": "pizza",
+        "t.name": "Al Ritrovo",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "note:address": "43 Rue Sadi Carnot, 59320 Haubourdin, France",
+        "note:city": "Lille",
+        "note:name": "Al Ritrovo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0299775,
+          50.6660954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5920731430,
+        "osm_type": "node",
+        "ref_coords": [
+          3.030087,
+          50.66625
+        ],
+        "ref_distance": 18.9,
+        "ref_id": "36",
+        "t.amenity": "restaurant",
+        "t.cuisine": "thai",
+        "t.name": "Sam&Lie",
+        "note:address": "368 Avenue du Maréchal de Lattre de Tassigny, 59350 Saint-André-lez-Lille, France",
+        "note:city": "Lille",
+        "note:comment": "Vente à emporter habituelle.",
+        "note:name": "SAM & LIE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.013479,
+          50.6600475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 125887119,
+        "osm_type": "way",
+        "ref_coords": [
+          3.0131345,
+          50.66016
+        ],
+        "ref_distance": 27.3,
+        "ref_id": "5",
+        "t.addr:city": "Lambersart",
+        "t.addr:housenumber": "118",
+        "t.addr:postcode": "59130",
+        "t.addr:street": "Rue Ferdinand de Lesseps",
+        "t.building": "yes",
+        "t.email": "maitre.georges@wanadoo.fr",
+        "t.name": "Maître Georges",
+        "t.opening_hours": "Mo-Sa 09:00-12:30,14:00-19:00",
+        "t.phone": "+33 3 20 57 95 00",
+        "t.shop": "beverages",
+        "t.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "t.website": "https://www.maitregeorges.fr/",
+        "note:address": "118 Rue Ferdinand de Lesseps, 59130 Lambersart, France",
+        "note:city": "Lille",
+        "note:comment": "Livraison à domicile gratuite de toutes vos boissons sur la périphérie Lambersartoise et Lilloise",
+        "note:name": "Maître Georges"
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.7193258,
+          45.1878869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 652128479,
+        "osm_type": "node",
+        "ref_coords": [
+          5.719244,
+          45.18772
+        ],
+        "ref_distance": 19.7,
+        "ref_id": "1",
+        "t.name": "Sésame",
+        "t.opening_hours": "Mo-Sa 06:00-21:00; Su 06:00-20:00",
+        "t.pastry_shop": "yes",
+        "t.shop": "bakery",
+        "t.source": "survey",
+        "t.wheelchair": "no",
+        "note:address": "29 Cours Jean Jaurès, 38000 Grenoble, France",
+        "note:city": "Grenoble",
+        "note:comment": "Boulangerie Sésame\n6h30 - 20h00",
+        "note:name": "29 Cours Jean Jaurès"
+      },
+      "type": "Feature"
+    }
+  ]
+}
