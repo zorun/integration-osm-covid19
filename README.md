@@ -29,3 +29,18 @@ Un script fait la séparation par ville et lance la conflation sur chaque ville 
     ./conflate.sh
 
 On obtient un geojson, un osm, et un CSV avec le résumé des matches, le tout dans `data-out`.
+
+Attention, ça fait beaucoup d'appels à l'API Overpass et on peut vite se retrouver coincé !
+
+## Exploitation des fichiers
+
+Les données du jeu de données sont mises dans des tags `note:XXX`.
+
+On peut charger les fichiers `.osm` dans JOSM, mais attention à faire le ménage dans les tags...
+
+Pour splitter les geojson pour avoir d'un côté les points rapprochés et de l'autre les points
+non rapprochés :
+
+    ./split_conflated.sh
+
+Ça crée des fichiers GeoJSON `-matched.json` et `-unmatched.json`. On peut ensuite les charger dans umap.
