@@ -10,5 +10,8 @@ do
     matchfile="data-out/dokomaps-match-${DATA}-${city}.csv"
     changefile="data-out/dokomaps-change-${DATA}-${city}.json"
     osmfile="data-out/dokomaps-osm-${DATA}-${city}.osm"
+    printf "\nNow conflating $city\n"
     conflate dokomaps_profile.py -i "$data" -l "$matchfile" -o "$osmfile" -c "$changefile"
+    # Overpass API a du rate-limiting
+    sleep 5
 done < data-in/cities-${DATE}.txt

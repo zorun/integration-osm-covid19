@@ -40,7 +40,7 @@ def matches(osm_obj, dataset_obj):
 
     # Cas particulier des bureaux de poste, qui ne contiennent visiblement pas "poste" dans leur nom.
     if "post" in dataset_name and osm_obj.get('amenity') == 'post_office':
-        print("POSTE", dataset_obj['note:name'], dataset_name)
+        #print("POSTE", dataset_obj['note:name'], dataset_name)
         return True
     # Pas mal de faux positifs où le nom OSM est juste le nom de la ville,
     # notamment les bureaux de poste.
@@ -54,7 +54,7 @@ def matches(osm_obj, dataset_obj):
     if 'brand' in osm_obj:
         brand = osm_obj['brand']
         if dataset_name in brand:
-            print(dataset_obj['note:name'], dataset_name, osm_obj['name'], osm_name)
+            #print(dataset_obj['note:name'], dataset_name, osm_obj['name'], osm_name)
             return True
     # Pas mal de POI ont une adresse dans le champ nom...  On trouve le
     # nom au début de la description.
@@ -63,7 +63,7 @@ def matches(osm_obj, dataset_obj):
         desc = _normalize(' '.join(dataset_obj['note:comment'].split()[:2]))
         # On évite les matches trop courts (type "de la")
         if len(desc) >= 5 and desc in osm_name or osm_name in desc:
-            print("DESC", desc, dataset_obj['note:comment'].split('\n')[0], "  |  ", osm_obj['name'], osm_name)
+            #print("DESC", desc, dataset_obj['note:comment'].split('\n')[0], "  |  ", osm_obj['name'], osm_name)
             return True
     # Génère trop de faux positifs...
     #import difflib
