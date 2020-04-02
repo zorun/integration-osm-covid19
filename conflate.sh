@@ -8,7 +8,7 @@ while read city
 do
     data="data-in/dokomaps_covid19_${DATE}_licence-odbl-${city}.csv"
     matchfile="data-out/dokomaps-${DATE}-${city}.csv"
-    changefile="data-out/dokomaps-${DATE}-${city}.json"
+    changefile="data-out/dokomaps-${DATE}-${city}.geojson"
     osmfile="data-out/dokomaps-${DATE}-${city}.osm"
     printf "\nNow conflating $city\n"
     conflate dokomaps_profile.py -i "$data" -l "$matchfile" -o "$osmfile" -c "$changefile"

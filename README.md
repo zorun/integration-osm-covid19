@@ -43,4 +43,5 @@ non rapprochés :
 
     ./split_conflated.sh
 
-Ça crée des fichiers GeoJSON `-matched.json` et `-unmatched.json`. On peut ensuite les charger dans umap.
+Ça crée des fichiers GeoJSON `-matched.geojson` et `-unmatched.geojson`.
+On peut ensuite les charger dans umap ou JOSM.
