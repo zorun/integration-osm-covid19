@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          4.8387094,
+          45.749893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -9,
+        "osm_type": "node",
+        "ref_id": "1",
+        "tags.note:address": "72 Rue de Marseille, 69007 Lyon, France",
+        "tags.note:city": "Lyon",
+        "tags.note:name": "U Express et drive"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8377843,
+          45.747204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -10,
+        "osm_type": "node",
+        "ref_id": "10",
+        "tags.note:address": "11 Place Jules Guesde, 69007 Lyon, France",
+        "tags.note:city": "Lyon",
+        "tags.note:comment": "Uniquement à emporter\ntel 04 72 72 90 90",
+        "tags.note:name": "Maestro Pizzas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8420143,
+          45.75538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -11,
+        "osm_type": "node",
+        "ref_id": "15",
+        "tags.note:address": "14 Cours Gambetta, 69007 Lyon, France",
+        "tags.note:city": "Lyon",
+        "tags.note:comment": "Pour l'instant les horaires habituels sont maintenus. \nConseille d'appeler avant de vous déplacer.\ntel: 04 72 73 38 58",
+        "tags.note:name": "Frédéric Henon Gambetta"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8473563,
+          45.74905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -12,
+        "osm_type": "node",
+        "ref_id": "3",
+        "tags.note:address": "52 Rue de la Thibaudière, 69007 Lyon, France",
+        "tags.note:city": "Lyon",
+        "tags.note:name": "U Express et drive"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9322815,
+          45.745506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -13,
+        "osm_type": "node",
+        "ref_id": "5",
+        "tags.note:address": "254 Avenue Franklin Roosevelt, 69120 Vaulx-en-Velin, France",
+        "tags.note:city": "Lyon",
+        "tags.note:comment": "Pour l'instant pas de changement d'horaire\nOuverture de 9h00 à 20h00",
+        "tags.note:name": "LEAF MARKET"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.854992,
+          45.76568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -14,
+        "osm_type": "node",
+        "ref_id": "8",
+        "tags.note:address": "93 Rue Masséna, 69006 Lyon, France",
+        "tags.note:city": "Lyon",
+        "tags.note:comment": "Pas de changement pour le moment\n#NOUVEAUTÉ : \n1 PIZZA ACHETÉE = 1 PIZZA OFFERTE !*\n7 SUR 7 - JUSQU'À 5 HEURE DU MATIN#\nTel : 04 37 24 06 06",
+        "tags.note:name": "Aldo Pizza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.865331,
+          45.754536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -15,
+        "osm_type": "node",
+        "ref_id": "9",
+        "tags.note:address": "151 Avenue Félix Faure, 69003 Lyon, France",
+        "tags.note:city": "Lyon",
+        "tags.note:comment": "Pour linstant le restaurant fonctionne aux heures habituelles.\nVous pouvez commander aussi au 09.82.22.51.83 (appel NON surtaxé)",
+        "tags.note:name": "LIBANO PIZZA"
+      },
+      "type": "Feature"
+    }
+  ]
+}

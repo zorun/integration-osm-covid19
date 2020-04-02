@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3891251,
+          46.868515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -13,
+        "osm_type": "node",
+        "ref_id": "10",
+        "tags.note:address": "18 Rue de l'Abbé Cornuault, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du mardi au vendredi  8h45 – 13h\n 16h – 18h30\nSamedi 8h45 – 13h\nDimanche 9h - 12h15",
+        "tags.note:name": "Landreau Fabienne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5096495,
+          46.804775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -14,
+        "osm_type": "node",
+        "ref_id": "13",
+        "tags.note:address": "8 Allée du Chanoine Chollet, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Ouverte 1 jour sur 2 soit lundi/mercredi/vendredi et dimanche 6h30 - 13h\nDistributeur de baguettes de Clazay : 7 jours/7",
+        "tags.note:name": "SARL DAFLO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4927628,
+          46.839344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -15,
+        "osm_type": "node",
+        "ref_id": "16",
+        "tags.note:address": "23 Rue de la Huchette, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du mardi au samedi 8h - 14h",
+        "tags.note:name": "La Cuisine de Benoit"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.505763,
+          46.845196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -16,
+        "osm_type": "node",
+        "ref_id": "17",
+        "tags.note:address": "12 Boulevard Youri Gagarine, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du mardi au samedi 9h30 – 12h30\n 14h – 16h30\nPossibilité de commandes par mail : fermiersdubocage@orange.fr \nou par téléphone au 05 49 72 15 57 (retrait en magasin)",
+        "tags.note:name": "Plaisirs Fermiers Bressuire"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5102519,
+          46.803467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -17,
+        "osm_type": "node",
+        "ref_id": "18",
+        "tags.note:address": "30 Boulevard Notre Dame, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du lundi au vendredi 9h - 12h15\n14h - 15h\nSamedi 9h - 12h15",
+        "tags.note:name": "Pharmacie de Terves Aranda-Guedon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4953355,
+          46.85033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -18,
+        "osm_type": "node",
+        "ref_id": "2",
+        "tags.note:address": "Espace Commercial Pont D’Ouit, 14 Rue du Pont d'Ouit, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "ouverte du mardi au samedi de 10h-12h30 14h30-19h",
+        "tags.note:name": "Boulangerie Marie Blachère"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4919255,
+          46.841156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -19,
+        "osm_type": "node",
+        "ref_id": "21",
+        "tags.note:address": "17 Rue Gambetta, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du lundi au vendredi 9h – 12h30\n 14h – 19h30\nSamedi 9h – 12h30\n 14h – 19h",
+        "tags.note:name": "Pharmacie OYONO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4923885,
+          46.840218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -20,
+        "osm_type": "node",
+        "ref_id": "24",
+        "tags.note:address": "38 Rue Gambetta, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du mardi au samedi 8h30 – 12h30\nLivraison possible le matin sur le Bressuirais",
+        "tags.note:name": "Boucherie d'ponpon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.491277,
+          46.839184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -21,
+        "osm_type": "node",
+        "ref_id": "4",
+        "tags.note:address": "12 Rue de la Vergne, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du mardi au vendredi 9h30 – 12h\n 14h30 – 16h\nSamedi 9h30 - 12h",
+        "tags.note:name": "CALIPAGE PAPETERIE LE FRENEAU"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.492276,
+          46.840458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -22,
+        "osm_type": "node",
+        "ref_id": "5",
+        "tags.note:address": "28 Rue Gambetta, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du mardi au samedi 10h – 12h\n 14h – 17h30",
+        "tags.note:name": "le coin du vapoteur Cigarettes Electronique"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4921826,
+          46.84131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -23,
+        "osm_type": "node",
+        "ref_id": "7",
+        "tags.note:address": "4 Rue Gambetta, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du lundi au samedi 8h - 13h",
+        "tags.note:name": "Le Gambetta"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.4899857,
+          46.84406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -24,
+        "osm_type": "node",
+        "ref_id": "9",
+        "tags.note:address": "14 Place Labate, 79300 Bressuire, France",
+        "tags.note:city": "Bressuire",
+        "tags.note:comment": "Du lundi au samedi 6h – 20h\nDimanche 6h – 13h\nRestauration à emporter le midi",
+        "tags.note:name": "Le Chene Vert"
+      },
+      "type": "Feature"
+    }
+  ]
+}

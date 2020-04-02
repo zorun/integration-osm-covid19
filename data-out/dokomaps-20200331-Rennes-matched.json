@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -1.6805779,
+          48.1085253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4225509249,
+        "osm_type": "node",
+        "ref_coords": [
+          -1.6805464,
+          48.1085
+        ],
+        "ref_distance": 3.7,
+        "ref_id": "2",
+        "tags.addr:city": "Rennes",
+        "tags.addr:housenumber": "7",
+        "tags.addr:postcode": "35000",
+        "tags.addr:street": "Rue Poullain Duparc",
+        "tags.brand": "La Vie Claire",
+        "tags.brand:wikidata": "Q3213589",
+        "tags.brand:wikipedia": "fr:La Vie claire",
+        "tags.bulk_purchase": "yes",
+        "tags.delivery": "no",
+        "tags.drive_through": "no",
+        "tags.email": "nelpaprika@yahoo.fr",
+        "tags.name": "La Vie Claire",
+        "tags.opening_hours": "Mo 14:00-19:30; Tu-Fr 09:15-19:15; Sa 09:45-19:15",
+        "tags.operator": "Paprika",
+        "tags.organic": "only",
+        "tags.phone": "+33 2 99 79 18 30",
+        "tags.shop": "supermarket",
+        "tags.source:addr": "Rennes Métropole",
+        "tags.source:addr:housenumber:ref": "59543",
+        "tags.source:addr:version": "2016-04-01",
+        "tags.website": "https://www.lavieclaire.com/",
+        "tags.wheelchair": "limited",
+        "tags_new.note:address": "7 Rue Poullain Duparc, 35000 Rennes, France",
+        "tags_new.note:city": "Rennes",
+        "tags_new.note:comment": "Pour l'instant pas de changement d'horaires.\nContact : 02 99 79 18 30",
+        "tags_new.note:name": "La Vie Claire Rennes"
+      },
+      "type": "Feature"
+    }
+  ]
+}

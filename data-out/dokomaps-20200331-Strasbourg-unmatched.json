@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          7.760687,
+          48.564507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -6,
+        "osm_type": "node",
+        "ref_id": "2",
+        "tags.note:address": "113 Route du Polygone, 67100 Strasbourg, France",
+        "tags.note:city": "Strasbourg",
+        "tags.note:comment": "Chez Julien - 10 % durant toute l’épidémie sur la Boucherie Charcuterie Traiteur maison pour nous soutenir nous petit commerçant et préserver les 5 emplois.\n\nNous sommes ouvert à nos horaires habituels tout le long de l’épidémie covid 19 mais nous demandons à notre aimable clientèle de bien vouloir respecter une distance de 1 mètre entre chaque personne.",
+        "tags.note:name": "Boucherie Chez Julien"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.751891,
+          48.578735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -7,
+        "osm_type": "node",
+        "ref_id": "3",
+        "tags.note:address": "8 Rue d'Austerlitz, 67000 Strasbourg, France",
+        "tags.note:city": "Strasbourg",
+        "tags.note:comment": "Nos boutiques-traiteur (vente à emporter et livraison à domicile) restent ouvertes et nous serions ravis de vous accueillir aux horaires suivants :\n Ouvert du lundi au jeudi de 10h à 20h / vendredi et samedi de 10h à 21h",
+        "tags.note:name": "Mavrommátis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.7433305,
+          48.5862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -8,
+        "osm_type": "node",
+        "ref_id": "5",
+        "tags.note:address": "6 Rue de Sébastopol, 67000 Strasbourg, France",
+        "tags.note:city": "Strasbourg",
+        "tags.note:comment": "Biocoop est consciente de la situation et se mobilise pour continuer à vous fournir des produits bio de consommation courante, tout en vous assurant les conditions de sécurité optimales durant vos courses (mesures d’hygiène et organisation du flux clients).",
+        "tags.note:name": "Biocoop"
+      },
+      "type": "Feature"
+    }
+  ]
+}

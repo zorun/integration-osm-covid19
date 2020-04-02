@@ -1,0 +1,735 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          4.9050717,
+          44.93427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -29,
+        "osm_type": "node",
+        "ref_id": "1",
+        "tags.note:address": "119 Avenue de Romans, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:name": "Spidzza Grand'Mère"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9444003,
+          44.96361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -30,
+        "osm_type": "node",
+        "ref_id": "10",
+        "tags.note:address": "52 Rue du Vivarais, 26320 Saint-Marcel-lès-Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:name": "Clarabio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.891197,
+          44.928677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -31,
+        "osm_type": "node",
+        "ref_id": "14",
+        "tags.note:address": "7 Avenue Pierre Semard, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires :\nOuvert du Mardi au Samedi de 8h00 à 18h45 et le Dimanche de 8h00 à 17h00\nTéléphone : 04 75 44 06 76",
+        "tags.note:name": "Pâtisserie ChocolaterieTraiteur Paris Friand Valence - Domaine des Seigneurs COLOMB Frédéric"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.892648,
+          44.933285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -32,
+        "osm_type": "node",
+        "ref_id": "15",
+        "tags.note:address": "21 Rue Madier de Montjau, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires exceptionnels: \nLundi au Samedi de 7h30 à 20h00\nDimanche de 9h00 à 20h00",
+        "tags.note:name": "Casino shop"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8970037,
+          44.93544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -33,
+        "osm_type": "node",
+        "ref_id": "16",
+        "tags.note:address": "48 Avenue Sadi Carnot, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "tel 0475409504\ndu lundi au samedi : 7h-18h\ndimanche : 7h-12h",
+        "tags.note:name": "TABAC Presse loto"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8979306,
+          44.92985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -34,
+        "osm_type": "node",
+        "ref_id": "18",
+        "tags.note:address": "47 Rue Faventines, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:name": "CHICKENS RUN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.890048,
+          44.893627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -35,
+        "osm_type": "node",
+        "ref_id": "19",
+        "tags.note:address": "Zone Industriel des Auréats, 81 Bis Rue des Mourettes, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Permanence de 9h00 à 16h00 pour les urgences.\nEvitons les déplacements pour un entretien. Prenez soin de vous et votre famille😷😷\n04 75 44 41 95",
+        "tags.note:name": "Agence Dumond"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8908997,
+          44.929955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -36,
+        "osm_type": "node",
+        "ref_id": "2",
+        "tags.note:address": "6 Avenue Victor Hugo, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires à jour en temps réel sur Google. \nPour tout renseignement : 0986349988\nOu valence@taklope.com",
+        "tags.note:name": "Taklope Store Valence"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8882885,
+          44.93098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -37,
+        "osm_type": "node",
+        "ref_id": "22",
+        "tags.note:address": "1 Rue des Repenties, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Ouvert de 8h30-12h.\nAttention ouvert uniquement pour les compléments alimentaires et nutrition sportive",
+        "tags.note:name": "L'Objectiforme"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.897936,
+          44.933647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -38,
+        "osm_type": "node",
+        "ref_id": "23",
+        "tags.note:address": "69 Avenue de la Marne, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "ouvert aussi aux particulier\npas plus de 2 personnes dans le local",
+        "tags.note:name": "La Poste Carre Enterprises"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.893316,
+          44.932774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -39,
+        "osm_type": "node",
+        "ref_id": "24",
+        "tags.note:address": "50 Rue Madier de Montjau, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires exceptionnels: \nOuverture de 14h à 18h\n\nPossibilité de se faire livrer son telephone à domicile",
+        "tags.note:name": "MÉDIAPHONE DISCOUNT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9484234,
+          44.96696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -40,
+        "osm_type": "node",
+        "ref_id": "25",
+        "tags.note:address": "116 Avenue de Provence, 26320 Saint-Marcel-lès-Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires exceptionnels: \nOuverture de 14h à 18h\n\nPossibilité de se faire livrer son telephone à domicile",
+        "tags.note:name": "MÉDIAPHONE DISCOUNT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.865602,
+          44.937935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -41,
+        "osm_type": "node",
+        "ref_id": "26",
+        "tags.note:address": "Centre commercial Auchan, 1449 Avenue de la République, 07500 Guilherand-Granges, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires exceptionnels: \nOuverture de 14h à 18h\n\nPossibilité de se faire livrer son telephone à domicile",
+        "tags.note:name": "MÉDIAPHONE DISCOUNT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8906307,
+          44.929455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -42,
+        "osm_type": "node",
+        "ref_id": "27",
+        "tags.note:address": "20 Avenue Victor Hugo, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires exceptionnels: \nOuverture de 14h à 18h\n\nPossibilité de se faire livrer son telephone à domicile",
+        "tags.note:name": "Officiel Mobile Service"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8807964,
+          44.933247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -43,
+        "osm_type": "node",
+        "ref_id": "32",
+        "tags.note:address": "126 Rue Louis Pasteur, 07500 Guilherand-Granges, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Changement d'horaires à partir de Lundi 23:\nBoucherie charcuterie traiteur",
+        "tags.note:name": "Boucherie le Mistral"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9238353,
+          44.930725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -44,
+        "osm_type": "node",
+        "ref_id": "33",
+        "tags.note:address": "19 Place Europe, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:name": "Au Comptoir Fruitier"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.894732,
+          44.933395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -45,
+        "osm_type": "node",
+        "ref_id": "34",
+        "tags.note:address": "36 Rue Bouffier, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires: 15H00-18H30\nLivraison à domicile possible sur Valence et dans un rayon de 15 kms autour de Valence.\nTél: 04 75 55 50 67 \nNB: Pour laisser un message afin d'être recontacté : 06 08 99 69 59",
+        "tags.note:name": "Super Qi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.891087,
+          44.933716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -46,
+        "osm_type": "node",
+        "ref_id": "35",
+        "tags.note:address": "13 Grande Rue, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires exceptionnels: \nMatin de 7h15 à 13h15\nAprès-midi 16h15 à 17h15",
+        "tags.note:name": "Boulangerie Pâtisserie Serre SARL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8895564,
+          44.932014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -47,
+        "osm_type": "node",
+        "ref_id": "36",
+        "tags.note:address": "Place du Présidial, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires exceptionnels: FERME APRESMIDI \nOuverture de 7h à 12h30",
+        "tags.note:name": "Boucherie Simonian"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.894222,
+          44.932377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -48,
+        "osm_type": "node",
+        "ref_id": "37",
+        "tags.note:address": "5 Rue Jeu de Paume, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Commande en ligne sur le eshop www.merveill-home.com/shop\nLivraison à domicile (dépôt des commandes dans le hall de votre immeuble ou derrière votre portail en maison individuelle sur rdv, envoi de sms une fois le dépôt effectué pour que vous récupériez votre colis)",
+        "tags.note:name": "Merveill'Home"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.885457,
+          44.906498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -49,
+        "osm_type": "node",
+        "ref_id": "40",
+        "tags.note:address": "124 Avenue de la Libération, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Alimentation chiens et chats et accessoires chiens, accès réduit au magasin pour limiter les risques. \nHoraires du lundi au vendredi 10h-13h // 16h-19h\nSamedi 10h-15h",
+        "tags.note:name": "O'CANEO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.926188,
+          44.950417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -50,
+        "osm_type": "node",
+        "ref_id": "41",
+        "tags.note:address": "Plateau des Couleures, Place Jean Rostand, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Lundi de 14h à 19h\nDu mardi au samedi de 9h à 19h\n04 75 56 94 20",
+        "tags.note:name": "KALAO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8909516,
+          44.93405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -51,
+        "osm_type": "node",
+        "ref_id": "44",
+        "tags.note:address": "4 Grande Rue, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "PROVISOIREMENT FERME",
+        "tags.note:name": "My Little Warung Valence"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.890467,
+          44.933723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -52,
+        "osm_type": "node",
+        "ref_id": "45",
+        "tags.note:address": "11 Rue Sabaterie, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Pendant la période de confinement, La Brasserie propose un service gratuit de livraison des bières à domicile pour l'agglomération de Valence. Vous pouvez passer commande via le site internet : www.brasserielavalentinoise.fr ou sur FB : La Valentinoise, bière de Valence.",
+        "tags.note:name": "La Valentinoise, Brasserie artisanale de Valence"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.890659,
+          44.92212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -53,
+        "osm_type": "node",
+        "ref_id": "48",
+        "tags.note:address": "97 Rue Denis Papin, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "OUVERT DU LUNDI AU SAMEDI SOIR A PARTIR DE 18H 30\nSPECIALITE LIBANO ARMENIENNE A EMPORTER OU LIVRER A DOMICILE SUR UBER EAT\nTEL 09 50 89 22 41 OU 06 64 09 63 66",
+        "tags.note:name": "Chez Gayane"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8955874,
+          44.92982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -54,
+        "osm_type": "node",
+        "ref_id": "49",
+        "tags.note:address": "5 Rue des Alpes, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires d'ouverture:\nOuvert du Mardi au Samedi de 8h15 à 13h30 et de 15h15 à 19h00 et le Dimanche de 8h15 à 13h00\nTéléphone : 04 75 42 37 82",
+        "tags.note:name": "Pâtisserie Chocolaterie Traiteur Paris Friand COLOMB Frédéric Valence"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.895338,
+          44.931236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -55,
+        "osm_type": "node",
+        "ref_id": "5",
+        "tags.note:address": "29 Avenue Félix Faure, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:name": "LE PARKER"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.891269,
+          44.93412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -56,
+        "osm_type": "node",
+        "ref_id": "51",
+        "tags.note:address": "15 Place St Jean, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Pour l'instant pas de changement.",
+        "tags.note:name": "Green'Box"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8963423,
+          44.932964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -57,
+        "osm_type": "node",
+        "ref_id": "53",
+        "tags.note:address": "95 Avenue Sadi Carnot, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Horaires exceptionnels: \nOuverture de 6h à 13h tous les jours",
+        "tags.note:name": "Le Pain de Sucre"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.892267,
+          44.92818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -58,
+        "osm_type": "node",
+        "ref_id": "55",
+        "tags.note:address": "28 Avenue Pierre Semard, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Ouverture jusqu'a minuit:\nChoisissez en ligne et commandez par tél au 04.75.44.26.26 ou passes par les plateformes de livraisons UberEats Delivroo",
+        "tags.note:name": "Smokys Pizza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8908362,
+          44.93385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -59,
+        "osm_type": "node",
+        "ref_id": "61",
+        "tags.note:address": "6 Grande Rue, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "INFO - Gramme et Kilogramme reste ouvert mais sera fermé dès 18h00 !! tous les soirs (pas d'autre changement d'horaire pour le moment)\n- Privilégiez le paiement CB et sans contact.\n- Pensez à apporter vos sacs/paniers/cabas dans la mesure du possible.\n- Laissez une distance d'au moins 1 m entre chaque personne.\n- L'accès au magasin sera limité sur les périodes d'affluence, nous vous demanderons peut-être d'attendre un peu dehors.\nIl n'y a aucune rupture annoncée, donc pas besoin de trop stocker...\nSoyons toutes et tous responsables les uns des autres pour passer ce moment difficile et nous avons confiance en vous pour que cela se fasse dans les meilleures conditions possibles.",
+        "tags.note:name": "gramme et kilogramme"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.889071,
+          44.928463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -60,
+        "osm_type": "node",
+        "ref_id": "62",
+        "tags.note:address": "7 Avenue du Champ de Mars, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Fonctionne seulement avec les plateformes de livraisons (UberEats / Delivroo)",
+        "tags.note:name": "Chamas Tacos® Valence"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9053593,
+          44.934036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -61,
+        "osm_type": "node",
+        "ref_id": "63",
+        "tags.note:address": "82 Avenue de Romans, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Disponible par email & telephone",
+        "tags.note:name": "Office Notarial de Maître Cédric VALHIER, Notaire à VALENCE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.889679,
+          44.92784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -62,
+        "osm_type": "node",
+        "ref_id": "7",
+        "tags.note:address": "62 Avenue Victor Hugo, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Cigarettes électroniques et e-liquides\nPermanences: \nmardi / jeudi / samedi -> de 14h à 18h",
+        "tags.note:name": "Lounge and Vap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.885746,
+          44.920334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -63,
+        "osm_type": "node",
+        "ref_id": "9",
+        "tags.note:address": "206 Avenue Victor Hugo, 26000 Valence, France",
+        "tags.note:city": "Valence",
+        "tags.note:comment": "Fromagerie crèmerie, glaces Terre Adélice, épicerie diverse, confitures, miels, vins, jus de fruits etc....\nHoraires : du mardi au dimanche matin. Ouvert le matin et l'après-midi. Privilégier l'après midi car moins d'affluence. \nTéléphone : 04 75 42 31 61.\nLe terminal de paiement et le meuble  de caisse sont nettoyés à l'alcool ménager après chaque client. Nettoyage des mains avant de servir chaque client.",
+        "tags.note:name": "Fromages _ et Terroirs Valence"
+      },
+      "type": "Feature"
+    }
+  ]
+}

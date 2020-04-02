@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.3586903,
+          44.760708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -8,
+        "osm_type": "node",
+        "ref_id": "11",
+        "tags.note:address": "Avenue de la Résistance, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:name": "Verisport"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3708143,
+          44.752716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -9,
+        "osm_type": "node",
+        "ref_id": "12",
+        "tags.note:address": "5 Place de la République, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "Ouvert tous les matins de 7h30 à 13h00 - \nFermé le Jeudi toute la journée",
+        "tags.note:name": "Pâtisserie Nougatine"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.353356,
+          44.76121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -10,
+        "osm_type": "node",
+        "ref_id": "13",
+        "tags.note:address": "Vercors Regional Natural Park, 665 C Avenue de la Clairette, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "permanence tel 0475216797  service minimum assuré, selon stock disponible",
+        "tags.note:name": "Pulsat"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3717995,
+          44.753727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -11,
+        "osm_type": "node",
+        "ref_id": "15",
+        "tags.note:address": "68 Rue Camille Buffardel, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "L'épicerie vous accueille de 7h à 12h45 et de 17h à 19h30.\nNous effectuons également des livraisons gratuites à partir de 20€\nPrenez soin de vous et à bientôt.",
+        "tags.note:name": "Epicerie centrale-Cave à vins du Diois"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3718324,
+          44.7529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -12,
+        "osm_type": "node",
+        "ref_id": "17",
+        "tags.note:address": "6 Rue de l'Armèllerie, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:name": "Pili Pili"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3724613,
+          44.752853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -13,
+        "osm_type": "node",
+        "ref_id": "18",
+        "tags.note:address": "18 Rue de l'Armèllerie, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "ouvert samedi 21 mars de 11h à 12h\nmise à jour régulière des horaires :)",
+        "tags.note:name": "Chocolalala"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.370201,
+          44.75309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -14,
+        "osm_type": "node",
+        "ref_id": "19",
+        "tags.note:address": "3 Place du Marché, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "mardi 24 mars de 14h à 16h vous aurez la possibilité de déposer vos ordinateurs (uniquement ordinateurs) à Elias.\nPour cela, merci de noter sur papier blanc vos nom, mail, téléphone et objet du dépôt. vous ferez parvenir vos mots de passe ultérieurement.",
+        "tags.note:name": "LATELIER Tiers-Lieu et espace de coworking à Die"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3693686,
+          44.755253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -15,
+        "osm_type": "node",
+        "ref_id": "2",
+        "tags.note:address": "3 Rue Camille Buffardel, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "Pain, viennoiserie, sandwich, panini...\nOuvert du lundi au vendredi de 7h30 à 18h",
+        "tags.note:name": "La Gourmandie'z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3715954,
+          44.752575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -16,
+        "osm_type": "node",
+        "ref_id": "20",
+        "tags.note:address": "3 Rue de l'Armèllerie, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "Ventes de jeux de société. \nJeux créateurs locaux. \nJeux en bois made in France, Made In Drôme. \nJeux de cartes, jeux traditionnels, jeux de plateau.\nLocation jeux géants pour évènementiels. \nAnimation et prestation dans les Campings, pour grands groupes.\nGroupement des Boutiques Ludiques",
+        "tags.note:name": "L'As de Trèfle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3704686,
+          44.75263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -17,
+        "osm_type": "node",
+        "ref_id": "21",
+        "tags.note:address": "26 Place du Marché, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "Fruits & Légumes MURE\nOuvert Mercredi-Jeudi-Vendredi-Samedi matin\n0475221862",
+        "tags.note:name": "26 Place du Marché"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3699355,
+          44.75326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -18,
+        "osm_type": "node",
+        "ref_id": "22",
+        "tags.note:address": "56 Rue Emile Laurens, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:name": "Thaï Food"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3711333,
+          44.754395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -19,
+        "osm_type": "node",
+        "ref_id": "3",
+        "tags.note:address": "51 Rue Camille Buffardel, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:name": "Les P'tits Ruisseaux"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.372442,
+          44.75368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -20,
+        "osm_type": "node",
+        "ref_id": "4",
+        "tags.note:address": "89 Rue Camille Buffardel, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "En raison des mesures gouvernementales de confinement l'entreprise est fermée au public jusqu'à nouvel ordre. Je peux vous répondre par mail : franckcondette@arcensoie.com et par téléphone au 06 75 22 09 95. Je peux pour le moment vous chiffrer des devis et assurer tous les travaux d'imprimerie offset et signalétique.",
+        "tags.note:name": "Arc En Soie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.37028,
+          44.753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -21,
+        "osm_type": "node",
+        "ref_id": "5",
+        "tags.note:address": "5 Place du Marché, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "Horaires habituels - \n8h30-12h00. *  \n13h30-17h00",
+        "tags.note:name": "Association Vivre A Domicile"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.372603,
+          44.75372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -22,
+        "osm_type": "node",
+        "ref_id": "8",
+        "tags.note:address": "93 Rue Camille Buffardel, 26150 Die, France",
+        "tags.note:city": "Die",
+        "tags.note:comment": "Traiteur chez Yann \nPlats à emporter buffet dînatoire , paella ...\nOuvert tout les jours \n0475211760\nau 93 rue Camille Buffardel 26 150 Die",
+        "tags.note:name": "Chez Yann"
+      },
+      "type": "Feature"
+    }
+  ]
+}

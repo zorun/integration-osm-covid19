@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.3757248,
+          48.849747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -9,
+        "osm_type": "node",
+        "ref_id": "1",
+        "tags.note:address": "15 Rue de Prague, 75012 Paris, France",
+        "tags.note:city": "Paris",
+        "tags.note:comment": "Info coronavirus \n📅Nous sommes ouvert du mardi au samedi de 11h à 19h\n🚚livraisons dans un rayon de 10km\n☎️commandes sur info@agrology et au 01 58 51 05 49.\nArrivages toutes les semaines de produits frais de nos producteurs chouchous pour les soutenir!\n#agrology #lefooding #paris12 #restezchezvous #goodfood\n#goodproducts #mediterraneanspirit #jesoutiensmesproducteurs",
+        "tags.note:name": "Agrology"
+      },
+      "type": "Feature"
+    }
+  ]
+}

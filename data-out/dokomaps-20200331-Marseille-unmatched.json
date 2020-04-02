@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          5.3916316,
+          43.279305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -12,
+        "osm_type": "node",
+        "ref_id": "11",
+        "tags.note:address": "137 Rue du Rouet, 13008 Marseille, France",
+        "tags.note:city": "Marseille",
+        "tags.note:name": "Pizza UP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3810453,
+          43.299583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -13,
+        "osm_type": "node",
+        "ref_id": "13",
+        "tags.note:address": "6 Boulevard d'Athènes, 13001 Marseille, France",
+        "tags.note:city": "Marseille",
+        "tags.note:name": "Snack Pitchou's Snack Sur Place, Emporter, Tacos, Burger hallal a Marseille"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3863072,
+          43.28763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -14,
+        "osm_type": "node",
+        "ref_id": "16",
+        "tags.note:address": "84 Rue Perrin Solliers, 13006 Marseille, France",
+        "tags.note:city": "Marseille",
+        "tags.note:name": "Le temps d'une Pizza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3931794,
+          43.287666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -15,
+        "osm_type": "node",
+        "ref_id": "17",
+        "tags.note:address": "51 Rue Sainte-Cécile, 13005 Marseille, France",
+        "tags.note:city": "Marseille",
+        "tags.note:name": "Le Vénitien"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3823814,
+          43.317284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -16,
+        "osm_type": "node",
+        "ref_id": "2",
+        "tags.note:address": "114 Boulevard de Plombières, 13014 Marseille, France",
+        "tags.note:city": "Marseille",
+        "tags.note:name": "KFC Marseille Plombières"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3747325,
+          43.285206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -17,
+        "osm_type": "node",
+        "ref_id": "5",
+        "tags.note:address": "103 Boulevard Notre Dame, 13006 Marseille, France",
+        "tags.note:city": "Marseille",
+        "tags.note:name": "THE GOOD grocery"
+      },
+      "type": "Feature"
+    }
+  ]
+}

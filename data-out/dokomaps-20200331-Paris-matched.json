@@ -1,0 +1,296 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.3221314,
+          48.8287964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5197628737,
+        "osm_type": "node",
+        "ref_coords": [
+          2.3221338,
+          48.828796
+        ],
+        "ref_distance": 0.2,
+        "ref_id": "4",
+        "tags.name": "Paris Bio",
+        "tags.phone": "+33 1 45 42 96 98",
+        "tags.shop": "greengrocer",
+        "tags.website": "http://www.parisbio.com/",
+        "tags_new.note:address": "50 Rue des Plantes, 75014 Paris, France",
+        "tags_new.note:city": "Paris",
+        "tags_new.note:name": "Paris Bio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3404176,
+          48.8951889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4085183957,
+        "osm_type": "node",
+        "ref_coords": [
+          2.3404121,
+          48.8952
+        ],
+        "ref_distance": 1.3,
+        "ref_id": "3",
+        "tags.addr:city": "Paris",
+        "tags.addr:housenumber": "60",
+        "tags.addr:postcode": "75018",
+        "tags.addr:street": "Rue du Poteau",
+        "tags.brand": "Bio C' Bon",
+        "tags.bulk_purchase": "yes",
+        "tags.contact:facebook": "https://www.facebook.com/biocbonfrance/",
+        "tags.name": "Bio C' Bon",
+        "tags.opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-13:00",
+        "tags.opening_hours:covid19": "Mo-Sa 10:00-19:00; Su 10:00-13:30",
+        "tags.organic": "only",
+        "tags.phone": "+33 1 42 51 12 63",
+        "tags.shop": "supermarket",
+        "tags.website": "https://www.bio-c-bon.eu/fr/nos_magasins/bio-c-bon-paris-poteau",
+        "tags_new.note:address": "60 Rue du Poteau, 75018 Paris, France",
+        "tags_new.note:city": "Paris",
+        "tags_new.note:comment": "Horaires exceptionnels: \nLundi au Samedi de 10h à 19h \nDimanche de 10h à 13h30",
+        "tags_new.note:name": "Bio c' Bon Paris Poteau"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3497542,
+          48.8496163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 7342602065,
+        "osm_type": "node",
+        "ref_coords": [
+          2.3497133,
+          48.84959
+        ],
+        "ref_distance": 4.2,
+        "ref_id": "5",
+        "tags.name": "J'm le Bio",
+        "tags.opening_hours:covid19": "same",
+        "tags.organic": "only",
+        "tags.shop": "supermarket",
+        "tags_new.note:address": "45 Boulevard Saint-Germain, 75005 Paris, France",
+        "tags_new.note:city": "Paris",
+        "tags_new.note:comment": "Horaires exceptionnels: \nOuverture de 8h45 à 18h",
+        "tags_new.note:name": "J' M LE BIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3704884,
+          48.8662126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 3397486193,
+        "osm_type": "node",
+        "ref_coords": [
+          2.3705387,
+          48.866188
+        ],
+        "ref_distance": 4.6,
+        "ref_id": "8",
+        "tags.addr:city": "Paris",
+        "tags.addr:housenumber": "19",
+        "tags.addr:postcode": "75011",
+        "tags.addr:street": "Avenue de la République",
+        "tags.brand": "Biocoop",
+        "tags.brand:wikidata": "Q2904039",
+        "tags.brand:wikipedia": "fr:Biocoop",
+        "tags.bulk_purchase": "yes",
+        "tags.name": "Biocoop",
+        "tags.opening_hours": "Mo 12:00-20:00; Tu-Sa 10:00-20:00",
+        "tags.organic": "only",
+        "tags.shop": "supermarket",
+        "tags.website": "https://www.biocoop-larepublique.fr/",
+        "tags.wheelchair": "yes",
+        "tags_new.note:address": "19 Avenue de la République, 75011 Paris, France",
+        "tags_new.note:city": "Paris",
+        "tags_new.note:comment": "Horaires exceptionnels: \nLundi au Samedi de 10h à 18h",
+        "tags_new.note:name": "Biocoop La République"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3436729,
+          48.8894614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5842449643,
+        "osm_type": "node",
+        "ref_coords": [
+          2.343599,
+          48.88947
+        ],
+        "ref_distance": 5.5,
+        "ref_id": "2",
+        "tags.brand": "La Vie Claire",
+        "tags.brand:wikidata": "Q3213589",
+        "tags.brand:wikipedia": "fr:La Vie claire",
+        "tags.bulk_purchase": "yes",
+        "tags.name": "La Vie Claire",
+        "tags.opening_hours": "tu-su 09:00-20:30",
+        "tags.organic": "only",
+        "tags.shop": "supermarket",
+        "tags.website": "https://www.lavieclaire.com/magasin-bio/paris-custine.html",
+        "tags_new.note:address": "53 Rue Custine, 75018 Paris, France",
+        "tags_new.note:city": "Paris",
+        "tags_new.note:comment": "Horaires exceptionnels: \nMardi au Dimanche de 9h00 à 13h30 et de 15h30 à 19h00 \nFerme le Lundi",
+        "tags_new.note:name": "La Vie Claire"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3617285,
+          48.8712808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 5363368107,
+        "osm_type": "node",
+        "ref_coords": [
+          2.3617682,
+          48.871326
+        ],
+        "ref_distance": 5.8,
+        "ref_id": "7",
+        "tags.addr:city": "Paris",
+        "tags.addr:housenumber": "45",
+        "tags.addr:postcode": "75010",
+        "tags.addr:street": "Rue de Lancry",
+        "tags.brand": "Biocoop",
+        "tags.brand:wikidata": "Q2904039",
+        "tags.brand:wikipedia": "fr:Biocoop",
+        "tags.bulk_purchase": "yes",
+        "tags.email": "biocoop.lancry@gmail.com",
+        "tags.name": "Biocoop",
+        "tags.opening_hours": "Mo-Sa 10:00-20:00",
+        "tags.organic": "only",
+        "tags.phone": "+33 1 83 79 08 96",
+        "tags.shop": "supermarket",
+        "tags.website": "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-LANCRY",
+        "tags.wheelchair": "yes",
+        "tags_new.note:address": "45 Rue de Lancry, 75010 Paris, France",
+        "tags_new.note:city": "Paris",
+        "tags_new.note:comment": "Chères clientes, chers clients,\nAfin de garantir votre sécurité et celle de nos salariés, notre magasin du 45 rue de Lancry est fermé jusqu’à nouvel ordre.\nNous prenons le temps de réorganiser l’équipe et nous vous préviendrons de la réouverture du magasin et des nouveaux horaires bientôt. \nPrenez soin de vous et de vos proches.\nL’équipe Biocoop Lancry",
+        "tags_new.note:name": "Biocoop Lancry"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3713852,
+          48.8692522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 4721277877,
+        "osm_type": "node",
+        "ref_coords": [
+          2.3714652,
+          48.86921
+        ],
+        "ref_distance": 7.5,
+        "ref_id": "6",
+        "tags.addr:city": "Paris",
+        "tags.addr:postcode": "75011",
+        "tags.addr:street": "Avenue Parmentier",
+        "tags.contact:housenumber": "127",
+        "tags.name": "Altervojo",
+        "tags.opening_hours": "Mo-Sa 09:30-21:00, Su 9:30-13:00",
+        "tags.opening_hours:covid19": "same",
+        "tags.organic": "only",
+        "tags.shop": "greengrocer",
+        "tags.website": "http://www.altervojo.fr/",
+        "tags_new.note:address": "127 Avenue Parmentier, 75011 Paris, France",
+        "tags_new.note:city": "Paris",
+        "tags_new.note:comment": "Horaires exceptionnels: \nOuverture de 9h17 à 19h15",
+        "tags_new.note:name": "Altervojo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3768261,
+          48.8624917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "modify",
+        "marker-color": "#0000ee",
+        "osm_id": 1312133690,
+        "osm_type": "node",
+        "ref_coords": [
+          2.3769186,
+          48.862385
+        ],
+        "ref_distance": 13.7,
+        "ref_id": "9",
+        "tags.addr:housenumber": "52",
+        "tags.addr:postcode": "75011",
+        "tags.addr:street": "Avenue Parmentier",
+        "tags.brand": "Bio C' Bon",
+        "tags.brand:wikidata": "Q54312551",
+        "tags.brand:wikipedia": "fr:Bio c'bon",
+        "tags.bulk_purchase": "yes",
+        "tags.contact:facebook": "https://www.facebook.com/biocbonfrance/",
+        "tags.name": "Bio C' Bon",
+        "tags.opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-13:00",
+        "tags.organic": "only",
+        "tags.shop": "convenience",
+        "tags.website": "https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-paris-parmentier",
+        "tags_new.note:address": "52 Avenue Parmentier, 75011 Paris, France",
+        "tags_new.note:city": "Paris",
+        "tags_new.note:comment": "[IMPORTANT] L'ensemble de nos magasins (SAUF IDF) adaptent leurs horaires jusqu'à nouvel ordre afin de vous servir dans les meilleures conditions possibles. Nous serons ouverts du lundi au samedi de 10h à 14h et de 15h à 18h afin de vous servir au mieux ! Les horaires restent inchangés le dimanche.\nNous suivons de près l’évolution de la situation et nous vous tiendrons au courant des éventuels changements. Restons bienveillants et solidaires en cette période difficile !",
+        "tags_new.note:name": "Bio c' Bon Paris Parmentier"
+      },
+      "type": "Feature"
+    }
+  ]
+}

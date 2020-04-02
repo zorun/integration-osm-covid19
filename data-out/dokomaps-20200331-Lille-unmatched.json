@@ -1,0 +1,801 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          3.3201418,
+          50.281654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -16,
+        "osm_type": "node",
+        "ref_id": "1",
+        "tags.note:address": "111 Rue Henri Bocquet, 59111 Bouchain, France",
+        "tags.note:city": "Lille",
+        "tags.note:name": "Jardin d'Ostrevant"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.056555,
+          50.645466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -17,
+        "osm_type": "node",
+        "ref_id": "11",
+        "tags.note:address": "98 Rue Saint-André, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Dès mardi midi, retrouvez nos 🍕, ainsi qu’une carte spéciale, nos fameux burgers, nos fabuleuses lasagnes aux 2 viandes, notre cochon de 9 h... etc\nÀ vous de choisir entre la livraison à domicile via nos partenaires: @ubereats_fr ou @deliveroo_fr ou la vente à venir chercher directement au restaurant\nSachez que nous respecterons scrupuleusement les consignes de sécurité face au virus. La santé avant tout.\nNous vous demanderons donc de respecter les distances recommandées par les autorités. Pour une meilleure prise en charge et fluidité appelez le ☎️0612812786 ou 0320512502 afin de passer votre commande et éviter l’attente.",
+        "tags.note:name": "O Ch'ti B LE COMPTOIR DES GASTRONOMES"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.1520216,
+          50.750366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -18,
+        "osm_type": "node",
+        "ref_id": "12",
+        "tags.note:address": "8 Place Roger Salengro, 59960 Neuville-en-Ferrain, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Vente à emporter, appeler au  03 59 54 60 87 pour connaître les stocks.",
+        "tags.note:name": "Biola'Pizza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0429397,
+          50.623596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -19,
+        "osm_type": "node",
+        "ref_id": "13",
+        "tags.note:address": "41 Rue d'Esquermes, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Le restaurant propose de la vente à emporter. Appeler au 03 20 08 23 66 avant pour connaître les stocks.",
+        "tags.note:name": "A La Brasserie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.068268,
+          50.619987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -20,
+        "osm_type": "node",
+        "ref_id": "14",
+        "tags.note:address": "6 Place Déliot, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Commandes à emporter en respectant toutes les mesures de sécurité.\n\nCommandes à passer par téléphone au 03 20 09 68 91.",
+        "tags.note:name": "Bio'Appetit !"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.110818,
+          50.582314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -21,
+        "osm_type": "node",
+        "ref_id": "15",
+        "tags.note:address": "100 Rue du Pic au Vent, 59810 Lesquin, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "La Fossetta Lesquin vous propose des plats à emporter, le midi uniquement de 11h30 à 14h00, dans le CRT 1-2-3-4, Ennevelin, Avelin et Pont-à-Marcq.\n\n📞 Commande uniquement par téléphone au 0320110435 ou par mail commande@fossetta.fr\nMerci de préciser dans vos commandes mails, l'horaire de livraison, votre numéro de portable ainsi que l'adresse de votre société.\n\n🧑‍🍳 Découvrez notre carte spéciale :\n\n- Pâtes :\nSpaghetti à l’arrabiata : 12€\nRigatoni bolognaise : 13€\nRigatoni Carbonara : 13€\n\nPâtes du jour :\n\nRigatoni Verselli 13€\nSauce crémée, bœuf haché, ail, crème de truffe, roquette\n\nSpaghetti Tomates semi-séchées et jambons aux herbes : 13€\nSauce crémée, ail, tomate semi-séchées, roquette, jambon aux herbes\n\n- Salades composées\nhttps://lafossetta.fr/specialites/\n\n- Pizzas\nhttps://lafossetta.fr/pizzas/\n\n- Desserts\nTiramisu 6€\n\n- Boissons\nSan Pellegrino 50cl 2.5€\nCoca 33 cl 3€\nMinute Maid Orange 33cl 3€\nIce Tea 25cl 3€\nSprite 3€\nFanta 33cl 3€\nGoudale Blonde 50cl 6€\n\n‼ Nous vous livrons pour une commande minimum de 6 plats. Pour toutes les autres commandes, notre restaurant de Lesquin vous accueille dans les meilleures conditions pour le retrait.\n\nPour une question de logistique, en cas de commande groupée, nous n'acceptons qu'un seul moyen de paiement (tickets restaurant, chèque, CB)",
+        "tags.note:name": "La Fossetta Lesquin"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.058205,
+          50.640106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -22,
+        "osm_type": "node",
+        "ref_id": "16",
+        "tags.note:address": "81 Rue d'Angleterre, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "\"Nous serons sur place demain de 11h30 à 18h et nous verrons en fonction du stock vendu ce qui se passera les jours suivants... \nle téléphone du resto est le 0328077371 si les gens veulent savoir ce que nous proposons. \nNous accepterons uniquement les paiement par carte bancaire! \"",
+        "tags.note:name": "Autour de Vous Lille"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.050772,
+          50.619545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -23,
+        "osm_type": "node",
+        "ref_id": "17",
+        "tags.note:address": "248 Rue des Postes, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Horaires et cartes habituels. À emporter ou en livraison.",
+        "tags.note:name": "DREAM DINER"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0681977,
+          50.633427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -24,
+        "osm_type": "node",
+        "ref_id": "19",
+        "tags.note:address": "147 Rue Pierre Mauroy, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Le restaurant propose la vente à emporter ou en livraison.",
+        "tags.note:name": "A La Maison"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0585268,
+          50.638382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -25,
+        "osm_type": "node",
+        "ref_id": "20",
+        "tags.note:address": "13 Rue des Bouchers, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Des plats sont proposés à emporter. \n\nPour avoir plus d'infos sur les plats, vous pouvez appeler au 09 83 80 89 61.",
+        "tags.note:name": "Chez Brigitte"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0623972,
+          50.64457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -26,
+        "osm_type": "node",
+        "ref_id": "21",
+        "tags.note:address": "72 ter Avenue du Peuple Belge, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Vente essentiellement de tacos 1,2 ou 3 viandes, hamburger\nPaiement espèce + Tr + cb en sans contact",
+        "tags.note:name": "Ke Tacos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.063156,
+          50.633312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -27,
+        "osm_type": "node",
+        "ref_id": "23",
+        "tags.note:address": "65-67 Rue de Béthune, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Le restaurant propose la vente à emporter ou en livraison.",
+        "tags.note:name": "IT Italian Trattoria"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0689821,
+          50.636333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -28,
+        "osm_type": "node",
+        "ref_id": "24",
+        "tags.note:address": "8 Place de la Gare, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Carte habituelle à emporter ou en livraison.\nDe préférence, commander la commande sur le site internet.",
+        "tags.note:name": "Taobento - Lille"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0621407,
+          50.633167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -29,
+        "osm_type": "node",
+        "ref_id": "25",
+        "tags.note:address": "13 Rue de l'Hôpital Militaire, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Carte habituelle à emporter. Paiement par carte de préférence.\nMidi et soir à partir de Mardi.",
+        "tags.note:name": "Croque-François"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0554953,
+          50.661484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -30,
+        "osm_type": "node",
+        "ref_id": "26",
+        "tags.note:address": "107 Rue Sadi Carnot, 59350 Saint-André-lez-Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Viva Italian Pizza\n\nCommandes à emporter / À commander par téléphone avant : 03 20 31 70 77",
+        "tags.note:name": "Viva Italian Pizza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0645936,
+          50.63981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -31,
+        "osm_type": "node",
+        "ref_id": "28",
+        "tags.note:address": "22 Place des Patiniers, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Vente à emporter avec paiement sans contact de préférence.",
+        "tags.note:name": "Le Comptoir Volant"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.065641,
+          50.64057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -32,
+        "osm_type": "node",
+        "ref_id": "29",
+        "tags.note:address": "15 Rue Saint-Jacques, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Vente à emporter et livraison.\n\n\"Sur la grande table en bois de la salle épurée ou à emporter, des sandwiches, soupes et petits plats créatifs.\"",
+        "tags.note:name": "SPOK - Lille"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.01971,
+          50.610992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -33,
+        "osm_type": "node",
+        "ref_id": "3",
+        "tags.note:address": "65 Rue du Général Leclerc, 59120 Loos, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Les horaires :\ndimanche - 09:30–13:00\nlundi - Fermé\nmardi- 10:00–12:30 / 15:30–19:30\nmercredi - 10:00–12:30 / 15:30–19:30\njeudi - 15:30–19:30\nvendredi\t- 10:00–12:30 / 15:30–19:30\nsamedi - 09:00–13:00 / 15:30–19:30\n\nNuméro de téléphone : 03 62 26 34 14\n\nVous pouvez également commander sur notre site www.fruitsdelaterre.com et bénéficier d'une livraison gratuite dans un rayon de 20 km autour de Lille/Lomme.\n\nNous permettons à notre clientèle située à Loos, de consommer en toute confiance des fruits et légumes extra frais issus de l'agriculture biologique ou raisonnée, dont la qualité vous donnera envie d'y revenir. De plus, nous developpons une large gamme de produits vrac, pour le plus grands plaisir de nos clients. La boutique à Loos, vous offre également une large gamme de produits d'épicerie, de vins, de fromages ainsi que des produits originaux pour épater vos convives ! Pour nos clients partout en France, nous livrons à domicile nos produits les plus originaux (mini-légumes, micro-végétaux, fleurs comestibles, algues bio...) via notre boutique en ligne, avec l'assurance de leur fraîcheur tout au long du trajet.",
+        "tags.note:name": "Fruits de la Terre"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.061567,
+          50.641064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -34,
+        "osm_type": "node",
+        "ref_id": "30",
+        "tags.note:address": "14-16 Rue de Pétérinck, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "\"On propose des vins de petits vignerons à emporter en cubi ! Cela se garde deux mois après ouverture. Idéal pour la consommation quotidienne :)\n40 références dispos.\nHoraires : mardi au samedi : 11h-18h, dimanche 10h30-14h30\"",
+        "tags.note:name": "BiBoViNo Vieux-Lille"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.069528,
+          50.636024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -35,
+        "osm_type": "node",
+        "ref_id": "32",
+        "tags.note:address": "32 Place de la Gare, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Bar à Crêpes vente à emporter entre 11h et 15h. \n\nLa carte est disponible sur ce lien 🙂 https://daddycrepes.fr/creperie-lille/creperie-lille-carte/",
+        "tags.note:name": "Daddy Crêpes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0576108,
+          50.64676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -36,
+        "osm_type": "node",
+        "ref_id": "33",
+        "tags.note:address": "36 Rue Saint-Sébastien, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Carte habituelle uniquement à emporter.\n\nOuvert midi et soir sauf le lundi.",
+        "tags.note:name": "Sam'Régal"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.049996,
+          50.626637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -37,
+        "osm_type": "node",
+        "ref_id": "34",
+        "tags.note:address": "19 Place Nouvelle Aventure, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Restaurant de pâtes fraiches.\n\nUniquement à emporter.",
+        "tags.note:name": "DINA LILLE Wazemmes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.058262,
+          50.63941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -38,
+        "osm_type": "node",
+        "ref_id": "35",
+        "tags.note:address": "19 Rue Royale, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Tous les snacks et toutes les bières sont à emporter.",
+        "tags.note:name": "Bierbuik- Bloemeke"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0627892,
+          50.63691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -39,
+        "osm_type": "node",
+        "ref_id": "37",
+        "tags.note:address": "5 Rue Nationale, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Commandes à emporter ou en livraison.",
+        "tags.note:name": "Pokawa Lille"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.064681,
+          50.640457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -40,
+        "osm_type": "node",
+        "ref_id": "38",
+        "tags.note:address": "4-6 Place Louise de Bettignies, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Vente en livraison et à emporter. Les commandes doivent être réglées avant la récupération.",
+        "tags.note:name": "Sushi Shop"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.062658,
+          50.632664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -41,
+        "osm_type": "node",
+        "ref_id": "39",
+        "tags.note:address": "15 Place de Béthune, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Vente en livraison et à emporter. Les commandes doivent être réglées avant la récupération.",
+        "tags.note:name": "Sushi Shop Lille Centre"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.060216,
+          50.638786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -42,
+        "osm_type": "node",
+        "ref_id": "4",
+        "tags.note:address": "46 Rue Basse, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:name": "Pacte le drive pieton des produits locaux"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0589113,
+          50.607307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -43,
+        "osm_type": "node",
+        "ref_id": "40",
+        "tags.note:address": "246 Rue du Faubourg d'Arras, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Carte habituelle à emporter.\n\nwww.fast-pizza-lille.fr",
+        "tags.note:name": "Fast Pizza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0584428,
+          50.639023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -44,
+        "osm_type": "node",
+        "ref_id": "42",
+        "tags.note:address": "6 Rue de la Barre, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Les halles restent ouvertes, mais information importante :\n\nLivraison gratuite à domicile à partir de 19,90€ d'achat jusqu'à nouvel ordre pour aider les personnes qui doivent rester à la maison.",
+        "tags.note:name": "Halles Modernes - Vieux Lille"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.056636,
+          50.641937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -45,
+        "osm_type": "node",
+        "ref_id": "44",
+        "tags.note:address": "84 Rue Royale, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "À emporter : cocktails, bières, tapas, saucisson, planche tartinable (et même barman à domicile).",
+        "tags.note:name": "Quai Des Bananas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.064476,
+          50.636654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -46,
+        "osm_type": "node",
+        "ref_id": "45",
+        "tags.note:address": "4 Rue des Manneliers, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Carte habituelle à emporter ou en livraison sur les différentes plateformes.",
+        "tags.note:name": "Shake'N Out Burger"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.064176,
+          50.63716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -47,
+        "osm_type": "node",
+        "ref_id": "47",
+        "tags.note:address": "8 Rue des 7 Agaches, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Vous pouvez commander les plats sur le site web : www.fivesthai.fr avant 10h30 pour le midi. Service à emporter (devant le magasin) ou en livraison.",
+        "tags.note:name": "Fives Thai Coffee"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.130603,
+          50.610294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -48,
+        "osm_type": "node",
+        "ref_id": "49",
+        "tags.note:address": "Stade Pierre Mauroy, Rue du Virage, 59650 Villeneuve-d'Ascq, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Vente à emporter sur la carte habituelle.",
+        "tags.note:name": "L'ATELIER STREET FOOD"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.066249,
+          50.636227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -49,
+        "osm_type": "node",
+        "ref_id": "51",
+        "tags.note:address": "4 Rue des Ponts de Comines, 59800 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Commandes à emporter sur la carte habituelle.",
+        "tags.note:name": "Wok and Sweet"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.021381,
+          50.62937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -50,
+        "osm_type": "node",
+        "ref_id": "52",
+        "tags.note:address": "90 Quai de l'Ouest, 59000 Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Une formule à emporter à 15€ : plat du jour + dessert.\n\nVous pouvez les appeler au 03 20 02 57 97 pour connaître les produits du jour.",
+        "tags.note:name": "Le Barboteur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.9971616,
+          50.713116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -51,
+        "osm_type": "node",
+        "ref_id": "6",
+        "tags.note:address": "2a Chemin de l'Ange Gardien, 59890 Quesnoy-sur-Deûle, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Livraisons à domicile gratuites sur la métropole pour les commandes de plus de 50€ sur http://www.onpartenvrac-drive.com",
+        "tags.note:name": "On Part En Vrac"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0810301,
+          50.652134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -52,
+        "osm_type": "node",
+        "ref_id": "8",
+        "tags.note:address": "114 Avenue Saint-Maur, 59110 La Madeleine, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "Ouvert de 10h à 13h30 et de 18h à 20h30 \nFerme le dimanche et lundi",
+        "tags.note:name": "Al Fornello"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.0623186,
+          50.68055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -53,
+        "osm_type": "node",
+        "ref_id": "9",
+        "tags.note:address": "village des voiles, 59520 Marquette-lez-Lille, France",
+        "tags.note:city": "Lille",
+        "tags.note:comment": "11h à 13h30. \nAu 09 62 51 03 48 ou sur le site www.bistrot-two-d.com",
+        "tags.note:name": "TWO D"
+      },
+      "type": "Feature"
+    }
+  ]
+}

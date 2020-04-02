@@ -1,0 +1,1034 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          7.011925,
+          43.55274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -9,
+        "osm_type": "node",
+        "ref_id": "1",
+        "tags.note:address": "7 Boulevard Victor Tuby, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteurs de livraison : Cannes, Cannes La Bocca\n\n☎️ 06 09 95 81 69\ncommande @ atelier-delice.fr",
+        "tags.note:name": "AJC Primeur Anne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0237045,
+          43.55312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -10,
+        "osm_type": "node",
+        "ref_id": "10",
+        "tags.note:address": "9 Rue Marceau, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteurs de livraison : Cannes, Cannes La Bocca\n\n04 92 98 80 80\ncannescacher @ hotmail.fr",
+        "tags.note:name": "Rebibo Gabriel Cannes Cacher"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0231094,
+          43.552696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -11,
+        "osm_type": "node",
+        "ref_id": "11",
+        "tags.note:address": "7 Rue Teisseire, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Cannes\n\n06 79 65 32 55\ncave.riviera.cannes @ orange.fr",
+        "tags.note:name": "Cave Riviera Cannes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.019084,
+          43.55196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -12,
+        "osm_type": "node",
+        "ref_id": "12",
+        "tags.note:address": "4 Rue des Belges, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Restauration (frites, croquettes, hamburger, etc.)\n\nSecteur de livraison : Cannes\n\n06 43 91 18 60 \ninfo @ pomms-amsterdam.com\nhttp://www.pomms-amsterdam.com",
+        "tags.note:name": "Pomms Amsterdam ®"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.01759,
+          43.553444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -13,
+        "osm_type": "node",
+        "ref_id": "13",
+        "tags.note:address": "20 Rue Venizelos 16 et, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Cannes, Cannes La Bocca\n\n04 93 39 08 19\ncannolive @ orange.fr\nwww.cannolive.fr",
+        "tags.note:name": "CannOlive"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.023343,
+          43.555042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -14,
+        "osm_type": "node",
+        "ref_id": "14",
+        "tags.note:address": "18 Rue Merle, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Boucherie – alimentation\n\n\nSecteurs de livraison : Cannes, Cannes La Bocca\n\n04 93 30 19 64\norient.itran06 @ gmail.com",
+        "tags.note:name": "Boucherie de L'Orient"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0271373,
+          43.55213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -15,
+        "osm_type": "node",
+        "ref_id": "15",
+        "tags.note:address": "3 Rue d'Oran, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Rôtisserie viandes et volailles, accompagnements maison\nSecteur de livraison : Cannes\n\n06 22 59 46 05\nlblcobcannes @ gmail.com\nwww.labrochedeleonard.fr",
+        "tags.note:name": "La broche de Léonard"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.021519,
+          43.553516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -16,
+        "osm_type": "node",
+        "ref_id": "17",
+        "tags.note:address": "28 Rue Jean Jaures, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Spécialités thaïlandaises\n04 93 38 71 25\nPage Deliveroo",
+        "tags.note:name": "Mala"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.016514,
+          43.55369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -17,
+        "osm_type": "node",
+        "ref_id": "18",
+        "tags.note:address": "5 Boulevard de la Ferrage, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "04 97 06 17 81",
+        "tags.note:name": "Speedy tacos Cannes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0244117,
+          43.553642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -18,
+        "osm_type": "node",
+        "ref_id": "19",
+        "tags.note:address": "29 Rue Jean Jaures, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteurs de livraison : Cannes, Cannes La Bocca\n\n04 93 99 51 80\nwww.livraisonpizzashop.com",
+        "tags.note:name": "Pizza Shop"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.033619,
+          43.55026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -19,
+        "osm_type": "node",
+        "ref_id": "2",
+        "tags.note:address": "32 Avenue Maréchal Juin, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Pain, épicerie 1re nécessité, fruits et légumes, boissons \n32 Avenue Maréchal juin\n\nSecteurs de livraison : Cannes\n\n04 93 43 75 38 \nlessentiel06400 @ orange.fr",
+        "tags.note:name": "L'essentiel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0280547,
+          43.55269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -20,
+        "osm_type": "node",
+        "ref_id": "20",
+        "tags.note:address": "36 Boulevard de Lorraine, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Cannes centre-ville\n\n04 93 68 10 30\nwww.mister-pizza.com",
+        "tags.note:name": "Mister Pizza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.022082,
+          43.553127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -21,
+        "osm_type": "node",
+        "ref_id": "21",
+        "tags.note:address": "41 bis Rue Hoche, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Cannes, Cannes La Bocca\n\n04 93 38 31 80\nwww.asiakeo.com",
+        "tags.note:name": "Asiakeo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.01595,
+          43.5527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -22,
+        "osm_type": "node",
+        "ref_id": "22",
+        "tags.note:address": "5 Rue du Maréchal Joffre, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Cannes\n\n04 93 39 44 56\n\nCommande livraison groupée\navec d'autres commerçants :\n04 93 38 04 38\n\ncontact @ 1862wines.com\nwww.1862wines.com",
+        "tags.note:name": "1862 Wines & Spirits"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0145035,
+          43.552685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -23,
+        "osm_type": "node",
+        "ref_id": "24",
+        "tags.note:address": "22 Rue Meynadier, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Cannes\n\n04 93 39 63 68\n\nCommande livraison groupée\navec d'autres commerçants :\n04 93 38 04 38\n\nwww.fromagerie-ceneri.com",
+        "tags.note:name": "Ceneri Cannes cheese"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.016431,
+          43.56465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -24,
+        "osm_type": "node",
+        "ref_id": "25",
+        "tags.note:address": "résid Etoile Ens, 111 Boulevard Carnot bât A, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Cannes\n\n04 93 68 30 57\nmaisonfleurycannes @ gmail.com",
+        "tags.note:name": "Maison Fleury Boucherie et Traiteur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.016858,
+          43.55481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -25,
+        "osm_type": "node",
+        "ref_id": "26",
+        "tags.note:address": "7 Boulevard Carnot, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Carnot\n\n04 93 99 99 60\nwww.mister-pizza.com",
+        "tags.note:name": "Mister Pizza Cannes Carnot"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0168447,
+          43.55433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -26,
+        "osm_type": "node",
+        "ref_id": "28",
+        "tags.note:address": "1 Boulevard Carnot, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Cannes\n\n04 97 06 51 66\n\nCommande livraison groupée\navec d'autres commerçants :\n04 93 38 04 38\n \nbirgitte @ cphcoffeelab.com",
+        "tags.note:name": "Copenhagen Coffee Lab - Cannes, Blvd Carnot"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0342445,
+          43.54649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -27,
+        "osm_type": "node",
+        "ref_id": "3",
+        "tags.note:address": "2 Avenue de Madrid, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Livraison de pizzas, poulets rôtis, sandwichs, salades, burgers\n2 Avenue de Madrid\n\nSecteurs de livraison : Carnot, Centre-ville, Suquet, République, Californie, Basse Californie, Pointe Croisette\n\n04 93 43 01 88\nsospizza06400@gmail.com\nwww.sospizza06.com",
+        "tags.note:name": "SOS Pizza Poulet"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0117545,
+          43.551662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -28,
+        "osm_type": "node",
+        "ref_id": "30",
+        "tags.note:address": "6 Rue du Dr Pierre Gazagnaire, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Poissons, plateaux de fruits de mer\nSecteurs de livraison : Cannes\n\n06 28 92 91 77 \n\nCommande livraison groupée\navec d'autres commerçants :\n04 93 38 04 38\n\npoissonnerieforville @ orange.fr",
+        "tags.note:name": "Poissonnerie Forville"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0114064,
+          43.552162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -29,
+        "osm_type": "node",
+        "ref_id": "31",
+        "tags.note:address": "3 Rue du Marché Forville, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteurs de livraison : Cannes, Cannes La Bocca\n\n06 16 98 21 80 \nJeremie06 @ hotmail.fr",
+        "tags.note:name": "Jérémie Darmigny"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.011047,
+          43.552517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -30,
+        "osm_type": "node",
+        "ref_id": "32",
+        "tags.note:address": "17 Boulevard Victor Tuby, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "07 86 73 40 14 \netienne @ cannesaddictevents.com \nwww.cannesaddictevents.com",
+        "tags.note:name": "Sandrine Events"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0115914,
+          43.552727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -31,
+        "osm_type": "node",
+        "ref_id": "33",
+        "tags.note:address": "13 Boulevard Victor Tuby, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteurs de livraison : Centre Ville, Suquet.\n\n09 88 01 16 41\nInfo @ laboutiquedelatruffeitalienne.com \nwww.laboutiquedelatruffeitalienne.com",
+        "tags.note:name": "La Boutique de la Truffe Italienne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0118136,
+          43.55214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -32,
+        "osm_type": "node",
+        "ref_id": "34",
+        "tags.note:address": "Rue du Marché Forville, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteurs de livraison : Cannes, Cannes La Bocca\n\n06 11 20 54 94\nDarmigny.julien @ gmail.com",
+        "tags.note:name": "Le Comptoir des Pâtes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0113106,
+          43.552258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -33,
+        "osm_type": "node",
+        "ref_id": "36",
+        "tags.note:address": "10 rue Doct Pierre Gazagnaire Mar, Rue du Marché Forville, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteur de livraison : Cannes\n\n☎️ 04 93 68 72 02\nBistrotgourmandcannes @ gmail.com \nwww.bistrotgourmandcannes.fr",
+        "tags.note:name": "Le Bistrot Gourmand"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0120244,
+          43.5518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -34,
+        "osm_type": "node",
+        "ref_id": "37",
+        "tags.note:address": "4 Place du Marché Forville, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteur de livraison : Cannes\n\n☎️ 04 93 68 00 23\n\nCommande livraison groupée\navec d'autres commerçants :\n04 93 38 04 38",
+        "tags.note:name": "La Rôtisserie Christophe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0121193,
+          43.552364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -35,
+        "osm_type": "node",
+        "ref_id": "38",
+        "tags.note:address": "9 Rue du Marché Forville, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteurs de livraison : Cannes, Cannes La Bocca\n☎️ 04 93 39 18 05\n\nCommande livraison groupée\navec d'autres commerçants :\n☎️ 04 93 38 04 38\nboucherie_agricole@yahoo.fr",
+        "tags.note:name": "Boucherie Agricole : Boucherie à Cannes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0066924,
+          43.552914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -36,
+        "osm_type": "node",
+        "ref_id": "39",
+        "tags.note:address": "32 Boulevard Vallombrosa, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteur de livraison : Cannes\n\n04 93 38 32 72\nsarlcyro06 @ gmail.com",
+        "tags.note:name": "Pizza World"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0339613,
+          43.550224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -37,
+        "osm_type": "node",
+        "ref_id": "4",
+        "tags.note:address": "23 Avenue Maréchal Juin, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteurs de livraison : Grasse/Riou/Petit Juas, Carnot, Centre-ville, Suquet, République, Californie, Basse Californie, Pointe Croisette\n\n04 93 43 62 82\ncheznouscannes@sfr.fr\nPage Uber Eats",
+        "tags.note:name": "Papa Nino II"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0118985,
+          43.555134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -38,
+        "osm_type": "node",
+        "ref_id": "40",
+        "tags.note:address": "81 Avenue de Grasse, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteurs de livraison : Cannes, Cannes La Bocca\n\n☎️ 04 93 45 20 00 \nwww.happyfood06.fr",
+        "tags.note:name": "HAPPYFOOD"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.999752,
+          43.550888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -39,
+        "osm_type": "node",
+        "ref_id": "41",
+        "tags.note:address": "26 Avenue du Dr Raymond Picaud, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteurs de livraison : Croix des Gardes/Picaud\n\n☎️ Tél. commande : 04 93 93 17 44\nolivier @ cafepico.fr",
+        "tags.note:name": "Cafe Pico"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.991161,
+          43.550434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -40,
+        "osm_type": "node",
+        "ref_id": "42",
+        "tags.note:address": "60 Avenue du Dr Raymond Picaud, 06150 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteurs de livraison : Cannes La Bocca, Croix-des-Gardes/Picaud\n\n☎️ 06 07 01 16 23 \nribriouxtony@yahoo.fr",
+        "tags.note:name": "Restaurant l'Etoile"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.9779778,
+          43.54947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -41,
+        "osm_type": "node",
+        "ref_id": "43",
+        "tags.note:address": "73 Avenue Francis Tonner, 06150 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteurs de livraison : Cannes, Cannes La Bocca\n\n☎️ 06 70 15 60 78\ndeneuville.canneslabocca@orange.fr",
+        "tags.note:name": "Chocolats De Neuville Cannes - La Bocca"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.973933,
+          43.549538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -42,
+        "osm_type": "node",
+        "ref_id": "44",
+        "tags.note:address": "127 Avenue Francis Tonner, 06150 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteur de livraison : Cannes La Bocca\n\n☎️ 04 92 19 08 14",
+        "tags.note:name": "Gusto Italiano"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.972342,
+          43.549225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -43,
+        "osm_type": "node",
+        "ref_id": "45",
+        "tags.note:address": "7 Rue Paul Négrin, 06150 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵Secteur de livraison : Cannes La Bocca\n\n☎️04 93 49 75 24 \npizza.angelina @ outlook.fr \nwww.nj-pizza.com",
+        "tags.note:name": "NJ Pizza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.9783397,
+          43.549377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -44,
+        "osm_type": "node",
+        "ref_id": "46",
+        "tags.note:address": "67 Avenue Francis Tonner, 06150 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteur de livraison : Cannes La Bocca\n\n☎️ 04 93 47 05 46\n\nwww.mister-pizza.com",
+        "tags.note:name": "Mister Pizza Cannes La Bocca"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.9769855,
+          43.552654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -45,
+        "osm_type": "node",
+        "ref_id": "47",
+        "tags.note:address": "58 Avenue Michel Jourdan, 06150 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteur de livraison : Cannes, Cannes La Bocca\n\n☎️ 04 93 48 93 39\nwww.couscousexpress.fr",
+        "tags.note:name": "Couscous Express Cannes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.9795637,
+          43.549908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -46,
+        "osm_type": "node",
+        "ref_id": "48",
+        "tags.note:address": "6 Avenue Michel Jourdan, 06150 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteur de livraison : Cannes La Bocca\n\n☎️ 04 93 47 89 95\nlavinothequecannes @ orange.fr",
+        "tags.note:name": "La Vinothèque"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.9771357,
+          43.55259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -47,
+        "osm_type": "node",
+        "ref_id": "49",
+        "tags.note:address": "56 Avenue Michel Jourdan, 06150 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "🛵 Secteur de livraison : Cannes La Bocca\n\n☎️ 04 93 47 16 40",
+        "tags.note:name": "Pizza One"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.038695,
+          43.548306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -48,
+        "osm_type": "node",
+        "ref_id": "5",
+        "tags.note:address": "66 Avenue Maréchal Juin, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Boucherie charcuterie traiteur\n66 avenue Maréchal Juin\n\nSecteurs de livraison : Basse Californie, Californie\n\n04 93 46 55 19  \nwww.boucher-dantan.fr",
+        "tags.note:name": "Le Boucher d'Antan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0098033,
+          43.550312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -49,
+        "osm_type": "node",
+        "ref_id": "50",
+        "tags.note:address": "13 Rue Louis Perrissol, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteurs de livraison : Cannes, Cannes La Bocca\n\n06 52 54 64 63\ntredici.cannes @ gmail.com\nwww.tredici-cannes.eatbu.com",
+        "tags.note:name": "Tredici"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.013931,
+          43.552433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -50,
+        "osm_type": "node",
+        "ref_id": "52",
+        "tags.note:address": "31 Rue Meynadier, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteurs de livraison : Cannes, Bocca Nord, Bocca Ouest, Bocca Centre\n\n06 13 45 03 25 \n04 93 39 36 63\npasta-tosca @ wanadoo.fr",
+        "tags.note:name": "Aux Bons Raviolis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0114384,
+          43.55191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -51,
+        "osm_type": "node",
+        "ref_id": "53",
+        "tags.note:address": "06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "LA RÔTISSERIE DU MARCHÉ\n\nRôtisserie\nMarché Forville\n\nSecteur de livraison : Cannes\n\n07 78 38 82 42\nscocciafranck @ hotmail.fr",
+        "tags.note:name": "Marché Forville"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0114193,
+          43.550934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -52,
+        "osm_type": "node",
+        "ref_id": "54",
+        "tags.note:address": "3 Place Bernard Cornut Gentille, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Secteurs de livraison : Cannes, Cannes La Bocca\n\n04 93 68 62 05 \nPage Uber Eats",
+        "tags.note:name": "El Régal"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0209293,
+          43.55353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -53,
+        "osm_type": "node",
+        "ref_id": "55",
+        "tags.note:address": "22 Rue Jean Jaures, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "04 93 75 01 25\nPage Deliveroo",
+        "tags.note:name": "Jorainbow"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0199537,
+          43.55351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -54,
+        "osm_type": "node",
+        "ref_id": "57",
+        "tags.note:address": "8 Rue Jean Jaures, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "04 93 68 85 28",
+        "tags.note:name": "KFC Cannes gare"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.020596,
+          43.556805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -55,
+        "osm_type": "node",
+        "ref_id": "6",
+        "tags.note:address": "Impasse Denans, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Livraisons boissons\n8 impasse Denans\n\nSecteurs de livraison : Cannes et Cannes La Bocca\n\n04 83 44 44 01 \naperojet7 @ gmail.com",
+        "tags.note:name": "APERO JET 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.023326,
+          43.55627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -56,
+        "osm_type": "node",
+        "ref_id": "8",
+        "tags.note:address": "61 Boulevard de la Republique, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Pizzeria bio\n61 Boulevard de la République\n\n04 93 68 44 75",
+        "tags.note:name": "GREEN PIZZA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0212255,
+          43.561703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "action": "create",
+        "marker-color": "#11dd11",
+        "osm_id": -57,
+        "osm_type": "node",
+        "ref_id": "9",
+        "tags.note:address": "167 Boulevard de la Republique, 06400 Cannes, France",
+        "tags.note:city": "Cannes",
+        "tags.note:comment": "Rôtisserie volailles\n167 Boulevard de la République\n\n04 28 70 10 90\nwww.chick-n-chic.fr",
+        "tags.note:name": "Chick'N Chic"
+      },
+      "type": "Feature"
+    }
+  ]
+}
