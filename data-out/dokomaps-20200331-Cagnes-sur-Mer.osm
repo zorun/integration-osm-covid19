@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osm version="0.6" generator="OSM Conflator 1.4.1"><changeset><tag k="source" v="dokomaps.com" /><tag k="created_by" v="OSM Conflator 1.4.1" /><tag k="type" v="import" /></changeset><node id="-1" version="1" lat="43.658653" lon="7.162807"><tag k="note:name" v="Casino Shop" /><tag k="note:address" v="25 Avenue Général Leclerc, 06170 Saint-Laurent-du-Var, France" /><tag k="note:city" v="Cagnes-sur-Mer" /></node></osm>

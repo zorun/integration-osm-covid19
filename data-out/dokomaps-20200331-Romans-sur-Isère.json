@@ -1,0 +1,753 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     5.0511443,
+     45.046017
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6528619190,
+    "osm_type": "node",
+    "ref_coords": [
+     5.0511537,
+     45.046005
+    ],
+    "ref_distance": 1.5,
+    "ref_id": "21",
+    "tags.addr:city": "Romans-sur-Isère",
+    "tags.addr:housenumber": "58",
+    "tags.addr:postcode": "26100",
+    "tags.addr:street": "Place Jean Jaurès",
+    "tags.name": "Pognes Mourier",
+    "tags.phone": "+33 4 75 02 79 91",
+    "tags.shop": "bakery",
+    "tags_new.note:address": "58 Place Jean Jaurès, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags_new.note:name": "Pognes Mourier"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.050171,
+     45.0459771
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6527877930,
+    "osm_type": "node",
+    "ref_coords": [
+     5.0501895,
+     45.045963
+    ],
+    "ref_distance": 2.1,
+    "ref_id": "27",
+    "tags.addr:city": "Romans-sur-Isère",
+    "tags.addr:housenumber": "76",
+    "tags.addr:postcode": "26100",
+    "tags.addr:street": "Place Jean Jaurès",
+    "tags.brand": "La Mie Câline",
+    "tags.brand:wikidata": "Q3210704",
+    "tags.brand:wikipedia": "fr:La Mie câline",
+    "tags.name": "La Mie Câline",
+    "tags.opening_hours": "Mo-Su 6:00-20:00",
+    "tags.phone": "+33 4 75 45 85 94",
+    "tags.shop": "bakery",
+    "tags.website": "https://magasin.lamiecaline.com/magasin/romans/299",
+    "tags_new.note:address": "76 Place Jean Jaurès, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "Pains et viennoiseries\n\nOuvert tous les jours de 7h à 15h",
+    "tags_new.note:name": "La Mie Câline"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0525965,
+     45.0460883
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6516754773,
+    "osm_type": "node",
+    "ref_coords": [
+     5.052605,
+     45.046066
+    ],
+    "ref_distance": 2.6,
+    "ref_id": "26",
+    "tags.addr:city": "Romans-sur-Isère",
+    "tags.addr:housenumber": "38",
+    "tags.addr:postcode": "26100",
+    "tags.addr:street": "Place Jean Jaurès",
+    "tags.name": "La petite ferme",
+    "tags.phone": "+33 4 75 02 06 97",
+    "tags.shop": "greengrocer",
+    "tags_new.note:address": "26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "Fruits Légumes et Fromages\n\nOuverte de 8h30 à 14h30 - Dimanche 8h30 à 12h",
+    "tags_new.note:name": "La Petite Ferme"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0508727,
+     45.0460034
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6527985509,
+    "osm_type": "node",
+    "ref_coords": [
+     5.0509114,
+     45.04599
+    ],
+    "ref_distance": 3.4,
+    "ref_id": "24",
+    "tags.addr:city": "Romans-sur-Isère",
+    "tags.addr:housenumber": "64",
+    "tags.addr:postcode": "26100",
+    "tags.addr:street": "Place Jean Jaurès",
+    "tags.description": "Boulangerie Patisserie crée en 1981 par Max et Patricia Bédouin. Venez vous régalez en dégustant la Campaillette , la Pogne , le Saint Genix ou notre spécialité LE NOUGATPOGNE !!!!",
+    "tags.name": "Boulangerie Patisserie Bédouin",
+    "tags.phone": "+33 4 75 05 12 89",
+    "tags.shop": "bakery",
+    "tags_new.note:address": "64 Place Jean Jaurès, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags_new.note:name": "Boulangerie Pâtisserie Bédouin"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.042767,
+     45.05482
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 61077578,
+    "osm_type": "way",
+    "ref_coords": [
+     5.042749,
+     45.054848
+    ],
+    "ref_distance": 3.4,
+    "ref_id": "4",
+    "tags.brand": "Lidl",
+    "tags.brand:wikidata": "Q151954",
+    "tags.brand:wikipedia": "fr:Lidl",
+    "tags.building": "retail",
+    "tags.name": "Lidl",
+    "tags.operator": "Lidl",
+    "tags.shop": "supermarket",
+    "tags.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tags_new.note:address": "24 Rue Louis le Cardonnel, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags_new.note:name": "Lidl"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0465852,
+     45.045161
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1865902438,
+    "osm_type": "node",
+    "ref_coords": [
+     5.046584,
+     45.045193
+    ],
+    "ref_distance": 3.6,
+    "ref_id": "17",
+    "tags.name": "Lili croustille",
+    "tags.shop": "bakery",
+    "tags.source": "survey 2013",
+    "tags_new.note:address": "41 Cours Pierre Didier, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "Ouvert de 7h-15h",
+    "tags_new.note:name": "Lili Croustille"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0471954,
+     45.0456675
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7223489342,
+    "osm_type": "node",
+    "ref_coords": [
+     5.0472064,
+     45.045635
+    ],
+    "ref_distance": 3.7,
+    "ref_id": "28",
+    "tags.name": "La Nougatine",
+    "tags.shop": "bakery",
+    "tags_new.note:address": "26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:name": "La Nougatine"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0799239,
+     45.0500203
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1865954397,
+    "osm_type": "node",
+    "ref_coords": [
+     5.079963,
+     45.049984
+    ],
+    "ref_distance": 5.1,
+    "ref_id": "22",
+    "tags.addr:city": "Romans-sur-Isère",
+    "tags.addr:housenumber": "4",
+    "tags.addr:postcode": "26100",
+    "tags.addr:street": "Avenue de la Déportation",
+    "tags.brand": "Marie Blachère",
+    "tags.brand:website": "http://www.marieblachere.com/",
+    "tags.brand:wikidata": "Q62082410",
+    "tags.name": "Marie Blachère",
+    "tags.opening_hours": "Mo-Su 6:30-19:30; Su off",
+    "tags.payment:cash": "yes",
+    "tags.payment:credit_cards": "yes",
+    "tags.phone": "+33 4 75 72 41 90",
+    "tags.shop": "bakery",
+    "tags_new.note:address": "4 Avenue de la Déportation, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "Ouvert de 7h30 à 18h",
+    "tags_new.note:name": "Boulangerie Marie Blachère"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.079889,
+     45.0497701
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1865956856,
+    "osm_type": "node",
+    "ref_coords": [
+     5.079942,
+     45.0498
+    ],
+    "ref_distance": 5.3,
+    "ref_id": "10",
+    "tags.addr:city": "Romans-sur-Isère",
+    "tags.addr:housenumber": "4",
+    "tags.addr:postcode": "26100",
+    "tags.addr:street": "Avenue de la Déportation",
+    "tags.name": "Provenc'Halles",
+    "tags.phone": "+33 4 75 02 24 19",
+    "tags.shop": "greengrocer",
+    "tags_new.note:address": "4 Avenue de la Déportation, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags_new.note:name": "Provenc'Halles"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0640767,
+     45.0579543
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 772138620,
+    "osm_type": "way",
+    "ref_coords": [
+     5.064031,
+     45.05791
+    ],
+    "ref_distance": 6.1,
+    "ref_id": "18",
+    "tags.building": "yes",
+    "tags.name": "Boulangerie la Fabrique",
+    "tags.shop": "bakery",
+    "tags.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2020",
+    "tags_new.note:address": "1082 Chemin de Devienne, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "Ouvert de 7h-19h",
+    "tags_new.note:name": "La Fabrique"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0484379,
+     45.0458402
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6558475480,
+    "osm_type": "node",
+    "ref_coords": [
+     5.048508,
+     45.045883
+    ],
+    "ref_distance": 7.3,
+    "ref_id": "19",
+    "tags.addr:city": "Romans-sur-Isère",
+    "tags.addr:housenumber": "12",
+    "tags.addr:postcode": "26100",
+    "tags.addr:street": "Cours Pierre Didier",
+    "tags.brand": "Carrefour Express",
+    "tags.brand:wikidata": "Q2940190",
+    "tags.brand:wikipedia": "fr:Carrefour Express",
+    "tags.name": "Carrefour Express",
+    "tags.opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-13:00",
+    "tags.operator": "Groupe Carrefour",
+    "tags.operator:wikidata": "Q3117359",
+    "tags.operator:wikipedia": "fr:Groupe Carrefour",
+    "tags.phone": "+33 4 75 71 55 67",
+    "tags.shop": "supermarket",
+    "tags.website": "https://www.carrefour.fr/magasin/express-romans-sur-isere-didier",
+    "tags_new.note:address": "18 Rue Dr Perret, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:name": "Carrefour Express"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0824654,
+     45.0509719
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 8697853,
+    "osm_type": "relation",
+    "ref_coords": [
+     5.082407,
+     45.050907
+    ],
+    "ref_distance": 8.6,
+    "ref_id": "5",
+    "tags.brand": "Lidl",
+    "tags.brand:wikidata": "Q151954",
+    "tags.brand:wikipedia": "fr:Lidl",
+    "tags.building": "retail",
+    "tags.name": "Lidl",
+    "tags.shop": "supermarket",
+    "tags.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tags.type": "multipolygon",
+    "tags_new.note:address": "8 Avenue des Allobroges, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags_new.note:name": "Lidl"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0804127,
+     45.0514202
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6796499986,
+    "osm_type": "node",
+    "ref_coords": [
+     5.080525,
+     45.05127
+    ],
+    "ref_distance": 18.9,
+    "ref_id": "11",
+    "tags.brand": "Biocoop",
+    "tags.brand:wikidata": "Q2904039",
+    "tags.brand:wikipedia": "fr:Biocoop",
+    "tags.name": "Biocoop",
+    "tags.shop": "supermarket",
+    "tags_new.note:address": "5 Avenue des Allobroges, 26100 Romans-sur-Isère, France",
+    "tags_new.note:city": "Romans-sur-Isère",
+    "tags_new.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags_new.note:name": "Biocoop Ferme Bio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0481663,
+     45.0454
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -14,
+    "osm_type": "node",
+    "ref_id": "1",
+    "tags.note:address": "17 Cours Pierre Didier, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "Ouverte du lundi au vendredi de 9h00 à 12h00 et sans accueil du public.\n\nTéléphone : 04 75 02 25 60",
+    "tags.note:name": "Allianz Fulvio MANNINO"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.090684,
+     45.055553
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -15,
+    "osm_type": "node",
+    "ref_id": "12",
+    "tags.note:address": "33 Avenue des Allobroges, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags.note:name": "Horaires exceptionnels, RDV sur notre site - Grand Frais Romans-sur-Isère"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0471287,
+     45.050556
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -16,
+    "osm_type": "node",
+    "ref_id": "13",
+    "tags.note:address": "7 Avenue Jean Moulin, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:name": "SPAR"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0520678,
+     45.04608
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -17,
+    "osm_type": "node",
+    "ref_id": "14",
+    "tags.note:address": "46 Place Jean Jaurès, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "46, place Jean Jaurès\n\nHoraires: du lundi au samedi de 7h30 à 12h30 et 14h30 à 18h30\n\nFermé (temporairement) le dimanche",
+    "tags.note:name": "Cadier Denis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0516415,
+     45.046528
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -18,
+    "osm_type": "node",
+    "ref_id": "15",
+    "tags.note:address": "11 bis Rue de la République, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "☎️ Appeler avant de vous deplacer 0475052367",
+    "tags.note:name": "Rayon de Vie"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0493193,
+     45.042763
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -19,
+    "osm_type": "node",
+    "ref_id": "16",
+    "tags.note:address": "7 Place Maurice Faure, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "Ouvert du mercredi au samedi, de 7h-13h et 16h-18h et le dimanche 7h-13h",
+    "tags.note:name": "Aux Galets de l'Isère"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.054146,
+     45.045147
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -20,
+    "osm_type": "node",
+    "ref_id": "2",
+    "tags.note:address": "23 Place Jean Jaurès Bis, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "Location et vente de matériel médical et produit d’incontinence bébé\n\n(peut assurer les livraisons de lits, fauteuils roulants pour sortie d’hôpital)\n\nOuvert : du lundi au samedi matin : 8h30 - 12h et 13h30 – 18h\n\nLivraison gratuite à domicile - Joignable non stop par téléphone au 04 75 05 37 71 ou 06 72\n\n87 78 74",
+    "tags.note:name": "Ginet Santé -Bébécash"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0520806,
+     45.042923
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -21,
+    "osm_type": "node",
+    "ref_id": "20",
+    "tags.note:address": "53 Rue Saint-Nicolas, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "7h30 - 13h (durant la crise)\n\ndu mardi au dimanche",
+    "tags.note:name": "Aux _ Délices de Romans"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0488834,
+     45.045868
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -22,
+    "osm_type": "node",
+    "ref_id": "23",
+    "tags.note:address": "4 Cours Pierre Didier, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "Ouvert le matin",
+    "tags.note:name": "Breyton Et Fils Sarl"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0471816,
+     45.04524
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -23,
+    "osm_type": "node",
+    "ref_id": "25",
+    "tags.note:address": "39 Cours Pierre Didier, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags.note:name": "Boucherie Du Cours"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0459843,
+     45.042942
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -24,
+    "osm_type": "node",
+    "ref_id": "3",
+    "tags.note:address": "6 Place Presle, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "Ouverte du mardi au dimanche de 7h30 à 13h\n\nPossibilité de livraison avec paiement en carte bleue",
+    "tags.note:name": "Teysseire Daniel"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0610356,
+     45.045963
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -25,
+    "osm_type": "node",
+    "ref_id": "6",
+    "tags.note:address": "56 Avenue Gambetta, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags.note:name": "Super U et drive"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0302544,
+     45.04435
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -26,
+    "osm_type": "node",
+    "ref_id": "7",
+    "tags.note:address": "Route de Tain, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "8h/18h avec accès prioritaire de 8 a 8h30 pour le personnel soignant/seniors/femme enceinte",
+    "tags.note:name": "Hyper U and drive"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.101887,
+     45.05859
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -27,
+    "osm_type": "node",
+    "ref_id": "8",
+    "tags.note:address": "95 Rue Clair, 26750 Saint-Paul-lès-Romans, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:name": "E.Leclerc Saint Paul Les Romans"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0575786,
+     45.04983
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -28,
+    "osm_type": "node",
+    "ref_id": "9",
+    "tags.note:address": "18 Avenue Emile Zola, 26100 Romans-sur-Isère, France",
+    "tags.note:city": "Romans-sur-Isère",
+    "tags.note:comment": "☎️ Appeler avant de vous deplacer",
+    "tags.note:name": "Utile"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

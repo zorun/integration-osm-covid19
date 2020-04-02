@@ -1,0 +1,423 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5523484,
+     47.2153851
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2377254037,
+    "osm_type": "node",
+    "ref_coords": [
+     -1.5523349,
+     47.21538
+    ],
+    "ref_distance": 1.2,
+    "ref_id": "11",
+    "tags.amenity": "restaurant",
+    "tags.contact:city": "Nantes",
+    "tags.contact:country": "FR",
+    "tags.contact:housenumber": "20",
+    "tags.contact:phone": "+33 2 40 47 99 60",
+    "tags.contact:postcode": "44000",
+    "tags.contact:street": "Rue des Petites Écuries",
+    "tags.cuisine": "asian",
+    "tags.delivery": "yes",
+    "tags.name": "La Grande Muraille",
+    "tags.opening_hours": "Mo-Fr 12:00-14:30,19:00-23:00; Sa,Su 12:00-14:30,19:00-23:30; We off",
+    "tags.outdoor_seating": "yes",
+    "tags.survey:date": "2019-02-24",
+    "tags.takeaway": "yes",
+    "tags_new.note:address": "18 Rue des Petites Écuries, 44000 Nantes, France",
+    "tags_new.note:city": "Nantes",
+    "tags_new.note:name": "La Grande Muraille"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5651599,
+     47.2149471
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 74609825,
+    "osm_type": "way",
+    "ref_coords": [
+     -1.5651686,
+     47.214985
+    ],
+    "ref_distance": 4.3,
+    "ref_id": "3",
+    "tags.brand": "Carrefour City",
+    "tags.brand:wikidata": "Q2940187",
+    "tags.brand:wikipedia": "fr:Carrefour City",
+    "tags.building": "apartments",
+    "tags.name": "Carrefour City",
+    "tags.opening_hours": "Mo-Sa 07:00-22:00, Su 09:00-13:00",
+    "tags.operator": "Carrefour",
+    "tags.phone": "+33 2 40 20 48 76",
+    "tags.shop": "supermarket",
+    "tags.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tags.survey:date": "2019-02-20",
+    "tags.website": "https://www.carrefour.fr/magasin/city-nantes-cassini",
+    "tags.wheelchair": "yes",
+    "tags_new.note:address": "3 Rue Cassini, 44000 Nantes, France",
+    "tags_new.note:city": "Nantes",
+    "tags_new.note:name": "Carrefour City"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5661374,
+     47.2333502
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6042340126,
+    "osm_type": "node",
+    "ref_coords": [
+     -1.5661544,
+     47.233387
+    ],
+    "ref_distance": 4.3,
+    "ref_id": "13",
+    "tags.addr:city": "NANTES",
+    "tags.addr:housenumber": "1",
+    "tags.addr:postcode": "44000",
+    "tags.addr:street": "Boulevard Robert Schuman",
+    "tags.amenity": "restaurant",
+    "tags.cuisine": "pizza",
+    "tags.delivery": "yes",
+    "tags.name": "Basilic & Co",
+    "tags.opening_hours": "11:30-14:00,18:00-22:00; Fr,Sa 11:30-14:00,18:00-22:30",
+    "tags.phone": "+33240025128",
+    "tags.takeaway": "yes",
+    "tags.website": "http://www.basilic-and-co.com",
+    "tags_new.note:address": "1 Boulevard Robert Schuman, 44300 Nantes, France",
+    "tags_new.note:city": "Nantes",
+    "tags_new.note:name": "Basilic & Co Nantes (Schuman)"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5574106,
+     47.2172562
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4396149089,
+    "osm_type": "node",
+    "ref_coords": [
+     -1.5574738,
+     47.21728
+    ],
+    "ref_distance": 5.5,
+    "ref_id": "7",
+    "tags.addr:city": "Nantes",
+    "tags.addr:housenumber": "23",
+    "tags.addr:postcode": "44000",
+    "tags.addr:street": "Allée d'Orléans",
+    "tags.brand": "Naturalia",
+    "tags.brand:wikidata": "Q3337081",
+    "tags.brand:wikipedia": "fr:Naturalia",
+    "tags.bulk_purchase": "yes",
+    "tags.contact:phone": "+33 2 40357540",
+    "tags.description": "Épicerie biologique et naturelle",
+    "tags.highway": "crossing",
+    "tags.name": "Naturalia",
+    "tags.opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-13:30",
+    "tags.organic": "only",
+    "tags.shop": "supermarket",
+    "tags.website": "https://magasins.naturalia.fr/produits-bio/nantes/3954/",
+    "tags.wheelchair": "yes",
+    "tags_new.note:address": "23 Allée d'Orléans, 44000 Nantes, France",
+    "tags_new.note:city": "Nantes",
+    "tags_new.note:name": "NATURALIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5653394,
+     47.2097402
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1226122333,
+    "osm_type": "node",
+    "ref_coords": [
+     -1.5654352,
+     47.209763
+    ],
+    "ref_distance": 7.7,
+    "ref_id": "14",
+    "tags.amenity": "restaurant",
+    "tags.brand": "Pizza Hut",
+    "tags.brand:wikidata": "Q191615",
+    "tags.brand:wikipedia": "en:Pizza Hut",
+    "tags.contact:phone": "+33 2 85 52 46 46",
+    "tags.contact:website": "https://www.pizzahut.fr/",
+    "tags.cuisine": "pizza",
+    "tags.delivery": "yes",
+    "tags.name": "Pizza Hut",
+    "tags.opening_hours": "Mo-Fr 11:30-15:00,18:00-23:00; Sa,Su 11:30-23:00",
+    "tags.survey:date": "2019-09-21",
+    "tags.takeaway": "yes",
+    "tags.wheelchair": "yes",
+    "tags_new.note:address": "64 Quai de la Fosse, 44000 Nantes, France",
+    "tags_new.note:city": "Nantes",
+    "tags_new.note:name": "Pizza Hut"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5457678,
+     47.2141824
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2406178636,
+    "osm_type": "node",
+    "ref_coords": [
+     -1.5456009,
+     47.21405
+    ],
+    "ref_distance": 19.4,
+    "ref_id": "4",
+    "tags.brand": "Carrefour City",
+    "tags.brand:wikidata": "Q2940187",
+    "tags.brand:wikipedia": "fr:Carrefour City",
+    "tags.name": "Carrefour City",
+    "tags.opening_hours": "Mo-Sa 07:00-22:00; Su 09:00-22:00",
+    "tags.operator": "Carrefour",
+    "tags.shop": "supermarket",
+    "tags_new.note:address": "6-8, 10 Avenue Carnot, 44000 Nantes, France",
+    "tags_new.note:city": "Nantes",
+    "tags_new.note:name": "Carrefour City"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5358484,
+     47.2156851
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5990552064,
+    "osm_type": "node",
+    "ref_coords": [
+     -1.5354701,
+     47.21594
+    ],
+    "ref_distance": 40.3,
+    "ref_id": "2",
+    "tags.brand": "Carrefour City",
+    "tags.brand:wikidata": "Q2940187",
+    "tags.brand:wikipedia": "fr:Carrefour City",
+    "tags.name": "Carrefour City",
+    "tags.opening_hours": "Mo-Sa 07:00-22:00; Su 09:00-13:00",
+    "tags.operator": "Carrefour City",
+    "tags.shop": "supermarket",
+    "tags_new.note:address": "16 Bis Mail Pablo Picasso, 44000 Nantes, France",
+    "tags_new.note:city": "Nantes",
+    "tags_new.note:name": "Carrefour City"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5512857,
+     47.21626
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -8,
+    "osm_type": "node",
+    "ref_id": "1",
+    "tags.note:address": "16 Rue de Strasbourg, 44000 Nantes, France",
+    "tags.note:city": "Nantes",
+    "tags.note:name": "Basilic & Co Nantes (Strasbourg)"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.55529,
+     47.21558
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -9,
+    "osm_type": "node",
+    "ref_id": "10",
+    "tags.note:address": "5/7 Rue des Halles, 44000 Nantes, France",
+    "tags.note:city": "Nantes",
+    "tags.note:name": "Big Fernand"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5191145,
+     47.189674
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -10,
+    "osm_type": "node",
+    "ref_id": "12",
+    "tags.note:address": "110 Route de Clisson, 44200 Nantes, France",
+    "tags.note:city": "Nantes",
+    "tags.note:name": "Basilic & Co Nantes (Clisson)"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5604945,
+     47.2126
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -11,
+    "osm_type": "node",
+    "ref_id": "15",
+    "tags.note:address": "8 Rue Jean Jacques Rousseau, 44000 Nantes, France",
+    "tags.note:city": "Nantes",
+    "tags.note:name": "Big Fernand"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5453084,
+     47.211266
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -12,
+    "osm_type": "node",
+    "ref_id": "5",
+    "tags.note:address": "18-20 Rue de Mayence, 44000 Nantes, France",
+    "tags.note:city": "Nantes",
+    "tags.note:name": "Biocoop Nantes Cité des congrès"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5595247,
+     47.21671
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -13,
+    "osm_type": "node",
+    "ref_id": "6",
+    "tags.note:address": "14 Rue de Budapest, 44000 Nantes, France",
+    "tags.note:city": "Nantes",
+    "tags.note:name": "BIOCOOP NANTES PLACE BRETAGNE"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5637835,
+     47.230976
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -14,
+    "osm_type": "node",
+    "ref_id": "8",
+    "tags.note:address": "182 Rue Paul Bellamy, 44000 Nantes, France",
+    "tags.note:city": "Nantes",
+    "tags.note:name": "SPEED BURGER NANTES"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -1.5365577,
+     47.205257
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -15,
+    "osm_type": "node",
+    "ref_id": "9",
+    "tags.note:address": "Boulevard Général de Gaulle, 44272 Nantes, France",
+    "tags.note:city": "Nantes",
+    "tags.note:name": "Pizza Hut Express"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

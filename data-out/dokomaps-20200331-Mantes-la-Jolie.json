@@ -1,0 +1,823 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     1.7184599,
+     48.9900352
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5729748699,
+    "osm_type": "node",
+    "ref_coords": [
+     1.718469,
+     48.990025
+    ],
+    "ref_distance": 1.3,
+    "ref_id": "14",
+    "tags.addr:city": "Mantes-la-Jolie",
+    "tags.addr:housenumber": "7",
+    "tags.addr:postcode": "78200",
+    "tags.addr:street": "Rue Marie et Robert Dubois",
+    "tags.name": "Le Brazza",
+    "tags.opening_hours": "Mo 15:00-21:00, Tu-Fr 08:30-21:00, Sa 08:30-22:00",
+    "tags.shop": "tobacco",
+    "tags_new.note:address": "7 Bis Rue Marie et Robert Dubois, 78200 Mantes-la-Jolie, France",
+    "tags_new.note:city": "Mantes-la-Jolie",
+    "tags_new.note:comment": "Tabac :\nOuvert le mardi de 10h00 à 16h",
+    "tags_new.note:name": "Le Brazza"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7170371,
+     48.9903558
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5729680307,
+    "osm_type": "node",
+    "ref_coords": [
+     1.7170213,
+     48.990364
+    ],
+    "ref_distance": 1.5,
+    "ref_id": "22",
+    "tags.addr:city": "Mantes-la-Jolie",
+    "tags.addr:housenumber": "42",
+    "tags.addr:postcode": "78200",
+    "tags.addr:street": "Rue Nationale",
+    "tags.name": "Les Douceurs de Mantes",
+    "tags.opening_hours": "Tu-Sa 06:30-20:00, Su 07:30-13:30",
+    "tags.shop": "bakery",
+    "tags_new.note:address": "42 Rue nationale, 78200 Mantes-la-Jolie, France",
+    "tags_new.note:city": "Mantes-la-Jolie",
+    "tags_new.note:name": "Les Douceurs de Mantes"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7157774,
+     48.9909746
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6025772035,
+    "osm_type": "node",
+    "ref_coords": [
+     1.7157516,
+     48.99096
+    ],
+    "ref_distance": 2.5,
+    "ref_id": "3",
+    "tags.addr:housenumber": "2",
+    "tags.addr:postcode": "78200",
+    "tags.addr:street": "Rue d'Alsace",
+    "tags.brand": "Biocoop",
+    "tags.brand:wikidata": "Q2904039",
+    "tags.brand:wikipedia": "fr:Biocoop",
+    "tags.bulk_purchase": "yes",
+    "tags.name": "Biocoop",
+    "tags.organic": "only",
+    "tags.shop": "supermarket",
+    "tags.website": "https://mantes.biocoop.net/",
+    "tags_new.note:address": "2 Rue d'Alsace, 78200 Mantes-la-Jolie, France",
+    "tags_new.note:city": "Mantes-la-Jolie",
+    "tags_new.note:name": "Biocoop du Mantois"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7160119,
+     48.9892555
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1418118602,
+    "osm_type": "node",
+    "ref_coords": [
+     1.7159702,
+     48.989254
+    ],
+    "ref_distance": 3.1,
+    "ref_id": "30",
+    "tags.brand": "Monoprix",
+    "tags.brand:wikidata": "Q3321241",
+    "tags.brand:wikipedia": "fr:Monoprix (France)",
+    "tags.name": "Monoprix",
+    "tags.operator": "Groupe Casino",
+    "tags.shop": "supermarket",
+    "tags_new.note:address": "27 Rue Gambetta, 78200 Mantes-la-Jolie, France",
+    "tags_new.note:city": "Mantes-la-Jolie",
+    "tags_new.note:name": "MONOPRIX"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.6860003,
+     48.9998869
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6833266499,
+    "osm_type": "node",
+    "ref_coords": [
+     1.685955,
+     48.999866
+    ],
+    "ref_distance": 4.0,
+    "ref_id": "25",
+    "tags.name": "Val Prim",
+    "tags.shop": "supermarket",
+    "tags_new.note:address": "Boulevard Georges Clemenceau, 78200 Mantes-la-Jolie, France",
+    "tags_new.note:city": "Mantes-la-Jolie",
+    "tags_new.note:name": "Val'Prim"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7111019,
+     48.9879378
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1234516686,
+    "osm_type": "node",
+    "ref_coords": [
+     1.7110794,
+     48.987885
+    ],
+    "ref_distance": 6.1,
+    "ref_id": "10",
+    "tags.brand": "Carrefour Market",
+    "tags.brand:wikidata": "Q2689639",
+    "tags.brand:wikipedia": "fr:Carrefour Market",
+    "tags.name": "Carrefour Market",
+    "tags.operator": "Carrefour",
+    "tags.shop": "supermarket",
+    "tags_new.note:address": "5 Rue du Lavoir, 78200 Mantes-la-Jolie, France",
+    "tags_new.note:city": "Mantes-la-Jolie",
+    "tags_new.note:name": "Carrefour Market"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7152452,
+     48.9898084
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6343351525,
+    "osm_type": "node",
+    "ref_coords": [
+     1.715105,
+     48.989853
+    ],
+    "ref_distance": 11.4,
+    "ref_id": "19",
+    "tags.addr:housenumber": "32",
+    "tags.addr:street": "Rue Chanzy",
+    "tags.bulk_purchase": "only",
+    "tags.name": "Day by Day",
+    "tags.opening_hours": "Tu-Fr 10:00-13:30,15:00-19:30; Sa 09:30-13:30,15:00-19:30",
+    "tags.opening_hours:covid19": "Tu-Sa 09:30-13:30,15:00-18:00",
+    "tags.organic": "yes",
+    "tags.phone": "+33134977987",
+    "tags.shop": "convenience",
+    "tags.website": "http://daybyday-shop.com/magasin/mantes-la-jolie",
+    "tags_new.note:address": "32 Rue Chanzy, 78200 Mantes-la-Jolie, France",
+    "tags_new.note:city": "Mantes-la-Jolie",
+    "tags_new.note:name": "day by day - Mon épicerie en vrac"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.717185,
+     48.9852224
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5202581416,
+    "osm_type": "node",
+    "ref_coords": [
+     1.7171315,
+     48.98532
+    ],
+    "ref_distance": 11.5,
+    "ref_id": "6",
+    "tags.addr:city": "Mantes-la-Jolie",
+    "tags.addr:housenumber": "13",
+    "tags.addr:postcode": "78200",
+    "tags.addr:street": "Boulevard Victor Duhamel",
+    "tags.brand": "Mr.Bricolage",
+    "tags.brand:wikidata": "Q3141657",
+    "tags.brand:wikipedia": "fr:Mr Bricolage",
+    "tags.description:covid19": "Vous attendez à l'entrée du magasin et le commerçant va chercher ce dont vous avez besoin.",
+    "tags.name": "Mr.Bricolage",
+    "tags.opening_hours:covid19": "Mo-Sa 09:00-12:30,14:00-18:00",
+    "tags.shop": "doityourself",
+    "tags_new.note:address": "13 Boulevard Victor Duhamel, 78200 Mantes-la-Jolie, France",
+    "tags_new.note:city": "Mantes-la-Jolie",
+    "tags_new.note:comment": "9h- 12.40 / 14h-18.00 et fermé le dimanche",
+    "tags_new.note:name": "Mr Bricolage"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7108809,
+     48.99761
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 161348049,
+    "osm_type": "way",
+    "ref_coords": [
+     1.7109354,
+     48.99797
+    ],
+    "ref_distance": 40.3,
+    "ref_id": "29",
+    "tags.addr:city": "Mantes-la-Jolie",
+    "tags.addr:country": "FR",
+    "tags.addr:full": "Zac Henri IV - Centre Commercial - Les Bords de Seine - 16 Rue Jean Hoët - 78200 Mantes-la-Jolie",
+    "tags.addr:housenumber": "16",
+    "tags.addr:postcode": "78200",
+    "tags.addr:street": "Rue Jean Hoët",
+    "tags.brand": "Intermarché",
+    "tags.brand:wikidata": "Q3153200",
+    "tags.brand:wikipedia": "fr:Intermarché",
+    "tags.building": "retail",
+    "tags.contact:phone": "+33 1 30 33 06 84",
+    "tags.name": "Intermarché",
+    "tags.operator": "Groupement des Mousquetaires",
+    "tags.shop": "supermarket",
+    "tags.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "tags_new.note:address": "16 Rue Jean Hoët, 78200 Mantes-la-Jolie, France",
+    "tags_new.note:city": "Mantes-la-Jolie",
+    "tags_new.note:name": "Intermarché SUPER Mantes la Jolie et Drive"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7171386,
+     48.990616
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -10,
+    "osm_type": "node",
+    "ref_id": "1",
+    "tags.note:address": "3 Rue des Halles, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "Les Chocolats d’Isa est ouvert à minima les mardis mercredis et jeudis matin \nLes vendredis et samedis de 9h30 à 13h et de 14h30 à 17h \nVous pouvez passer vos commandes au 0130639907",
+    "tags.note:name": "Les Chocolats d'Isa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7125536,
+     48.989944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -11,
+    "osm_type": "node",
+    "ref_id": "11",
+    "tags.note:address": "26 Avenue de la République, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "Tabac :\nOuvert le vendredi de 10h00 à 16h",
+    "tags.note:name": "La Divette"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7179945,
+     48.988037
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -12,
+    "osm_type": "node",
+    "ref_id": "12",
+    "tags.note:address": "31 Rue Porte aux Saints, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "Tabac :\nOuvert le jeudi de 10h00 à 16h",
+    "tags.note:name": "Bar Tabac Le Havane"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7074648,
+     48.993324
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -13,
+    "osm_type": "node",
+    "ref_id": "13",
+    "tags.note:address": "59 Rue de Gassicourt, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "Tabac :\nOuvert le mercredi de 10h00 à 16h",
+    "tags.note:name": "Le Celtique"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7168291,
+     48.99002
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -14,
+    "osm_type": "node",
+    "ref_id": "15",
+    "tags.note:address": "43 Rue nationale, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "Tabac - Le Balto :\nOuvert le lundi de 10h00 à 16h",
+    "tags.note:name": "43 Rue nationale"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.716515,
+     48.99098
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -15,
+    "osm_type": "node",
+    "ref_id": "16",
+    "tags.note:address": "16 Place du Marché au Blé, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "Ouvert du mardi au vendredi de 9h à  12h30 puis de 15h à 18h et le samedi de 9h à 18h",
+    "tags.note:name": "Boucherie Chanzy"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7517899,
+     48.995827
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -16,
+    "osm_type": "node",
+    "ref_id": "17",
+    "tags.note:address": "4 Rue des Carrières, 78520 Limay, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "Les Halles de limay, magasins de fruits et légumes et produits frais",
+    "tags.note:name": "4 Rue des Carrières"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7155921,
+     48.990067
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -17,
+    "osm_type": "node",
+    "ref_id": "18",
+    "tags.note:address": "21 Rue Chanzy, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "Cave à vins - Epicerie fine -thé",
+    "tags.note:name": "L' EPICURIEN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.6716331,
+     48.9922
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -18,
+    "osm_type": "node",
+    "ref_id": "2",
+    "tags.note:address": "4 Rue de l'Ardèche, 78200 Buchelay, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "Comme à la Ferme reste ouvert pendant cette période de confinement et vous propose désormais de passer commande par téléphone 01 30 63 35 45 aux heures d’ouverture du magasin et 48 heures avant le retrait de la marchandise. Heures d'ouverture : Mardi Mercredi Jeudi : 9h30 - 12h30, 14h - 19h30 / Vendredi Samedi : 9h30 - 19h30",
+    "tags.note:name": "Comme à la Ferme"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7117208,
+     48.989914
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -19,
+    "osm_type": "node",
+    "ref_id": "20",
+    "tags.note:address": "27 Avenue de la République, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "JWELL (boutique de cigarettes électroniques)\nOuvert du lundi au samedi de 10h à 19h30\nLivraison : oui\nTéléphone : 07 78 11 60 13",
+    "tags.note:name": "27 Avenue de la République"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7110097,
+     48.979935
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -20,
+    "osm_type": "node",
+    "ref_id": "21",
+    "tags.note:address": "7 Rue de l'Île de France, 78711 Mantes-la-Ville, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "7 Rue de l'Île de France, 78711 Mantes-la-Ville",
+    "tags.note:name": "Tabac du Marché"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7167131,
+     48.990063
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -21,
+    "osm_type": "node",
+    "ref_id": "23",
+    "tags.note:address": "45 Rue nationale, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:name": "At Bread Chailli"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7179575,
+     48.987835
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -22,
+    "osm_type": "node",
+    "ref_id": "24",
+    "tags.note:address": "37 Rue Porte aux Saints, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:name": "Franprix"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7170314,
+     48.99064
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -23,
+    "osm_type": "node",
+    "ref_id": "26",
+    "tags.note:address": "6 Rue des Halles, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:name": "Relais des Mers"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7170496,
+     48.990456
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -24,
+    "osm_type": "node",
+    "ref_id": "27",
+    "tags.note:address": "14 Rue des Halles, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:name": "Fromagerie Crémerie Guilbaud"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7171504,
+     48.99063
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -25,
+    "osm_type": "node",
+    "ref_id": "28",
+    "tags.note:address": "5 Rue des Halles, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:name": "Boucherie des Halles"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7166162,
+     48.990276
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -26,
+    "osm_type": "node",
+    "ref_id": "31",
+    "tags.note:address": "50 Rue nationale, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:name": "A La Terrine"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.6842422,
+     48.980198
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -27,
+    "osm_type": "node",
+    "ref_id": "32",
+    "tags.note:address": "Chemin Départemental 110, 78200 Buchelay, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:name": "Auchan MANTES"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7154583,
+     48.990074
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -28,
+    "osm_type": "node",
+    "ref_id": "33",
+    "tags.note:address": "22 Rue Chanzy, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:name": "Aux Fins Délices"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7167227,
+     48.98984
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -29,
+    "osm_type": "node",
+    "ref_id": "34",
+    "tags.note:address": "3 rue de Colmar, 4 Rue Cadotte, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:name": "Le Lys d'Or - Burger & Bar à Cocktails"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.6856605,
+     48.99899
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -30,
+    "osm_type": "node",
+    "ref_id": "4",
+    "tags.note:address": "6 Rue la Fontaine, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "ouvert du lundi au vendredi de 9h à 12h et de 14h à 17h, fermé le samedi à minima jusqu’au 11 avril.",
+    "tags.note:name": "6 Rue la Fontaine"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7154433,
+     48.990665
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -31,
+    "osm_type": "node",
+    "ref_id": "5",
+    "tags.note:address": "22 Rue du Vieux Pilori, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "ouvert que le mardi de 10h à 16h",
+    "tags.note:name": "Le Jardin des Hespérides"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7173798,
+     48.98528
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -32,
+    "osm_type": "node",
+    "ref_id": "7",
+    "tags.note:address": "13 Boulevard Victor Duhamel, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "13 Boulevard Victor Duhamel / ouverte du lundi au vendredi de 7h à 19h et le dimanche de 7h à 14h",
+    "tags.note:name": "Maison Guitton"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.7142274,
+     48.99233
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -33,
+    "osm_type": "node",
+    "ref_id": "8",
+    "tags.note:address": "10 Rue Saint-Roch, 78200 Mantes-la-Jolie, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "En cette période de crise, mon objectif est de rendre accessible l’hypnose à toutes les personnes ayant besoin de soutien. Convaincu des bienfaits de l’hypnose, je vous offre ce tarif solidarité COVID-19.\n• Anxiété\n• Stress\n• Relaxation\n• Motivation & Encouragement\n• Renforcement du système immunitaire\n• Fatigue & Épuisement\n• Tristesse & Mélancolie",
+    "tags.note:name": "Hypnosis Mantes"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1.6996632,
+     48.97885
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -34,
+    "osm_type": "node",
+    "ref_id": "9",
+    "tags.note:address": "20 Rue des Merisiers, 78200 Magnanville, France",
+    "tags.note:city": "Mantes-la-Jolie",
+    "tags.note:comment": "BEAU MARCHE - 20 rue des Merisiers à Magnanville (Ex Sodeviam) : Viandes / Fromage / Fruits / Légumes / Épicerie : horaires pour toute la durée du confinement : du mardi au samedi ouverture de 09 heures à 13 heures & Livraison à domicile tout les après-midi sur les environs\nCommande à passer le matin par tél au 01 30 98 63 00",
+    "tags.note:name": "20 Rue des Merisiers"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

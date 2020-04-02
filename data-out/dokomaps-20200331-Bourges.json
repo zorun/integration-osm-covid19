@@ -1,0 +1,267 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     2.3914391,
+     47.0803699
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7348677152,
+    "osm_type": "node",
+    "ref_coords": [
+     2.3914618,
+     47.08034
+    ],
+    "ref_distance": 3.7,
+    "ref_id": "2",
+    "tags.addr:housenumber": "91",
+    "tags.amenity": "bar",
+    "tags.name": "Le Field",
+    "tags.opening_hours:covid19": "Mo-Fr 08:00-18:00; Sa 08:00-16:00",
+    "tags.shop": "newsagent",
+    "tags.tobacco": "yes",
+    "tags_new.note:address": "91 Rue d'Auron, 18000 Bourges, France",
+    "tags_new.note:city": "Bourges",
+    "tags_new.note:comment": "Bureau de tabac - ouvert de 8hà 18h du lundi au vendredi\nle samedi de 8hà 16h",
+    "tags_new.note:name": "Le Field"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2.3874815,
+     47.082285
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 64600810,
+    "osm_type": "way",
+    "ref_coords": [
+     2.3874376,
+     47.08236
+    ],
+    "ref_distance": 9.0,
+    "ref_id": "7",
+    "tags.brand": "E. Leclerc",
+    "tags.brand:wikidata": "Q1273376",
+    "tags.brand:wikipedia": "fr:E.Leclerc",
+    "tags.building": "retail",
+    "tags.name": "E. Leclerc",
+    "tags.shop": "supermarket",
+    "tags.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tags_new.note:address": "Le Nouveau, Le Prado, 18000 Bourges, France",
+    "tags_new.note:city": "Bourges",
+    "tags_new.note:name": "E.Leclerc Bourges"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2.3961002,
+     47.0873738
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3580385265,
+    "osm_type": "node",
+    "ref_coords": [
+     2.3960896,
+     47.087494
+    ],
+    "ref_distance": 13.4,
+    "ref_id": "8",
+    "tags.brand": "Monoprix",
+    "tags.brand:wikidata": "Q3321241",
+    "tags.brand:wikipedia": "en:Monoprix",
+    "tags.name": "Monoprix",
+    "tags.shop": "supermarket",
+    "tags_new.note:address": "8 Avenue de Peterborough, 18000 Bourges, France",
+    "tags_new.note:city": "Bourges",
+    "tags_new.note:name": "Monoprix"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2.3842162,
+     47.0766796
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 64597926,
+    "osm_type": "way",
+    "ref_coords": [
+     2.3841076,
+     47.076553
+    ],
+    "ref_distance": 16.3,
+    "ref_id": "9",
+    "tags.addr:city": "Bourges",
+    "tags.addr:housenumber": "121",
+    "tags.addr:postcode": "18000",
+    "tags.addr:street": "Boulevard de l'Avenir",
+    "tags.brand": "Biocoop",
+    "tags.brand:wikidata": "Q2904039",
+    "tags.brand:wikipedia": "fr:Biocoop",
+    "tags.building": "yes",
+    "tags.bulk_purchase": "yes",
+    "tags.name": "Au Bourgeon vert",
+    "tags.opening_hours": "Mo-Sa 09:30-19:30; PH closed",
+    "tags.organic": "only",
+    "tags.phone": "+33 2 48 21 19 01",
+    "tags.shop": "supermarket",
+    "tags.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tags.website": "https://www.biocoopaubourgeonvert.fr/",
+    "tags_new.note:address": "121 Boulevard de l'Avenir, 18000 Bourges, France",
+    "tags_new.note:city": "Bourges",
+    "tags_new.note:comment": "horaires :  tous les jours, 9h30 - 18h30",
+    "tags_new.note:name": "Biocoop Au Bourgeon Vert"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2.407024,
+     47.100346
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -5,
+    "osm_type": "node",
+    "ref_id": "1",
+    "tags.note:address": "105 Av. du Général Charles de Gaulle, 18000 Bourges, France",
+    "tags.note:city": "Bourges",
+    "tags.note:comment": "Épicerie Asiatique et Exotique \nHoraires temporaires \nLundi au jeudi : 14h à 17h\nVendredi et samedi : 10h à 12h et 14h à 17h\nDimanche : fermé \nMail : lotusdasie@live.fr\nTél : 06 50 56 80 11",
+    "tags.note:name": "Lotus d'Asie"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2.398782,
+     47.081013
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -6,
+    "osm_type": "node",
+    "ref_id": "10",
+    "tags.note:address": "18000 Bourges, France",
+    "tags.note:city": "Bourges",
+    "tags.note:comment": "Coronavirus // Les établissements ouverts à Bourges.\nPour vous soutenir et vous accompagner pendant la période de confinement, je vous propose une carte des établissements ouverts (commerces alimentaires, pharmacies, stations-service…).\nL'outil est collaboratif : je compte sur vous pour ajouter vos infos afin d’avoir une carte la plus complète possible.\nSi un lieux ouvert n’apparaît pas sur cette carte, cliquer sur le bouton \"Proposer un endroit à ajouter\", en précisant : \n• le nom de votre commerce\n• les horaires d’ouverture (ou de livraison)\n• le téléphone de votre enseigne\nEt surtout, n'oubliez pas #SAUVEZDESVIES #RESTEZCHEZVOUS",
+    "tags.note:name": "Bourges"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2.3897681,
+     47.07905
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -7,
+    "osm_type": "node",
+    "ref_id": "3",
+    "tags.note:address": "1 Rue Jean-Jacques Rousseau, 18000 Bourges, France",
+    "tags.note:city": "Bourges",
+    "tags.note:comment": "Tabac \nouvert de 8h00/13h00 et 16h00/20h00\nProposition de plateaux à emporter : \n entrée, plats, dessert . ( couverts, pain ) \nNos plats seront chaud \nPrix : 13€50/ par pers \nLivraison  gratuite possible quartier : auron , Barbès,Rousseau , \nCommande à partir de 10h00 livraison pour le déjeuner \n                     à partir de 17h00 livraison pour le dîner \nDes menus seront élaborés au jour le jour.\nContact : \n\nDavid \n06.98.83.09.06\nE-mail : davidbonnet72@hotmail.com\nMise en place dès lundi 30 mars 2020",
+    "tags.note:name": "Le bistro le bergerac"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2.4011858,
+     47.089676
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -8,
+    "osm_type": "node",
+    "ref_id": "4",
+    "tags.note:address": "132 Rue Edouard Vaillant, 18000 Bourges, France",
+    "tags.note:city": "Bourges",
+    "tags.note:comment": "Ouverture du mardi au samedi 8h à 12h30 .possibilité de livré",
+    "tags.note:name": "Boucherie Chevaline"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2.3934162,
+     47.085617
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -9,
+    "osm_type": "node",
+    "ref_id": "5",
+    "tags.note:address": "23 Rue du Commerce, 18000 Bourges, France",
+    "tags.note:city": "Bourges",
+    "tags.note:comment": "horaires à confirmer",
+    "tags.note:name": "PHARMACY CHER"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2.3954074,
+     47.08441
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -10,
+    "osm_type": "node",
+    "ref_id": "6",
+    "tags.note:address": "11 Rue Moyenne, 18000 Bourges, France",
+    "tags.note:city": "Bourges",
+    "tags.note:comment": "ouvert de 7h30 à 14h",
+    "tags.note:name": "La Mie Câline"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

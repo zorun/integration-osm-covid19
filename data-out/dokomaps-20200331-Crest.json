@@ -1,0 +1,943 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     5.0172793,
+     44.7294888
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5343911373,
+    "osm_type": "node",
+    "ref_coords": [
+     5.01728,
+     44.729507
+    ],
+    "ref_distance": 2.0,
+    "ref_id": "27",
+    "tags.name": "L'Epicerie Nouvelle",
+    "tags.opening_hours": "Mo-Sa 07:30-12:30; Mo-Sa 14:30-19:00",
+    "tags.organic": "only",
+    "tags.phone": "+33 4 75 83 19 43",
+    "tags.shop": "supermarket",
+    "tags.website": "http://epicerienouvelle.com/",
+    "tags_new.note:address": "Rue Edouard Branly, 26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Horaires\nLundi au Samedi : de 7h30 à 12h30 et de 14h30 à 19h\n\nTél. 04 75 83 19 43",
+    "tags_new.note:name": "Epicerie nouvelle"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0175516,
+     44.7295061
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5649666669,
+    "osm_type": "node",
+    "ref_coords": [
+     5.0175433,
+     44.729534
+    ],
+    "ref_distance": 3.2,
+    "ref_id": "22",
+    "tags.name": "Au Petit Primeur",
+    "tags.shop": "greengrocer",
+    "tags_new.note:address": "Rue Edouard Branly, 26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Horaires:\nLundi au Samedi de 7h à 18h\n\nTel : 04 75 76 72 85",
+    "tags_new.note:name": "Au _ Petit Primeur"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0192834,
+     44.7306245
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4646785652,
+    "osm_type": "node",
+    "ref_coords": [
+     5.019262,
+     44.730656
+    ],
+    "ref_distance": 3.9,
+    "ref_id": "36",
+    "tags.amenity": "pharmacy",
+    "tags.dispensing": "yes",
+    "tags.name": "Pharmacie du Bourg",
+    "tags.opening_hours": "Mo-Fr 09:00-12:30, 14:30-19:00; Sa 09:00-12:30",
+    "tags.phone": "+33 475250204",
+    "tags.ref:fr:finess": "260004866",
+    "tags.source": "Celtipharm - 10/2014",
+    "tags.website": "http://www.pharmacie-crest.fr",
+    "tags_new.note:address": "7 Rue Sainte-Euphémie, 26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Horaires :\nLundi au Vendredi de 9h à 12h15 et de 14h30 à 19h\nSamedi de 9h à 12h\n\nTél. 04 75 25 02 04",
+    "tags_new.note:name": "Pharmacie du Bourg"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0174827,
+     44.7294813
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5649666670,
+    "osm_type": "node",
+    "ref_coords": [
+     5.017555,
+     44.72949
+    ],
+    "ref_distance": 5.8,
+    "ref_id": "28",
+    "tags.name": "La Boucherie du Petit Primeur",
+    "tags.shop": "butcher",
+    "tags_new.note:address": "25 Rue Edouard Branly, 26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Boucherie du Petit Primeur\n\nHoraires\nMardi au Samedi de 7h à 12h30 et de 14h30 à 18h\n\nTèl. 04 75 25 20 98",
+    "tags_new.note:name": "Boucherie _ J.l.m"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0159935,
+     44.7302386
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2411198549,
+    "osm_type": "node",
+    "ref_coords": [
+     5.0160847,
+     44.730186
+    ],
+    "ref_distance": 9.3,
+    "ref_id": "15",
+    "tags.name": "Honorin",
+    "tags.shop": "bakery",
+    "tags_new.note:address": "26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Horaires :\nLundi au Vendredi de 7h à 14h \nSamedi de 7h à 13h",
+    "tags_new.note:name": "Honorin, pains, sandwichs & compagnie"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0217468,
+     44.7281007
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4646812706,
+    "osm_type": "node",
+    "ref_coords": [
+     5.021761,
+     44.728188
+    ],
+    "ref_distance": 9.8,
+    "ref_id": "39",
+    "tags.amenity": "pharmacy",
+    "tags.dispensing": "yes",
+    "tags.name": "Pharmacie du Pont",
+    "tags.opening_hours": "Mo-Sa 08:30-12:15,14:30-19:00",
+    "tags.ref:fr:finess": "260004767",
+    "tags.source": "Celtipharm - 10/2014",
+    "tags.website": "https://www.pharmaciedupont-crest.fr/",
+    "tags_new.note:address": "12 Rue Maurice Long, 26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Horaires exceptionnels (confinement)\ndu lundi au Vendredi : de 9h à 12h et de 14h à 19h\nle samedi : de 9h à 12h et de 14h30 à 18h30\n\nTel : 04 75 40 66 58\n\nNe pas tenir compte des horaires ci-dessous.",
+    "tags_new.note:name": "Pharmacie du Pont"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.006725,
+     44.7353326
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 72549651,
+    "osm_type": "way",
+    "ref_coords": [
+     5.0068626,
+     44.7353
+    ],
+    "ref_distance": 11.5,
+    "ref_id": "4",
+    "tags.building": "yes",
+    "tags.name": "Véziant",
+    "tags.shop": "stationery",
+    "tags.source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+    "tags_new.note:address": "Rue Jean Jaurès, 26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Horaires :\n\ndu lundi au vendredi : 9h-12h          \n\nTél : 04 75 25 10 52",
+    "tags_new.note:name": "Imprimerie Papeterie Veziant"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0114841,
+     44.7338474
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4646823396,
+    "osm_type": "node",
+    "ref_coords": [
+     5.011376,
+     44.733772
+    ],
+    "ref_distance": 12.0,
+    "ref_id": "40",
+    "tags.amenity": "pharmacy",
+    "tags.dispensing": "yes",
+    "tags.name": "Pharmacie Centrale",
+    "tags.ref:fr:finess": "260004601",
+    "tags.source": "Celtipharm - 10/2014",
+    "tags_new.note:address": "7 Rue Lieutenant Michel Prunet, 26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Horaires :\nLundi au Vendredi de 9h à 12h et de 14h30 à 19h\nSamedi de 9h à 12h et de 14h30 à 18h30\n\nTèl. 04 75 40 62 20",
+    "tags_new.note:name": "Pharmacie Centrale"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0116347,
+     44.7330877
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4326897148,
+    "osm_type": "node",
+    "ref_coords": [
+     5.0114126,
+     44.733067
+    ],
+    "ref_distance": 17.7,
+    "ref_id": "18",
+    "tags.brand": "Aldi",
+    "tags.brand:wikidata": "Q125054",
+    "tags.name": "Aldi",
+    "tags.opening_hours": "Mo-Sa 08:30-20:00",
+    "tags.shop": "supermarket",
+    "tags_new.note:address": "Avenue Félix Rozier, 26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Horaires :\nLundi au Samedi : de 10h à 18h",
+    "tags_new.note:name": "ALDI"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0185267,
+     44.7285997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5449186292,
+    "osm_type": "node",
+    "ref_coords": [
+     5.0179386,
+     44.728764
+    ],
+    "ref_distance": 50.0,
+    "ref_id": "25",
+    "tags.addr:city": "Crest",
+    "tags.addr:housenumber": "51",
+    "tags.addr:postcode": "26400",
+    "tags.addr:street": "Rue Emile Loubet",
+    "tags.name": "La Cave du Bourg",
+    "tags.shop": "wine",
+    "tags.website": "http://www.cave-du-bourg.fr/",
+    "tags_new.note:address": "51 Rue Emile Loubet, 26400 Crest, France",
+    "tags_new.note:city": "Crest",
+    "tags_new.note:comment": "Horaires:\n les mardis et vendredis de 9h à 12h30",
+    "tags_new.note:name": "Cave du Bourg"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0201354,
+     44.72665
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -11,
+    "osm_type": "node",
+    "ref_id": "1",
+    "tags.note:address": "6 Bis Rue Maurice Barral, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nLundi au samedi : 6h30-18h \net Dimanche de 6h30 à 12h    \n6 bis rue Maurice Barral        \nTél : 04 75 25 11 31",
+    "tags.note:name": "Tabac Presse du Champs de Mars"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0065475,
+     44.73076
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -12,
+    "osm_type": "node",
+    "ref_id": "10",
+    "tags.note:address": "2 Rue Jean Jaurès, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Joignable par mail : accueil@morinsa.fr",
+    "tags.note:name": "Morin Matériaux et Brico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0224223,
+     44.72825
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -13,
+    "osm_type": "node",
+    "ref_id": "11",
+    "tags.note:address": "15 Rue de L Hôtel de ville, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "A compter du 23 mars ouvert de 8h30 à 14h30",
+    "tags.note:name": "La Civette"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0214357,
+     44.727726
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -14,
+    "osm_type": "node",
+    "ref_id": "12",
+    "tags.note:address": "18 Rue Maurice Long, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nLundi au Dimanche de 7h à 13h\n\nTèl. 04 75 25 09 01",
+    "tags.note:name": "Maison de la Presse - Tabac du Pont"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0168896,
+     44.731045
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -15,
+    "osm_type": "node",
+    "ref_id": "13",
+    "tags.note:address": "17-4 Rue Du 8 Mai 1945, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nLundi au Samedi de 6h30 à 18h\nDimanche de 6h30 à 12h\n\nTèl. 04 75 83 28 69",
+    "tags.note:name": "Tabac Press Du Square.Crest"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.01983,
+     44.72796
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -16,
+    "osm_type": "node",
+    "ref_id": "14",
+    "tags.note:address": "6 Quai Henri Latune, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Ouvert de 18h30 à 20h30 Nous vous proposons à emporter : pizzas- burgers - gratins de ravioles-frites - desserts--boissons--vin- bières artisanales",
+    "tags.note:name": "Juste Tomate"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.02896,
+     44.72895
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -17,
+    "osm_type": "node",
+    "ref_id": "16",
+    "tags.note:address": "Rue Georges Bovet, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nLundi au Samedi : de 8h à 19h\nDimanche : de 8h30 à 12h\n\nTèl ; 04 75 25 11 40",
+    "tags.note:name": "Carrefour Market"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0045724,
+     44.738144
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -18,
+    "osm_type": "node",
+    "ref_id": "17",
+    "tags.note:address": "Rue Jean Jaurès, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nLundi, Mardi, Mercredi, Jeudi et Dimanche : de 8h  à 20h. \nVendredi et samedi : de 8h à 24h\nDrive possible\n\nTèl. 04 75 79 69 00",
+    "tags.note:name": "Casino Supermarche"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.9983974,
+     44.718014
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -19,
+    "osm_type": "node",
+    "ref_id": "19",
+    "tags.note:address": "route des blaches, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires habituels : Lundi 15h-19h Mardi 9h-12h30 et 15h-19h Mercredi 15h-19h Jeudi 15h-19h Vendredi 9h-12h30 et 15h-19h Samedi 15h-19h Fermé les dimanches et les jours fériés",
+    "tags.note:name": "SCEA LA FERME DES BLACHES"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0103765,
+     44.732
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -20,
+    "osm_type": "node",
+    "ref_id": "2",
+    "tags.note:address": "33 Rue Gustave Eiffel, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires \n\ndu lundi au vendredi : de 9h à 18h sur RDV au 06 44 02 95 15   \n\nTel : 33 rue Gustave Eiffel",
+    "tags.note:name": "Aurél auto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.003735,
+     44.716576
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -21,
+    "osm_type": "node",
+    "ref_id": "20",
+    "tags.note:address": "Les-Blaches, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Martin Fruits et Légumes, 88 chemin des Blaches.\n\nHoraires:\nMardi et Vendredi de 10H à 12h et de 14h à 18h30",
+    "tags.note:name": "Martin Joseph"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.011628,
+     44.73337
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -22,
+    "osm_type": "node",
+    "ref_id": "21",
+    "tags.note:address": "Allée Félix Rozier, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nMardi au Samedi de 8h30 à 13h\n\nTèl. 04 75 25 41 31",
+    "tags.note:name": "Fromagerie Gérentes - Crest"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0216017,
+     44.72507
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -23,
+    "osm_type": "node",
+    "ref_id": "23",
+    "tags.note:address": "188 Avenue Jean Rabot, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nMardi et Vendredi de 8h30 à 12h30\nMercredi et Jeudi de 8h30 à 13h\n\nTèl. 04 27 68 92 21",
+    "tags.note:name": "La Charrette"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.011293,
+     44.733288
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -24,
+    "osm_type": "node",
+    "ref_id": "24",
+    "tags.note:address": "7 Rue Lieutenant Michel Prunet, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nMardi au Samedi de 7h30 à 12h30\n\nTél. 04 75 57 74 18",
+    "tags.note:name": "Boucherie de la Tour"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.018896,
+     44.728912
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -25,
+    "osm_type": "node",
+    "ref_id": "26",
+    "tags.note:address": "33 Rue Emile Loubet, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nMardi au Samedi de 9h à 13h",
+    "tags.note:name": "Poissonnerie du bourg"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0175266,
+     44.730354
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -26,
+    "osm_type": "node",
+    "ref_id": "29",
+    "tags.note:address": "Avenue Georges Clemenceau, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nLundi au Samedi de 8h30 à 12h et de 14h à 18h",
+    "tags.note:name": "Gamm vert"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.027137,
+     44.72904
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -27,
+    "osm_type": "node",
+    "ref_id": "3",
+    "tags.note:address": "Place des Moulins, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Les Pains de Beaufort    \n\ndu lundi au samedi : de 8h30 à 13h  et de 16h30 à 18h            \n\nTel : 04 26 52 72 70",
+    "tags.note:name": "Biodelys"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0207043,
+     44.729
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -28,
+    "osm_type": "node",
+    "ref_id": "30",
+    "tags.note:address": "46-48, Rue de L'Hotel de Ville, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nMardi au samedi : de 8h à 12h et de 15h à 18h\nDimanche  : de 8h à 12h",
+    "tags.note:name": "Petit Casino"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0186725,
+     44.728615
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -29,
+    "osm_type": "node",
+    "ref_id": "31",
+    "tags.note:address": "49 Rue Emile Loubet, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nMardi au Vendredi de 7h à 14h\n\nTél. 09 66 92 14 73",
+    "tags.note:name": "La Viennoiserie Bio Val de Drome"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0217094,
+     44.727737
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -30,
+    "osm_type": "node",
+    "ref_id": "32",
+    "tags.note:address": "11 Rue Maurice Long, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nMardi au Dimanche de 7h à 12h30\n\nAprès-midis réservées aux livraisons. Commande : patisserie.soubeyrand.cochet@gmail.com\n\nTèl.04 75 25 47 34",
+    "tags.note:name": "SOUBEYRAND COCHET"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0113583,
+     44.733303
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -31,
+    "osm_type": "node",
+    "ref_id": "33",
+    "tags.note:address": "Avenue Félix Rozier, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Rue de Lieutenant Prunet – Espace Béranger\nHoraires :\nLundi au Samedi de 6h30 à 19h\nDimanche de 7h à 13h",
+    "tags.note:name": "Boulangerie patisserie F Chastang"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.023528,
+     44.72846
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -32,
+    "osm_type": "node",
+    "ref_id": "34",
+    "tags.note:address": "9 Rue de la République, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Horaires :\nLundi au Samedi de 7h à 13h30\n\nTèl. 04 75 25 02 53",
+    "tags.note:name": "Boulangerie Fouraison"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.004738,
+     44.732098
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -33,
+    "osm_type": "node",
+    "ref_id": "35",
+    "tags.note:address": "3 Rue Jean Jaurès, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Matériel Médical du Val de dRÖME\n\nHoraires :\nLundi au Vendredi de 9h à 12h et de 14h à 17h\n\nTél. 04 75 43 02 34",
+    "tags.note:name": "Cap Vital Santé Crest / Matériel Médical du Val de Drôme"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0212526,
+     44.72498
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -34,
+    "osm_type": "node",
+    "ref_id": "37",
+    "tags.note:address": "Place de la Liberté, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Réouverture le jeudi 26 mars :\n\nHoraires : \n\nElle est ouverte tous les jours sauf le mercredi de 7h à 13h. Tèl. 04\n75 61 60 23",
+    "tags.note:name": "Angelique & Pascal"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.024166,
+     44.72842
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -35,
+    "osm_type": "node",
+    "ref_id": "38",
+    "tags.note:address": "Place Dr Maurice Rozier, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Accueil ouvert du lundi au vendredi de 8h à 18h et samedi de 9h à 12h\nTél : 04 75 76 61 10 - Fax : 04 75 25 00 63\nCourriel : admin@mairie-crest.fr",
+    "tags.note:name": "Mairie de Crest"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0266676,
+     44.724617
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -36,
+    "osm_type": "node",
+    "ref_id": "5",
+    "tags.note:address": "Quai Soubeyran, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Service provisoirement suspendu.\n\nL'AMAP de Crest, fournie par le GAEC Caetera à Vaunavey-la-Rochette propose une distribution de produits locaux et bio devant le boulodrome de Soubeyran les jeudis de 18h à 19h.",
+    "tags.note:name": "Quai Soubeyran"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.0095882,
+     44.73178
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -37,
+    "osm_type": "node",
+    "ref_id": "6",
+    "tags.note:address": "8 Rue Gustave Eiffel, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Garage CVIA - \nOuvert du lundi au vendredi de 9h à 12h et de 14h à 16h \n\nTél : 04 75 25 02 82",
+    "tags.note:name": "CVIA"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.023442,
+     44.72852
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -38,
+    "osm_type": "node",
+    "ref_id": "7",
+    "tags.note:address": "7 Rue de la République, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Ouvert uniquement les jours de marché : les mardis et samedis de 9h à 12h",
+    "tags.note:name": "La Théière Flottante"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     4.9972043,
+     44.732376
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -39,
+    "osm_type": "node",
+    "ref_id": "8",
+    "tags.note:address": "120 chemin de Malastre, ZI la Plaine, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Du lundi au  samedi : de 14h30 à 18h.\n\nPour avoir leur catalogue du Drive : bonjour@etincelle.bio\nTèl : 04 75 56 59 29",
+    "tags.note:name": "L'etincelle,La Plaine"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     5.011029,
+     44.718662
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -40,
+    "osm_type": "node",
+    "ref_id": "9",
+    "tags.note:address": "Route de Montélimar, Les-Blaches, 26400 Crest, France",
+    "tags.note:city": "Crest",
+    "tags.note:comment": "Ouverture restreinte : 8h-12h / 14h-18h du lundi au vendredi. Concession Agricole ouverte, sur appel téléphonique au 0475250363 • Faure Jardinage pour l’Espace Vert fermé au public mais informations par téléphone 0475250363.",
+    "tags.note:name": "SAS FAURE ET FILS et FAURE JARDINAGE Crest - Massey Ferguson - Husqvarna - Stihl - Honda - Kubota"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

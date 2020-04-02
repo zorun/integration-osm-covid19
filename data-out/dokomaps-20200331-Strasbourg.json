@@ -1,0 +1,239 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     7.7578392,
+     48.5843937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3049597230,
+    "osm_type": "node",
+    "ref_coords": [
+     7.757858,
+     48.584415
+    ],
+    "ref_distance": 2.7,
+    "ref_id": "7",
+    "tags.brand": "Carrefour City",
+    "tags.brand:wikidata": "Q2940187",
+    "tags.ele": "0",
+    "tags.name": "Carrefour City",
+    "tags.opening_hours": "Mo-Sa 07:00-21:00, Su 09:00-13:00",
+    "tags.operator": "Carrefour",
+    "tags.shop": "supermarket",
+    "tags.wheelchair": "yes",
+    "tags_new.note:address": "30 Avenue de la Marseillaise, 67000 Strasbourg, France",
+    "tags_new.note:city": "Strasbourg",
+    "tags_new.note:name": "Carrefour City Strasbourg Marseillaise Gallia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     7.7412714,
+     48.5834202
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2676662296,
+    "osm_type": "node",
+    "ref_coords": [
+     7.7412286,
+     48.583416
+    ],
+    "ref_distance": 3.2,
+    "ref_id": "1",
+    "tags.amenity": "restaurant",
+    "tags.cuisine": "brazilian",
+    "tags.name": "O Brazil",
+    "tags_new.note:address": "13 Rue du Jeu-des-Enfants, 67000 Strasbourg, France",
+    "tags_new.note:city": "Strasbourg",
+    "tags_new.note:comment": "Notre service à EMPORTER sera disponible à tout moment. Toute l’équipe du restaurant O BRAZIL vous souhaite de rester en bonne santé et nous tenons à adresser une grande pensée toute particulière au personnel soignant qui œuvre jours et nuits pour préserver notre santé.",
+    "tags_new.note:name": "Restaurant O Brazil"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     7.7499962,
+     48.5780232
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5782485269,
+    "osm_type": "node",
+    "ref_coords": [
+     7.749951,
+     48.578075
+    ],
+    "ref_distance": 6.7,
+    "ref_id": "4",
+    "tags.bulk_purchase": "yes",
+    "tags.contact:city": "Strasbourg",
+    "tags.contact:country": "FR",
+    "tags.contact:email": "contact@coquelicot.bio",
+    "tags.contact:housenumber": "6-8",
+    "tags.contact:phone": "+33 3 67 31 13 11",
+    "tags.contact:postcode": "67000",
+    "tags.contact:street": "Rue de la Première Armée",
+    "tags.contact:website": "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Grand-Est/Bas-Rhin/BIOCOOP-COQUELICOT",
+    "tags.name": "Biocoop Coquelicot",
+    "tags.opening_hours": "Mo-Sa 10:00-20:00; Su 09:00-13:00",
+    "tags.shop": "greengrocer",
+    "tags_new.note:address": "6 Rue de la 1ère Armée, 67000 Strasbourg, France",
+    "tags_new.note:city": "Strasbourg",
+    "tags_new.note:comment": "Biocoop est consciente de la situation et se mobilise pour continuer à vous fournir des produits bio de consommation courante, tout en vous assurant les conditions de sécurité optimales durant vos courses (mesures d’hygiène et organisation du flux clients).",
+    "tags_new.note:name": "Biocoop Coquelicot"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     7.7485826,
+     48.5901859
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1211016710,
+    "osm_type": "node",
+    "ref_coords": [
+     7.7486978,
+     48.590145
+    ],
+    "ref_distance": 9.6,
+    "ref_id": "8",
+    "tags.brand": "Carrefour City",
+    "tags.brand:wikidata": "Q2940187",
+    "tags.contact:city": "Strasbourg",
+    "tags.contact:housenumber": "63",
+    "tags.contact:phone": "+33 3 88 36 42 69",
+    "tags.contact:postcode": "67000",
+    "tags.contact:street": "Avenue des Vosges",
+    "tags.name": "Carrefour City",
+    "tags.opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-12:00",
+    "tags.operator": "JSRE",
+    "tags.shop": "supermarket",
+    "tags_new.note:address": "63 Avenue des Vosges, 67000 Strasbourg, France",
+    "tags_new.note:city": "Strasbourg",
+    "tags_new.note:name": "Carrefour City Strasbourg Vosges"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     7.6959277,
+     48.5891964
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 520270764,
+    "osm_type": "node",
+    "ref_coords": [
+     7.696039,
+     48.589283
+    ],
+    "ref_distance": 12.7,
+    "ref_id": "6",
+    "tags.brand": "Maxi Zoo",
+    "tags.brand:wikidata": "Q875796",
+    "tags.brand:wikipedia": "en:Fressnapf",
+    "tags.dog": "yes",
+    "tags.name": "Maxi Zoo",
+    "tags.opening_hours:covid19": "Mo-Sa 10:00-13:00,14:00-17:00",
+    "tags.shop": "pet",
+    "tags.source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "tags.source:opening_hours:covid19": "https://www.openstreetmap.org/note/2138096",
+    "tags_new.note:address": "38 Rue Charles Péguy, 67000 Strasbourg, France",
+    "tags_new.note:city": "Strasbourg",
+    "tags_new.note:comment": "Pour la nourritures des animaux de compagnie\nles horraires sont: 10h-13h / 14h-17h",
+    "tags_new.note:name": "Maxi Zoo Strasbourg"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     7.760687,
+     48.564507
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -6,
+    "osm_type": "node",
+    "ref_id": "2",
+    "tags.note:address": "113 Route du Polygone, 67100 Strasbourg, France",
+    "tags.note:city": "Strasbourg",
+    "tags.note:comment": "Chez Julien - 10 % durant toute l’épidémie sur la Boucherie Charcuterie Traiteur maison pour nous soutenir nous petit commerçant et préserver les 5 emplois.\n\nNous sommes ouvert à nos horaires habituels tout le long de l’épidémie covid 19 mais nous demandons à notre aimable clientèle de bien vouloir respecter une distance de 1 mètre entre chaque personne.",
+    "tags.note:name": "Boucherie Chez Julien"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     7.751891,
+     48.578735
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -7,
+    "osm_type": "node",
+    "ref_id": "3",
+    "tags.note:address": "8 Rue d'Austerlitz, 67000 Strasbourg, France",
+    "tags.note:city": "Strasbourg",
+    "tags.note:comment": "Nos boutiques-traiteur (vente à emporter et livraison à domicile) restent ouvertes et nous serions ravis de vous accueillir aux horaires suivants :\n Ouvert du lundi au jeudi de 10h à 20h / vendredi et samedi de 10h à 21h",
+    "tags.note:name": "Mavrommátis"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     7.7433305,
+     48.5862
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -8,
+    "osm_type": "node",
+    "ref_id": "5",
+    "tags.note:address": "6 Rue de Sébastopol, 67000 Strasbourg, France",
+    "tags.note:city": "Strasbourg",
+    "tags.note:comment": "Biocoop est consciente de la situation et se mobilise pour continuer à vous fournir des produits bio de consommation courante, tout en vous assurant les conditions de sécurité optimales durant vos courses (mesures d’hygiène et organisation du flux clients).",
+    "tags.note:name": "Biocoop"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}
